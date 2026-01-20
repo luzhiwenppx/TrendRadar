@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T22:37:48.035396+08:00",
-  "total_titles_processed": 1952,
+  "generated_at": "2026-01-20T23:37:49.769070+08:00",
+  "total_titles_processed": 2061,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时38分 ~ 22时37分]"
+          "appearance_count": 8,
+          "time_info": "[17时38分 ~ 23时37分]"
         },
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -312,6 +312,17 @@
           "time_info": "[12时10分 ~ 13时34分]"
         },
         {
+          "title": "奥特曼的“印钞机”与“吞金兽”：OpenAI年化营收超200亿美元背后的豪赌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32417139",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 23时37分]"
+        },
+        {
           "title": "据华尔街日报：OpenAI与ServiceNow达成协议，在商业软件中使用人工智能代理。",
           "url": "https://flash.jin10.com/detail/20260120204541894800",
           "source": "金十数据",
@@ -442,17 +453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
-        },
-        {
-          "title": "奥特曼的“印钞机”与“吞金兽”：OpenAI年化营收超200亿美元背后的豪赌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32417139",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
         },
         {
           "title": "泛欧交易所Euronext EQD PT122在欧洲中部时间（CET）15:18触发故障转移机制（failover mechanism）。",
