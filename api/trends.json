@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T06:28:31.480521+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-01-21T07:28:58.090116+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 07时28分]"
         },
         {
           "title": "英伟达对AI初创公司Baseten投资1.5亿美元，对后者的估值为50亿美元。（华尔街日报）",
@@ -35,6 +35,19 @@
           "time_info": "[02时46分 ~ 04时16分]"
         },
         {
+          "title": "上海中小学开设AI课程",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E8%AE%BEAI%E8%AF%BE%E7%A8%8B",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 07时28分]"
+        },
+        {
           "title": "惠誉：美国信用形势温和，AI、消费者、贸易问题都构成风险。",
           "url": "https://wallstreetcn.com/livenews/3040614",
           "source": "华尔街见闻-快讯",
@@ -45,18 +58,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 02时46分]"
-        },
-        {
-          "title": "上海中小学开设AI课程",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E8%AE%BEAI%E8%AF%BE%E7%A8%8B",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 06时28分]"
         },
         {
           "title": "ServiceNow 与OpenAI 达成合作 为期三年",
