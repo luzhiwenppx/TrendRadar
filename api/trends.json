@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T18:36:09.832309+08:00",
-  "total_titles_processed": 1647,
+  "generated_at": "2026-01-21T19:30:57.069891+08:00",
+  "total_titles_processed": 1748,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 39,
+      "match_count": 50,
       "titles": [
         {
           "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
@@ -30,11 +30,12 @@
             3,
             1,
             7,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时09分 ~ 18时36分]"
+          "appearance_count": 12,
+          "time_info": "[12时09分 ~ 19时30分]"
         },
         {
           "title": "【数读2025上海经济年报】GDP增长5.4%，集成电路、人工智能产业表现亮眼",
@@ -58,11 +59,12 @@
             7,
             10,
             13,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时34分 ~ 18时36分]"
+          "appearance_count": 11,
+          "time_info": "[13时34分 ~ 19时30分]"
         },
         {
           "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
@@ -72,8 +74,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时34分 ~ 18时36分]"
+          "appearance_count": 11,
+          "time_info": "[13时34分 ~ 19时30分]"
         },
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -82,11 +84,12 @@
           "ranks": [
             2,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 18时36分]"
+          "appearance_count": 7,
+          "time_info": "[16时39分 ~ 19时30分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-21）",
@@ -122,6 +125,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时39分 ~ 18时36分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
+          "url": "https://www.cls.cn/detail/2265232",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时35分 ~ 19时30分]"
         },
         {
           "title": "马斯克高调“复活”特斯拉Dojo3芯片项目，再度剑指“太空AI”！",
@@ -161,15 +176,15 @@
           "time_info": "[01时36分 ~ 02时46分]"
         },
         {
-          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
-          "url": "https://www.cls.cn/detail/2265232",
-          "source": "财联社热门",
+          "title": "中国的AI+经济",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%9A%84AI%2B%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
+          "time_info": "[19时29分 ~ 19时30分]"
         },
         {
           "title": "ServiceNow 与OpenAI 达成合作 为期三年",
@@ -181,6 +196,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "瑞银CEO：人工智能行业不会破产，但一些投资者会遭受损失，尤其是那些进行个股精选的投资者。",
+          "url": "https://flash.jin10.com/detail/20260121185931475800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时30分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能将有助于缩小发达经济体与新兴经济体之间的技术鸿沟。",
+          "url": "https://flash.jin10.com/detail/20260121185920177800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时30分"
         },
         {
           "title": "OpenAI披露其关于年龄预测的方式。 公司在ChatGPT消费者计划推出年龄预测。 未来数周，将在欧洲市场推出年龄预测功能。",
@@ -225,6 +262,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能正在提高生产力，促使各行各业的企业加大招聘力度。",
+          "url": "https://flash.jin10.com/detail/20260121185405679800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时30分"
         },
         {
           "title": "盖茨基金会和OpenAI计划投资5000万美元 资助非洲AI医疗",
@@ -277,7 +325,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -302,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "志特新材：截至目前，公司业务不涉及AI应用、人工智能、量子科技、机器人及商业航天领域，亦未形成相关收入。自上市以来，公司主营业务为铝模、防护平台、装配式预制件等产品的研发、生产与销售，未发生任何变化。",
+          "url": "https://wallstreetcn.com/livenews/3041233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时30分"
         },
         {
           "title": "AnthropicCEO：AI发展未来可能导致10%失业率 政府必须有所作为",
@@ -359,6 +418,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "英伟达CEO黄仁勋：人工智能是人类历史上规模最大的基础设施建设。",
+          "url": "https://flash.jin10.com/detail/20260121184937992800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时30分"
+        },
+        {
           "title": "韩国总统李在明：誓言要打击股市操纵行为。 韩国股市被低估。 无法对首尔综合指数作出预测。 股市出现分化是正常现象。 股市面临来自地缘政治和公司治理的风险，政治风险也是导致韩国股市折价的原因之一。 人工智能和半导体的繁荣是股市中的意外因素。 韩国股市正在走向正常化。",
           "url": "https://wallstreetcn.com/livenews/3040915",
           "source": "华尔街见闻-快讯",
@@ -370,15 +440,37 @@
           "time_info": "12时09分"
         },
         {
+          "title": "英伟达CEO黄仁勋：人工智能是一场“平台变革”。 需要建设数万亿美元规模的基础设施项目。 人工智能产业正在创造就业机会。 GPU租赁服务的现货价格正在上涨。",
+          "url": "https://wallstreetcn.com/livenews/3041219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时30分"
+        },
+        {
           "title": "沙特初创公司Humain：与Infra宣布达成人工智能和数字融资框架协议，同意探讨设立人工智能数据中心投资平台。",
           "url": "https://flash.jin10.com/detail/20260121175829190800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能产业正在创造就业机会。",
+          "url": "https://flash.jin10.com/detail/20260121184841870800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时30分"
         },
         {
           "title": "OpenAI：在ChatGPT上推出年龄预测功能，以帮助确定账户所有者是否可能未满18岁。",
@@ -403,6 +495,17 @@
           "time_info": "13时34分"
         },
         {
+          "title": "英伟达CEO黄仁勋：能源、半导体及其他人工智能应用领域已在经济上受益。",
+          "url": "https://flash.jin10.com/detail/20260121184659056800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时30分"
+        },
+        {
           "title": "G42的CEO Peng Xiao：预计阿联酋将在未来数月获得第一批由（由英伟达、Cerebras Inc.等供应的）高级AI芯片。",
           "url": "https://wallstreetcn.com/livenews/3040577",
           "source": "华尔街见闻-快讯",
@@ -420,9 +523,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能本质上是一个由“五层蛋糕”组成的架构，能够带动经济增长。人工智能的层级包括能源、芯片、基础设施、模型以及人工智能应用。由于跨行业经济效益，人工智能应用是最重要的一层。",
+          "url": "https://flash.jin10.com/detail/20260121184448101800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时30分"
         },
         {
           "title": "马斯克：人工智能是一场超音速海啸。",
@@ -431,9 +545,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：与以往的技术进步相比，人工智能更容易理解。",
+          "url": "https://flash.jin10.com/detail/20260121184354050800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时30分"
         },
         {
           "title": "郑钦文粉丝把AI天赋点满了",
@@ -517,7 +642,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -545,11 +670,12 @@
           "ranks": [
             13,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时34分 ~ 18时36分]"
+          "appearance_count": 9,
+          "time_info": "[15时34分 ~ 19时30分]"
         },
         {
           "title": "金十图示：2026年01月21日（周三）今日黄金饰品价格对比",
