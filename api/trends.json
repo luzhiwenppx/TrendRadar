@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T17:38:58.615870+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-01-22T18:35:19.217933+08:00",
+  "total_titles_processed": 1611,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,22 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[01时01分 ~ 14时42分]"
+        },
+        {
+          "title": "黄仁勋谈AI如何改变经济",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            9,
+            10,
+            11,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时12分 ~ 18时35分]"
         },
         {
           "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
@@ -53,6 +69,21 @@
           "time_info": "[01时01分 ~ 13时34分]"
         },
         {
+          "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
+          "url": "https://www.cls.cn/detail/2265956",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时34分 ~ 18时35分]"
+        },
+        {
           "title": "UP主带你玩转全球顶级AI现场",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
           "source": "bilibili 热搜",
@@ -66,19 +97,18 @@
           "time_info": "[01时01分 ~ 10时10分]"
         },
         {
-          "title": "黄仁勋谈AI如何改变经济",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
+          "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
+          "url": "https://www.cls.cn/detail/2266084",
+          "source": "财联社热门",
           "ranks": [
-            5,
+            13,
             9,
-            10,
-            11,
-            7
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时12分 ~ 17时38分]"
+          "appearance_count": 7,
+          "time_info": "[14时42分 ~ 18时35分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
@@ -93,21 +123,6 @@
           "time_info": "[01时01分 ~ 07时31分]"
         },
         {
-          "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
-          "url": "https://www.cls.cn/detail/2265956",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            7,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时34分 ~ 17时38分]"
-        },
-        {
           "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
           "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
           "source": "澎湃新闻",
@@ -119,20 +134,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 07时31分]"
-        },
-        {
-          "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
-          "url": "https://www.cls.cn/detail/2266084",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时42分 ~ 17时38分]"
         },
         {
           "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
@@ -333,7 +334,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         },
@@ -465,7 +466,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         },
@@ -592,11 +593,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 17时38分]"
+          "appearance_count": 6,
+          "time_info": "[15时32分 ~ 18时35分]"
         },
         {
           "title": "特朗普对贸易战“踩刹车” 马斯克据悉希望在7月前让SpaceX上市 | 环球市场",
