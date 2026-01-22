@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T00:43:06.493317+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-23T01:35:25.202812+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时35分]"
         },
         {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
           "url": "https://wallstreetcn.com/articles/3763860",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时35分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
@@ -36,7 +37,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
         },
@@ -47,7 +48,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
         },
@@ -58,7 +59,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
         }
@@ -76,8 +77,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时35分]"
         },
         {
           "title": "据知情人士透露，马斯克旗下太空探索公司SpaceX已经选定四家银行为其IPO做准备。 美国银行、高盛、摩根大通、摩根士丹利将在其IPO中发挥高级作用。 最近数周，SpaceX的高管们已经与银行家门开会。 其他银行可能也会参与其IPO。（英国金融时报）",
@@ -86,7 +87,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
         },
@@ -97,7 +98,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
         },
@@ -108,7 +109,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
         }
