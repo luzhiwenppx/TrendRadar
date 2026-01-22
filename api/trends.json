@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T06:29:36.407339+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-01-23T07:28:18.118949+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 07时28分]"
         },
         {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 07时28分]"
         },
         {
           "title": "英特尔四季度数据中心和AI营收47.4亿美元，预期44.2亿美元。预计一季度营收117亿-127亿美元，分析师预期125.6亿美元。",
@@ -141,6 +141,28 @@
           "time_info": "[03时30分 ~ 04时35分]"
         },
         {
+          "title": "韩国在全球率先施行涉AI指导性法律，相关细节引发国内业界担忧",
+          "url": "https://wallstreetcn.com/livenews/3042354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "头号重仓股易主，公募持续掘金AI主线",
+          "url": "https://wallstreetcn.com/livenews/3042350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
           "url": "https://wallstreetcn.com/livenews/3042190",
           "source": "华尔街见闻-快讯",
@@ -161,6 +183,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "英特尔(INTC.O)CEO陈立武：快速部署人工智能需要软件栈的创新。",
+          "url": "https://flash.jin10.com/detail/20260123060723901800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "咻咻满COS翻唱icantwait",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "OpenAI的CEO Altman：12月份，从API业务获得大约10亿美元ARR（年度可重复性收入/年度经常性收入）。",
@@ -191,7 +235,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         }
@@ -207,11 +251,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 07时28分]"
         },
         {
           "title": "马斯克：特斯拉人形机器人预计2027年底向公众销售",
@@ -306,6 +351,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3042361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         }
       ]
     }
