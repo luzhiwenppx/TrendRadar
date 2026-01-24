@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T22:25:36.160779+08:00",
-  "total_titles_processed": 1527,
+  "generated_at": "2026-01-24T23:26:09.890262+08:00",
+  "total_titles_processed": 1576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时01分 ~ 22时25分]"
+          "appearance_count": 17,
+          "time_info": "[12时01分 ~ 23时26分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -44,11 +44,12 @@
             5,
             4,
             24,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 13时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时37分 ~ 23时26分]"
         },
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
@@ -64,6 +65,37 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时37分 ~ 07时27分]"
+        },
+        {
+          "title": "iPhone Air官方价格暴跌2000元",
+          "url": "https://www.baidu.com/s?wd=iPhone+Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            4,
+            13,
+            18,
+            22,
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时33分 ~ 23时26分]"
+        },
+        {
+          "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
+          "url": "https://www.cls.cn/detail/2268603",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时33分 ~ 23时26分]"
         },
         {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
@@ -84,34 +116,16 @@
           "time_info": "[14时38分 ~ 22时25分]"
         },
         {
-          "title": "iPhone Air官方价格暴跌2000元",
-          "url": "https://www.baidu.com/s?wd=iPhone+Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83",
-          "source": "百度热搜",
+          "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
+          "url": "https://wallstreetcn.com/articles/3764072",
+          "source": "华尔街见闻",
           "ranks": [
-            28,
-            4,
-            13,
-            18,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时33分 ~ 22时25分]"
-        },
-        {
-          "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
-          "url": "https://www.cls.cn/detail/2268603",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
             10,
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时33分 ~ 22时25分]"
+          "appearance_count": 8,
+          "time_info": "[19时22分 ~ 23时26分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -121,23 +135,12 @@
             1,
             14,
             21,
-            29
+            29,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 17时27分]"
-        },
-        {
-          "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
-          "url": "https://wallstreetcn.com/articles/3764072",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时22分 ~ 22时25分]"
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 23时26分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -165,15 +168,15 @@
           "time_info": "[15时25分 ~ 20时51分]"
         },
         {
-          "title": "苹果一个月内多次促销 iPhone Air大降2500元",
-          "url": "https://flash.jin10.com/detail/20260124215336107800",
-          "source": "金十数据",
+          "title": "中国和东盟专家探讨人工智能发展与治理",
+          "url": "https://wallstreetcn.com/livenews/3043302",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时25分"
+          "time_info": "23时26分"
         },
         {
           "title": "IMF总裁警示AI裁员潮 入门级岗位首当其冲",
@@ -252,6 +255,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时30分 ~ 02时41分]"
+        },
+        {
+          "title": "苹果一个月内多次促销 iPhone Air大降2500元",
+          "url": "https://flash.jin10.com/detail/20260124215336107800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 23时26分]"
         },
         {
           "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
