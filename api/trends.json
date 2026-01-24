@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T06:25:44.522062+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-01-25T07:25:20.538918+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "中国和东盟专家探讨人工智能发展与治理",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -37,11 +38,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -50,11 +52,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -66,11 +69,12 @@
             25,
             16,
             13,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
@@ -80,8 +84,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -92,11 +96,12 @@
             18,
             25,
             28,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 05时23分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时25分]"
         },
         {
           "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
@@ -141,8 +146,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时25分]"
         }
       ]
     }
