@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T18:28:22.658547+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2026-01-25T19:23:05.889877+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 18时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 19时23分]"
+        },
+        {
+          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
+          "url": "https://www.zhihu.com/question/1998457273891120214",
+          "source": "知乎",
+          "ranks": [
+            16,
+            7,
+            2,
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时17分 ~ 19时23分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -36,19 +51,29 @@
           "time_info": "[00时31分 ~ 12时17分]"
         },
         {
-          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
-          "url": "https://www.zhihu.com/question/1998457273891120214",
-          "source": "知乎",
+          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
+          "url": "https://wallstreetcn.com/articles/3764092",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
-            7,
-            2,
-            1,
-            12
+            10,
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[12时17分 ~ 18时28分]"
+          "time_info": "[14时39分 ~ 19时23分]"
+        },
+        {
+          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
+          "url": "https://www.cls.cn/detail/2268582",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时17分 ~ 19时23分]"
         },
         {
           "title": "中国和东盟专家探讨人工智能发展与治理",
@@ -64,16 +89,40 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
-          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
-          "url": "https://www.cls.cn/detail/2268582",
-          "source": "财联社热门",
+          "title": "北京市将加强全学段人工智能赋能教育",
+          "url": "https://wallstreetcn.com/livenews/3043344",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            1,
             9,
-            7
+            12,
+            13,
+            17,
+            19,
+            21,
+            26
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[12时17分 ~ 18时28分]"
+          "time_info": "[10时22分 ~ 19时23分]"
+        },
+        {
+          "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
+          "url": "https://wallstreetcn.com/livenews/3043343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            13,
+            14,
+            18,
+            20,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时22分 ~ 19时23分]"
         },
         {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
@@ -119,51 +168,16 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
-          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
-          "url": "https://wallstreetcn.com/articles/3764092",
-          "source": "华尔街见闻",
+          "title": "帅弟弟逐渐量产 AI霸总围猎姐姐们",
+          "url": "https://www.baidu.com/s?wd=%E5%B8%85%E5%BC%9F%E5%BC%9F%E9%80%90%E6%B8%90%E9%87%8F%E4%BA%A7+AI%E9%9C%B8%E6%80%BB%E5%9B%B4%E7%8C%8E%E5%A7%90%E5%A7%90%E4%BB%AC",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            6,
-            4
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时39分 ~ 18时28分]"
-        },
-        {
-          "title": "北京市将加强全学段人工智能赋能教育",
-          "url": "https://wallstreetcn.com/livenews/3043344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            12,
-            13,
-            17,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时22分 ~ 18时28分]"
-        },
-        {
-          "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
-          "url": "https://wallstreetcn.com/livenews/3043343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            13,
-            14,
-            18,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时22分 ~ 18时28分]"
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 19时23分]"
         },
         {
           "title": "如何看待开源项目 vLLM 和 SGLang 团队纷纷创立公司？商业化将给项目和 Infra 行业带来哪些影响？",
@@ -203,18 +217,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 05时23分]"
-        },
-        {
-          "title": "帅弟弟逐渐量产 AI霸总围猎姐姐们",
-          "url": "https://www.baidu.com/s?wd=%E5%B8%85%E5%BC%9F%E5%BC%9F%E9%80%90%E6%B8%90%E9%87%8F%E4%BA%A7+AI%E9%9C%B8%E6%80%BB%E5%9B%B4%E7%8C%8E%E5%A7%90%E5%A7%90%E4%BB%AC",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 18时28分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -277,11 +279,12 @@
           "ranks": [
             4,
             6,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 19时23分]"
         }
       ]
     },
