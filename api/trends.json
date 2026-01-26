@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T17:40:50.913570+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-01-26T18:33:50.139500+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
@@ -74,6 +74,20 @@
           "time_info": "[00时32分 ~ 12时19分]"
         },
         {
+          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
+          "url": "https://www.zhihu.com/question/1998735057154744752",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时46分 ~ 18时33分]"
+        },
+        {
           "title": "“达沃斯论AI”结语：2026年能源需求和基建将继续狂飙，核能备受关注！",
           "url": "https://www.cls.cn/detail/2269090",
           "source": "财联社热门",
@@ -102,17 +116,19 @@
           "time_info": "[00时32分 ~ 06时26分]"
         },
         {
-          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
-          "url": "https://www.zhihu.com/question/1998735057154744752",
-          "source": "知乎",
+          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            4,
-            11
+            13,
+            12,
+            11,
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时46分 ~ 17时40分]"
+          "appearance_count": 7,
+          "time_info": "[13时36分 ~ 18时33分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-26）",
@@ -126,20 +142,6 @@
           "time_info": "12时19分"
         },
         {
-          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时36分 ~ 17时40分]"
-        },
-        {
           "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
           "url": "https://www.cls.cn/detail/2269386",
           "source": "财联社热门",
@@ -150,8 +152,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时46分 ~ 17时40分]"
+          "appearance_count": 5,
+          "time_info": "[14时46分 ~ 18时33分]"
         },
         {
           "title": "人工智能引发的内存短缺迫使汽车制造商重新设计半导体",
@@ -337,8 +339,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时19分 ~ 17时40分]"
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 18时33分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -348,11 +350,12 @@
             6,
             13,
             17,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时19分 ~ 17时40分]"
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 18时33分]"
         },
         {
           "title": "湖南黄金：预计2025年度净利润12.70亿元-16.08亿元，同比增长50%-90%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
