@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T14:43:47.034430+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-01-27T15:33:50.677236+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -41,11 +41,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时41分 ~ 14时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时41分 ~ 15时33分]"
         },
         {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
@@ -81,8 +82,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时43分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时33分]"
         },
         {
           "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
@@ -94,8 +95,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时12分 ~ 14时43分]"
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 15时33分]"
+        },
+        {
+          "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466140",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 15时33分]"
         },
         {
           "title": "EDA巨头：AI基建吞噬世界产能 存储芯片紧缺或持续到明年",
@@ -107,18 +120,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时12分 ~ 12时11分]"
-        },
-        {
-          "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466140",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时12分 ~ 14时43分]"
         },
         {
           "title": "我国将出台应对人工智能影响促就业文件",
@@ -144,6 +145,19 @@
           "time_info": "[13时33分 ~ 14时43分]"
         },
         {
+          "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
+          "url": "https://www.cls.cn/detail/2270597",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时33分]"
+        },
+        {
           "title": "贝克休斯公司表示，受人工智能运行所需电力需求激增的影响，该公司计划在三年内将数据中心设备订单目标提高一倍，达到30亿美元。",
           "url": "https://flash.jin10.com/detail/20260127021009672800",
           "source": "金十数据",
@@ -167,18 +181,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时12分 ~ 13时33分]"
-        },
-        {
-          "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
-          "url": "https://www.cls.cn/detail/2270597",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时43分]"
         },
         {
           "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
@@ -229,6 +231,18 @@
           "time_info": "[10时12分 ~ 12时11分]"
         },
         {
+          "title": "AI承诺内容有误赔偿10万 用户起诉",
+          "url": "https://www.baidu.com/s?wd=AI%E6%89%BF%E8%AF%BA%E5%86%85%E5%AE%B9%E6%9C%89%E8%AF%AF%E8%B5%94%E5%81%BF10%E4%B8%87+%E7%94%A8%E6%88%B7%E8%B5%B7%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 15时33分]"
+        },
+        {
           "title": "微软推出最新人工智能芯片，以减少对英伟达的依赖",
           "url": "https://flash.jin10.com/detail/20260127001205542800",
           "source": "金十数据",
@@ -273,6 +287,17 @@
           "time_info": "10时12分"
         },
         {
+          "title": "英伟达20亿美元投资AI云服务厂商 算力紧缺推动云计算定价逻辑转变",
+          "url": "https://www.cls.cn/detail/2270515",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "巨额红包“助燃”，机构看好AI应用方向投资机遇",
           "url": "https://wallstreetcn.com/livenews/3044230",
           "source": "华尔街见闻-快讯",
@@ -282,17 +307,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
-        },
-        {
-          "title": "AI承诺内容有误赔偿10万 用户起诉",
-          "url": "https://www.baidu.com/s?wd=AI%E6%89%BF%E8%AF%BA%E5%86%85%E5%AE%B9%E6%9C%89%E8%AF%AF%E8%B5%94%E5%81%BF10%E4%B8%87+%E7%94%A8%E6%88%B7%E8%B5%B7%E8%AF%89",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时43分"
         },
         {
           "title": "“流量战”再打响 元宝要重现11年前微信红包盛况 马化腾正亲自内测AI新“大招”",
@@ -345,7 +359,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -356,9 +370,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "港股AIGC概念股持续拉升，Minimax-WP涨超21%，金山云涨近10%，智谱涨4.5%，阿里巴巴涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3044512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         },
         {
           "title": "Anthropic：受英国科学、创新和技术部委托，为gov.uk网站构建并试点专用人工智能助手。",
@@ -367,7 +392,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
