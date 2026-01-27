@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T05:24:23.335717+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-01-28T06:28:33.973957+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 06时28分]"
         },
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 06时28分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 06时28分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
@@ -52,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 06时28分]"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
@@ -177,7 +177,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         }
@@ -196,8 +196,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 06时28分]"
         }
       ]
     },
