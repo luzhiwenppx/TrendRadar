@@ -1,34 +1,36 @@
 {
-  "generated_at": "2026-01-27T07:28:57.680259+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-01-27T10:12:31.502844+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 12,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "阶跃星辰印奇谈AI商业化",
-          "url": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%E5%8D%B0%E5%A5%87%E8%B0%88AI%E5%95%86%E4%B8%9A%E5%8C%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时28分]"
-        },
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
           "url": "https://wallstreetcn.com/articles/3764155",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 10时12分]"
+        },
+        {
+          "title": "阶跃星辰印奇谈AI商业化",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%E5%8D%B0%E5%A5%87%E8%B0%88AI%E5%95%86%E4%B8%9A%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 10时12分]"
         },
         {
           "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
@@ -39,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 10时12分]"
         },
         {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
@@ -66,6 +68,28 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时41分 ~ 07时28分]"
+        },
+        {
+          "title": "我国将出台应对人工智能影响促就业文件",
+          "url": "https://wallstreetcn.com/livenews/3044348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "EDA巨头：AI基建吞噬世界产能 存储芯片紧缺或持续到明年",
+          "url": "https://www.cls.cn/detail/2270449",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "贝克休斯公司表示，受人工智能运行所需电力需求激增的影响，该公司计划在三年内将数据中心设备订单目标提高一倍，达到30亿美元。",
@@ -115,6 +139,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
+          "url": "https://wallstreetcn.com/articles/3764198",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
           "title": "微软(MSFT.O)：推出MAIA 200芯片，这是一款基于台积电3纳米工艺打造的AI推理加速器。MAIA 200 将服务于多种人工智能模型，包括来自OpenAI的最新 GPT-5.2 模型。",
           "url": "https://flash.jin10.com/detail/20260127000150023800",
           "source": "金十数据",
@@ -126,15 +161,70 @@
           "time_info": "00时41分"
         },
         {
+          "title": "百度智能云上调AI相关收入增速目标至200%，全力冲刺抢AI云第一",
+          "url": "https://wallstreetcn.com/livenews/3044335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "拳打亚马逊、脚踢谷歌TPU 微软发布新一代AI加速器Maia 200",
+          "url": "https://www.cls.cn/detail/2270429",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
           "title": "巨额红包“助燃”，机构看好AI应用方向投资机遇",
           "url": "https://wallstreetcn.com/livenews/3044230",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "“流量战”再打响 元宝要重现11年前微信红包盛况 马化腾正亲自内测AI新“大招”",
+          "url": "https://www.cls.cn/detail/2270277",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "AI 霸总「围猎」老年女性，婚介机构借此引流、老人被骗上千元学电商，类似情况为何屡禁不止？监管难在哪？",
+          "url": "https://www.zhihu.com/question/1998804557132690728",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466140",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "中国造出全球80%的AI眼镜",
