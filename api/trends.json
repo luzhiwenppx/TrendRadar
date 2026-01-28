@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T21:02:25.305262+08:00",
-  "total_titles_processed": 1876,
+  "generated_at": "2026-01-28T22:37:34.914498+08:00",
+  "total_titles_processed": 2007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 54,
+      "match_count": 57,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时33分 ~ 21时02分]"
+          "appearance_count": 12,
+          "time_info": "[13时33分 ~ 22时37分]"
         },
         {
           "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
@@ -57,8 +57,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时07分 ~ 21时02分]"
+          "appearance_count": 15,
+          "time_info": "[10时07分 ~ 22时37分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -121,8 +121,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 21时02分]"
+          "appearance_count": 7,
+          "time_info": "[16时40分 ~ 22时37分]"
         },
         {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
@@ -136,6 +136,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时28分 ~ 13时34分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将推出Ads Decoded播客，旨在让广告主直接与打造 Google Ads 的团队成员建立联系。",
+          "url": "https://flash.jin10.com/detail/20260128220815725800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "阿斯麦(ASML.O)CEO：2026年可能有更多EUV（极紫外光刻）设备出货。对先进AI芯片的需求巨大且不断增长。",
@@ -213,11 +224,25 @@
           "ranks": [
             27,
             23,
-            12
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时35分 ~ 22时37分]"
+        },
+        {
+          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
+          "url": "https://www.cls.cn/detail/2272560",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时35分 ~ 21时02分]"
+          "time_info": "[18时35分 ~ 22时37分]"
         },
         {
           "title": "人工智能发展到什么阶段了",
@@ -232,6 +257,18 @@
           "time_info": "[13时33分 ~ 16时40分]"
         },
         {
+          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
+          "url": "https://www.zhihu.com/question/1999415789258826467",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时37分]"
+        },
+        {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
           "url": "https://flash.jin10.com/detail/20260128021217733800",
           "source": "金十数据",
@@ -244,6 +281,17 @@
           "time_info": "[02时47分 ~ 03时32分]"
         },
         {
+          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764353",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时37分]"
+        },
+        {
           "title": "OpenAI：PRISM将很快面向使用ChatGPT商业版、团队版、企业版和教育版计划的组织开放。",
           "url": "https://flash.jin10.com/detail/20260128021207935800",
           "source": "金十数据",
@@ -254,18 +302,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 03时32分]"
-        },
-        {
-          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
-          "url": "https://www.cls.cn/detail/2272560",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 21时02分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -370,17 +406,6 @@
           "time_info": "01时34分"
         },
         {
-          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
-          "url": "https://www.zhihu.com/question/1999415789258826467",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
           "title": "谷歌(GOOG.O)：（就英国竞争与市场管理局的搜索提案）任何新的监管措施都必须“避免导致用户搜索体验碎片化或混乱”。",
           "url": "https://flash.jin10.com/detail/20260128181107541800",
           "source": "金十数据",
@@ -403,17 +428,6 @@
           "time_info": "19时28分"
         },
         {
-          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764353",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
           "title": "谷歌对英国竞争与市场管理局的搜索提案持乐观态度，认为双方有望找到前进之路。",
           "url": "https://flash.jin10.com/detail/20260128181013024800",
           "source": "金十数据",
@@ -423,6 +437,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "刘强东给老家建了间AI教室",
+          "url": "https://news.ifeng.com/c/8qHvWO6SnwI",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "阿斯麦(ASML.O)首席执行官：这主要基于对人工智能相关需求可持续性的更稳健预期。",
@@ -511,6 +536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "电池回收与储能初创公司Redwood Materials Inc.按超过60亿美元的估值融资4.25亿美元，原拟募集3.5亿美元。 这家由特斯拉联合创始人JB Straubel主导的公司新增Alphabet旗下谷歌公司为投资者。",
+          "url": "https://wallstreetcn.com/livenews/3045639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "SK海力士将在美国设立专注于人工智能解决方案的分支机构。",
@@ -670,11 +706,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            6
+            6,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时39分 ~ 19时28分]"
+          "appearance_count": 5,
+          "time_info": "[17时39分 ~ 22时37分]"
         },
         {
           "title": "四川黄金：若未来黄金价格大幅波动，将给经营业绩带来较大影响",
