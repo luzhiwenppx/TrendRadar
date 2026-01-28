@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T19:28:39.602996+08:00",
-  "total_titles_processed": 1730,
+  "generated_at": "2026-01-28T21:02:25.305262+08:00",
+  "total_titles_processed": 1876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -40,11 +40,12 @@
           "ranks": [
             6,
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时33分 ~ 19时28分]"
+          "appearance_count": 11,
+          "time_info": "[13时33分 ~ 21时02分]"
         },
         {
           "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
@@ -52,11 +53,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时07分 ~ 19时28分]"
+          "appearance_count": 14,
+          "time_info": "[10时07分 ~ 21时02分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -101,11 +103,26 @@
             13,
             10,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时43分 ~ 19时28分]"
+          "appearance_count": 9,
+          "time_info": "[14时43分 ~ 21时02分]"
+        },
+        {
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 21时02分]"
         },
         {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
@@ -155,19 +172,6 @@
           "time_info": "18时35分"
         },
         {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时40分 ~ 19时28分]"
-        },
-        {
           "title": "马云：孩子不应和AI比拼计算和记忆",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
           "source": "百度热搜",
@@ -201,6 +205,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时09分 ~ 17时40分]"
+        },
+        {
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            23,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时02分]"
         },
         {
           "title": "人工智能发展到什么阶段了",
@@ -237,6 +254,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 03时32分]"
+        },
+        {
+          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
+          "url": "https://www.cls.cn/detail/2272560",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 21时02分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -297,18 +326,6 @@
           "time_info": "[00时37分 ~ 00时38分]"
         },
         {
-          "title": "AI将替代9200万工作岗位",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时28分]"
-        },
-        {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
           "url": "https://flash.jin10.com/detail/20260128010307000800",
           "source": "金十数据",
@@ -353,6 +370,17 @@
           "time_info": "01时34分"
         },
         {
+          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
+          "url": "https://www.zhihu.com/question/1999415789258826467",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "谷歌(GOOG.O)：（就英国竞争与市场管理局的搜索提案）任何新的监管措施都必须“避免导致用户搜索体验碎片化或混乱”。",
           "url": "https://flash.jin10.com/detail/20260128181107541800",
           "source": "金十数据",
@@ -370,9 +398,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764353",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "谷歌对英国竞争与市场管理局的搜索提案持乐观态度，认为双方有望找到前进之路。",
@@ -425,20 +464,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
-          "url": "https://www.cls.cn/detail/2272560",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时35分"
+          "time_info": "19时28分"
         },
         {
           "title": "【但斌91亿元的美股持仓出炉 谷歌取代英伟达成第一重仓股】据私募排排网，美国证券交易委员会(SEC)官网披露了但斌掌舵的东方港湾旗下海外基金2025年四季度的美股持仓数据。数据显示，2025年末东方港湾共持有10只美股标的，持股市值合计13.16亿美元，折合人民币超91亿元，相比2025年三季度末约12.92亿美元的持股市值略有增长。四季度，东方港湾清仓了Coinbase、奈飞、AsteraLabs、BitMineImmersionTechnologies、博通、台积电等美股标的。此外，变化较大的是，谷歌取代英伟达，跃升为东方港湾的第一大重仓股。",
@@ -655,7 +683,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         }
