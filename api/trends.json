@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T06:33:25.523926+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-01-29T07:32:00.958827+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时32分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
@@ -26,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时32分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -41,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时32分]"
         },
         {
           "title": "AI将替代9200万工作岗位",
@@ -53,11 +54,12 @@
             13,
             9,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时32分]"
         },
         {
           "title": "刘强东给老家建了间AI教室",
@@ -67,8 +69,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时32分]"
         },
         {
           "title": "马云谈AI时代教育",
@@ -78,19 +80,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时33分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
-          "url": "https://wallstreetcn.com/livenews/3045867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时32分]"
         },
         {
           "title": "特斯拉与XAI框架达成协议，评估人工智能合作。",
@@ -104,15 +95,15 @@
           "time_info": "05时35分"
         },
         {
-          "title": "从技术突破到价值落地，智能体开启AI进化新格局",
-          "url": "https://wallstreetcn.com/livenews/3045866",
-          "source": "华尔街见闻-快讯",
+          "title": "一位前OpenAI高级研究员创办了一家新的人工智能初创公司，目标是筹集高达10亿美元的资金。",
+          "url": "https://flash.jin10.com/detail/20260129071859575800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时33分"
+          "time_info": "07时32分"
         },
         {
           "title": "前高盛贵金属业务主管Binet-Laisne加盟Mercuria。",
@@ -124,6 +115,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3045867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时32分]"
+        },
+        {
+          "title": "从技术突破到价值落地，智能体开启AI进化新格局",
+          "url": "https://wallstreetcn.com/livenews/3045866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时32分]"
         },
         {
           "title": "特斯拉：CyberCab、Semi、Megapack3都处于2026年规划的正轨之上。 将在多个产品铺开六条新的产品线。 公司将投资20亿美元，购买xAI的系列E优先股；特斯拉与xAI就此达成框架协议。 Cybercab和特斯拉Semi有望在2026年量产，Megapack3也有望在今年量产。 人形机器人Optimus第一代产品线正在铺设中。",
@@ -149,6 +164,18 @@
           "time_info": "[00时44分 ~ 00时45分]"
         },
         {
+          "title": "Meta Platforms的CEO扎克伯格：未来的那些AI机会包括广告和订阅。",
+          "url": "https://wallstreetcn.com/livenews/3045861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时32分]"
+        },
+        {
           "title": "特斯拉将投资20亿美元购买XAI公司的E系列优先股。",
           "url": "https://flash.jin10.com/detail/20260129051210358800",
           "source": "金十数据",
@@ -166,9 +193,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "三星：公司将在Galaxy S26系列产品提供Agentic AI功能。",
+          "url": "https://wallstreetcn.com/livenews/3045880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "OpenAI至少从编码初创公司Cline招聘了七名员工。",
+          "url": "https://flash.jin10.com/detail/20260129071311535800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "鲍威尔：短期内可能会看到人工智能（AI）消除就业岗位/AI导致岗位被淘汰。",
@@ -180,17 +229,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
-        },
-        {
-          "title": "Meta Platforms的CEO扎克伯格：未来的那些AI机会包括广告和订阅。",
-          "url": "https://wallstreetcn.com/livenews/3045861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
@@ -279,13 +317,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "特斯拉首席财务官：公司在人工智能相关项目和新产品的支出仍处于较高水平。",
+          "url": "https://flash.jin10.com/detail/20260129065025610800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         }
       ]
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 2,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "马斯克：特斯拉“有望”在4月份首发下一代Roadster。",
+          "url": "https://wallstreetcn.com/livenews/3045887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
         {
           "title": "报道：SpaceX上市时间可能定在6月以契合天象及马斯克生日",
           "url": "https://wallstreetcn.com/livenews/3045700",
@@ -308,6 +368,94 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：不打算在特斯拉之外销售芯片，因为我们需要它们。",
+          "url": "https://flash.jin10.com/detail/20260129071338403800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：预计Optimus的大规模量产可能要到今年年底才能实现。",
+          "url": "https://flash.jin10.com/detail/20260129070735901800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：公司目前没有裁员计划。",
+          "url": "https://flash.jin10.com/detail/20260129070733109800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：预计随着时间的推移，将增加弗里蒙特工厂的员工人数。",
+          "url": "https://flash.jin10.com/detail/20260129070731400800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "马斯克：2026年将是“资本开支非常庞大的一年”。",
+          "url": "https://wallstreetcn.com/livenews/3045872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "提醒：特斯拉电话会开始，马斯克发表开场白讲话。",
+          "url": "https://wallstreetcn.com/livenews/3045871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：预计将于4月推出下一代Roadster跑车。",
+          "url": "https://flash.jin10.com/detail/20260129070055526800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：从长远来看，特斯拉每年生产的Cyber Cabs数量将超过其所有其他车型加起来的总和。",
+          "url": "https://flash.jin10.com/detail/20260129065749945800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         }
       ]
     },
@@ -324,8 +472,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时32分]"
         }
       ]
     }
