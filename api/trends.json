@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T19:34:42.441101+08:00",
-  "total_titles_processed": 1754,
+  "generated_at": "2026-01-30T21:06:54.695217+08:00",
+  "total_titles_processed": 1883,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时32分 ~ 19时34分]"
+          "appearance_count": 14,
+          "time_info": "[07时32分 ~ 21时06分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -70,11 +70,12 @@
             7,
             6,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时45分 ~ 19时34分]"
+          "appearance_count": 12,
+          "time_info": "[12时45分 ~ 21时06分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -89,11 +90,12 @@
             15,
             16,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时51分 ~ 19时34分]"
+          "appearance_count": 23,
+          "time_info": "[00时51分 ~ 21时06分]"
         },
         {
           "title": "SpaceX被曝拟合并xAI",
@@ -121,8 +123,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时29分 ~ 19时34分]"
+          "appearance_count": 13,
+          "time_info": "[10时29分 ~ 21时06分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -194,7 +196,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -205,7 +207,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -526,7 +528,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
