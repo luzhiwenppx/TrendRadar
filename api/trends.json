@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T10:50:07.485228+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-02-01T13:06:11.864566+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
@@ -55,8 +55,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 10时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 13时06分]"
         },
         {
           "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
@@ -139,11 +139,12 @@
           "url": "https://www.zhihu.com/question/2000979139897811762",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 13时06分]"
         },
         {
           "title": "雄安发布“极数”数据大模型，加速构建“人工智能+”创新生态",
@@ -173,11 +174,34 @@
           "url": "https://wallstreetcn.com/articles/3764648",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 13时06分]"
+        },
+        {
+          "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
+          "url": "https://wallstreetcn.com/articles/3764665",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
+          "time_info": "[13时05分 ~ 13时06分]"
+        },
+        {
+          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
+          "url": "https://wallstreetcn.com/articles/3764675",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 13时06分]"
         },
         {
           "title": "沈腾 不方便的话全让AI说了",
@@ -194,7 +218,7 @@
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "爆“马斯克曾试图前往爱泼斯坦小岛”，马斯克回应",
@@ -205,8 +229,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 10时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 13时06分]"
         },
         {
           "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
@@ -217,8 +241,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 10时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 13时06分]"
         },
         {
           "title": "美司法部公布文件爆“马斯克曾协调个人日程试图前往爱泼斯坦小岛”，马斯克最新回应",
@@ -231,6 +255,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时36分 ~ 04时32分]"
+        },
+        {
+          "title": "爱泼斯坦邮件继续爆大料：盖茨“向妻子隐瞒性病”，马斯克多次询问“上岛”",
+          "url": "https://wallstreetcn.com/articles/3764666",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 13时06分]"
+        },
+        {
+          "title": "马斯克也转了！SpaceX申请部署100万颗卫星",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32508583",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 13时06分]"
         }
       ]
     }
