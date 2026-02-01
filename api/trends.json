@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T07:29:20.148831+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-02-01T10:50:07.485228+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
@@ -34,6 +34,18 @@
           "time_info": "[00时36分 ~ 07时29分]"
         },
         {
+          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
+          "url": "https://wallstreetcn.com/articles/3764643",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时32分 ~ 10时50分]"
+        },
+        {
           "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
           "url": "https://www.cls.cn/detail/2275533",
           "source": "财联社热门",
@@ -43,8 +55,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时50分]"
         },
         {
           "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
@@ -123,15 +135,15 @@
           "time_info": "[00时36分 ~ 07时29分]"
         },
         {
-          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
-          "url": "https://wallstreetcn.com/articles/3764643",
-          "source": "华尔街见闻",
+          "title": "SpaceX 申请发射百万颗卫星，建太空 AI 数据中心，为何硅谷巨头都热衷建太空 AI 数据中心？",
+          "url": "https://www.zhihu.com/question/2000979139897811762",
+          "source": "知乎",
           "ranks": [
-            10
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时32分 ~ 07时29分]"
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 10时50分]"
         },
         {
           "title": "雄安发布“极数”数据大模型，加速构建“人工智能+”创新生态",
@@ -157,13 +169,24 @@
           "time_info": "[05时27分 ~ 07时29分]"
         },
         {
+          "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
+          "url": "https://wallstreetcn.com/articles/3764648",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 10时50分]"
+        },
+        {
           "title": "沈腾 不方便的话全让AI说了",
           "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E4%B8%8D%E6%96%B9%E4%BE%BF%E7%9A%84%E8%AF%9D%E5%85%A8%E8%AE%A9AI%E8%AF%B4%E4%BA%86&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         }
@@ -178,11 +201,12 @@
           "url": "https://news.ifeng.com/c/8qMn5bUH1gz",
           "source": "凤凰网",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时50分]"
         },
         {
           "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
@@ -193,8 +217,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时50分]"
         },
         {
           "title": "美司法部公布文件爆“马斯克曾协调个人日程试图前往爱泼斯坦小岛”，马斯克最新回应",
