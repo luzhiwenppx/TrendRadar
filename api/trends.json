@@ -1,507 +1,67 @@
 {
-  "generated_at": "2026-02-02T23:43:39.216132+08:00",
-  "total_titles_processed": 1710,
+  "generated_at": "2026-02-03T00:49:44.595881+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 27,
+      "match_count": 2,
       "titles": [
         {
-          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
-          "url": "https://wallstreetcn.com/articles/3764675",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时32分]"
-        },
-        {
-          "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
-          "url": "https://wallstreetcn.com/articles/3764656",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时36分 ~ 19时40分]"
-        },
-        {
-          "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
-          "url": "https://www.cls.cn/detail/2276797",
+          "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
+          "url": "https://www.cls.cn/detail/2278216",
           "source": "财联社热门",
           "ranks": [
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 10时39分]"
-        },
-        {
-          "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
-          "url": "https://wallstreetcn.com/articles/3764694",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时36分 ~ 17时58分]"
+          "appearance_count": 1,
+          "time_info": "00时49分"
         },
         {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
           "source": "澎湃新闻",
           "ranks": [
-            13,
-            15,
-            14,
-            12,
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时09分 ~ 23时43分]"
-        },
-        {
-          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
-          "url": "https://www.cls.cn/detail/2277020",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时39分 ~ 16时53分]"
-        },
-        {
-          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
-          "url": "https://wallstreetcn.com/livenews/3047808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时31分]"
-        },
-        {
-          "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
-          "url": "https://wallstreetcn.com/livenews/3047799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时31分]"
-        },
-        {
-          "title": "迪士尼首席执行官：仍在“梳理OpenAI交易的所有技术细节”。",
-          "url": "https://flash.jin10.com/detail/20260202221537167800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "AI圈爆火的OpenClaw是个啥",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84OpenClaw%E6%98%AF%E4%B8%AA%E5%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "消息人士称，SpaceX最早可能在本周宣布与XAI的协议。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3048331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "迪士尼首席执行官：迪士尼希望与OpenAI的交易能推动其在Disney+上提供短视频的能力。",
-          "url": "https://flash.jin10.com/detail/20260202220631439800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "微软两日蒸发3810亿美元市值 揭示人工智能投资浪潮开始分化",
-          "url": "https://wallstreetcn.com/livenews/3048226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时58分]"
-        },
-        {
-          "title": "卡塔尔能源首席执行官：如果欧洲对液化天然气的需求、数据中心和人工智能发展一切顺利，到2030年液化天然气将出现短缺，而非供应过剩。",
-          "url": "https://flash.jin10.com/detail/20260202183736296800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 19时40分]"
-        },
-        {
-          "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
-          "url": "https://www.cls.cn/detail/2278216",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时46分 ~ 23时43分]"
-        },
-        {
-          "title": "北京大学与中国铁塔合作 推动AI产教融合",
-          "url": "https://wallstreetcn.com/livenews/3048300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 19时40分]"
-        },
-        {
-          "title": "Snowflake盘前上涨2.6%，此前该公司与OpenAI达成2亿美元的合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260202220614192800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "国家人工智能产业投资基金入股芯片研发商新芯航途",
-          "url": "https://wallstreetcn.com/livenews/3048057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "Snowflake与OpenAI达成2亿美元、持续多年的合作伙伴关系。 双方将共同开发企业级AI解决方案。",
-          "url": "https://wallstreetcn.com/livenews/3048404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "爆火 AI 助手 OpenClaw 有哪些独特之处？会给哪些职业带来冲击？",
-          "url": "https://www.zhihu.com/question/2001071694169793308",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "快手将对“AI魔改”视频展开常态化治理",
-          "url": "https://wallstreetcn.com/livenews/3048203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "多平台公布涉“AI魔改”违规视频最终处置结果",
-          "url": "https://wallstreetcn.com/livenews/3048290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "为什么律师不会完全被 AI 取代？",
-          "url": "https://www.zhihu.com/question/452243069",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "消息称马斯克推进SpaceX、xAI合并，最快本周达成协议",
-          "url": "https://flash.jin10.com/detail/20260202204430933800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "腾讯打响AI社交第一枪",
-          "url": "https://www.toutiao.com/trending/7602143575987785257/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "小鹏全球首款AI汽车正式开启海外大规模发运",
-          "url": "https://wallstreetcn.com/livenews/3047966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "蚂蚁CEO发布内部信，加大对AI“开创性贡献”激励力度",
-          "url": "https://wallstreetcn.com/livenews/3048193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "萝莉岛兽行曝光,马斯克急撇清",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350003&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%85%BD%E8%A1%8C%E6%9B%9D%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%80%A5%E6%92%87%E6%B8%85",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4,
-            7,
-            9,
-            14,
-            15,
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时31分 ~ 23时43分]"
-        },
-        {
-          "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3764683",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 15时09分]"
-        },
-        {
-          "title": "马斯克回应曾试图前往爱泼斯坦小岛",
-          "url": "https://www.toutiao.com/trending/7601314667331846194/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时32分]"
-        },
-        {
-          "title": "马斯克暗示克林顿盖茨等人有罪",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9A%97%E7%A4%BA%E5%85%8B%E6%9E%97%E9%A1%BF%E7%9B%96%E8%8C%A8%E7%AD%89%E4%BA%BA%E6%9C%89%E7%BD%AA%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "马斯克再次否认：我没去，是极左翼宣传者的反击",
-          "url": "https://news.ifeng.com/c/8qPmOlBP1jc",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时09分 ~ 17时58分]"
-        },
-        {
-          "title": "马斯克发现岛上是少女派对果断离开",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%91%E7%8E%B0%E5%B2%9B%E4%B8%8A%E6%98%AF%E5%B0%91%E5%A5%B3%E6%B4%BE%E5%AF%B9%E6%9E%9C%E6%96%AD%E7%A6%BB%E5%BC%80%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
-        },
-        {
-          "title": "马斯克罕见牵手印度裔女友",
-          "url": "https://www.toutiao.com/trending/7602012192531300362/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "马斯克否认上过爱泼斯坦私人小岛",
-          "url": "https://www.toutiao.com/trending/7602025086492753971/",
-          "source": "今日头条",
-          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "马斯克牵手印度裔女友参加婚礼",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%89%B5%E6%89%8B%E5%8D%B0%E5%BA%A6%E8%A3%94%E5%A5%B3%E5%8F%8B%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "马斯克官宣干电极工艺量产",
-          "url": "https://wallstreetcn.com/livenews/3048239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "马斯克：Grok Imagine 1.0 版本现已全面发布。",
-          "url": "https://flash.jin10.com/detail/20260202115750959800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "00时49分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
           "url": "https://www.cls.cn/detail/2278016",
           "source": "财联社热门",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时12分 ~ 23时43分]"
-        },
-        {
-          "title": "泰国期货交易所：黄金在线期货每日价格波动幅度将扩大至最新结算价的±20%。",
-          "url": "https://flash.jin10.com/detail/20260202142855006800",
-          "source": "金十数据",
-          "ranks": [
-            20
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时09分"
-        },
+          "time_info": "00时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Dan Koe Elon Musk 马斯克",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "土耳其提高部分黄金、白银基金的最低价格限制。",
-          "url": "https://wallstreetcn.com/livenews/3048241",
-          "source": "华尔街见闻-快讯",
+          "title": "萝莉岛兽行曝光,马斯克急撇清",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350003&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%85%BD%E8%A1%8C%E6%9B%9D%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%80%A5%E6%92%87%E6%B8%85",
+          "source": "贴吧",
           "ranks": [
-            20
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时58分"
+          "time_info": "00时49分"
         }
       ]
     }
