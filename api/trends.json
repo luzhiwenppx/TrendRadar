@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T15:09:23.002951+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-02-02T16:53:13.708350+08:00",
+  "total_titles_processed": 1089,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 15时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 16时53分]"
         },
         {
           "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
@@ -50,11 +50,25 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 15时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 16时53分]"
+        },
+        {
+          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
+          "url": "https://www.cls.cn/detail/2277020",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 16时53分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -92,16 +106,27 @@
           "time_info": "10时39分"
         },
         {
-          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
-          "url": "https://www.cls.cn/detail/2277020",
-          "source": "财联社热门",
+          "title": "微软两日蒸发3810亿美元市值 揭示人工智能投资浪潮开始分化",
+          "url": "https://wallstreetcn.com/livenews/3048226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
+          "source": "澎湃新闻",
           "ranks": [
             13,
-            5
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时39分 ~ 15时09分]"
+          "time_info": "[15时09分 ~ 16时53分]"
         },
         {
           "title": "国家人工智能产业投资基金入股芯片研发商新芯航途",
@@ -126,15 +151,15 @@
           "time_info": "10时39分"
         },
         {
-          "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
-          "source": "澎湃新闻",
+          "title": "快手将对“AI魔改”视频展开常态化治理",
+          "url": "https://wallstreetcn.com/livenews/3048203",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时09分"
+          "time_info": "16时53分"
         },
         {
           "title": "小鹏全球首款AI汽车正式开启海外大规模发运",
@@ -146,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "蚂蚁CEO发布内部信，加大对AI“开创性贡献”激励力度",
+          "url": "https://wallstreetcn.com/livenews/3048193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         }
       ]
     },
@@ -161,11 +197,12 @@
             2,
             4,
             7,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时31分 ~ 15时09分]"
+          "appearance_count": 15,
+          "time_info": "[01时31分 ~ 16时53分]"
         },
         {
           "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
@@ -209,11 +246,12 @@
           "url": "https://news.ifeng.com/c/8qPmOlBP1jc",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 16时53分]"
         },
         {
           "title": "马斯克：Grok Imagine 1.0 版本现已全面发布。",
@@ -239,7 +277,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         }
