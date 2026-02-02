@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T19:40:18.255702+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-02-02T21:12:19.317142+08:00",
+  "total_titles_processed": 1492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
@@ -58,6 +58,21 @@
           "time_info": "[00时36分 ~ 17时58分]"
         },
         {
+          "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15,
+            14,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时09分 ~ 21时12分]"
+        },
+        {
           "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
           "url": "https://www.cls.cn/detail/2277020",
           "source": "财联社热门",
@@ -69,20 +84,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时39分 ~ 16时53分]"
-        },
-        {
-          "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时09分 ~ 19时40分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -126,7 +127,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -211,6 +212,28 @@
           "time_info": "18时56分"
         },
         {
+          "title": "为什么律师不会完全被 AI 取代？",
+          "url": "https://www.zhihu.com/question/452243069",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "消息称马斯克推进SpaceX、xAI合并，最快本周达成协议",
+          "url": "https://flash.jin10.com/detail/20260202204430933800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "腾讯打响AI社交第一枪",
           "url": "https://www.toutiao.com/trending/7602143575987785257/",
           "source": "今日头条",
@@ -247,7 +270,7 @@
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "萝莉岛兽行曝光,马斯克急撇清",
@@ -260,11 +283,12 @@
             9,
             14,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时31分 ~ 19时40分]"
+          "appearance_count": 20,
+          "time_info": "[01时31分 ~ 21时12分]"
         },
         {
           "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
@@ -338,6 +362,28 @@
           "time_info": "18时56分"
         },
         {
+          "title": "马斯克否认上过爱泼斯坦私人小岛",
+          "url": "https://www.toutiao.com/trending/7602025086492753971/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "马斯克牵手印度裔女友参加婚礼",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%89%B5%E6%89%8B%E5%8D%B0%E5%BA%A6%E8%A3%94%E5%A5%B3%E5%8F%8B%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "马斯克官宣干电极工艺量产",
           "url": "https://wallstreetcn.com/livenews/3048239",
           "source": "华尔街见闻-快讯",
@@ -363,8 +409,19 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
+          "url": "https://www.cls.cn/detail/2278016",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
         {
           "title": "泰国期货交易所：黄金在线期货每日价格波动幅度将扩大至最新结算价的±20%。",
           "url": "https://flash.jin10.com/detail/20260202142855006800",
