@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T03:10:12.551003+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-02-04T04:44:05.073405+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 04时44分]"
         },
         {
           "title": "春节为何成为AI红包主战场",
@@ -24,11 +24,71 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 04时44分]"
+        },
+        {
+          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
+          "url": "https://www.cls.cn/detail/2279363",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 04时44分]"
+        },
+        {
+          "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
+          "url": "https://wallstreetcn.com/articles/3764858",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 04时44分]"
+        },
+        {
+          "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
+          "url": "https://www.cls.cn/detail/2279310",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 04时44分]"
+        },
+        {
+          "title": "解读SpaceX收购xAI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 04时44分]"
+        },
+        {
+          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 04时44分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -58,63 +118,6 @@
           "source": "财联社热门",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时10分]"
-        },
-        {
-          "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
-          "url": "https://wallstreetcn.com/articles/3764858",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时10分]"
-        },
-        {
-          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
-          "url": "https://www.cls.cn/detail/2279363",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时10分]"
-        },
-        {
-          "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
-          "url": "https://www.cls.cn/detail/2279310",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时10分]"
-        },
-        {
-          "title": "解读SpaceX收购xAI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时10分]"
-        },
-        {
-          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -180,6 +183,28 @@
           "time_info": "[02时01分 ~ 03时10分]"
         },
         {
+          "title": "印度官员Jaishankar：2月3日在华盛顿特区会见美国财政部长贝森特。 讨论美国经济合作伙伴关系与协同。",
+          "url": "https://wallstreetcn.com/livenews/3049304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "CenterView高管Blair Effron：在（并购/M&A）交易方面，我们的确面临大量的尾部风险。 经济、受抑的需求、监管都帮助推进并购。",
+          "url": "https://wallstreetcn.com/livenews/3049303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：Moltbook可能只是一时的潮流，但OpenCLAW并非如此。",
           "url": "https://flash.jin10.com/detail/20260204012612904800",
           "source": "金十数据",
@@ -189,6 +214,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "黄仁勋：英伟达希望参与OpenAI的IPO",
+          "url": "https://wallstreetcn.com/livenews/3049302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "德意志银行牵头的一个银行团体为软件供应商一宗收购案承销的12亿美元贷款无人问津，投资者被AI相关的担忧情绪笼罩。 未来，该银行团体将通过6.25亿美元定期贷款、一笔2028年到期5.4亿美元贷款来支持Conga Corp.的收购交易。",
+          "url": "https://wallstreetcn.com/livenews/3049297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "达索系统与英伟达构建合作伙伴关系，将打造工业AI平台。 将为跨行业的AI打造架构。 达索系统的OutScale AI Factories将应用英伟达的基础设施。",
@@ -235,6 +282,28 @@
           "time_info": "02时01分"
         },
         {
+          "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)将投资于OpenAI的下一轮（融资），公司希望参与未来OpenAI的IPO。",
+          "url": "https://flash.jin10.com/detail/20260204033430684800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "OpenAI拟运用AI助力药企研发并从中获利",
+          "url": "https://flash.jin10.com/detail/20260204033311635800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
           "title": "城堡投资创始人格里芬：人工智能不会成为本次选举的主要议题。",
           "url": "https://flash.jin10.com/detail/20260204005442869800",
           "source": "金十数据",
@@ -244,12 +313,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
+          "url": "https://flash.jin10.com/detail/20260204033202172800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "英伟达CEO：人工智能的广泛应用最终将降低能源成本",
+          "url": "https://flash.jin10.com/detail/20260204032540767800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         }
       ]
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克，被传唤",
@@ -259,8 +350,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 04时44分]"
         },
         {
           "title": "法国司法部门搜查X平台办公室并传唤马斯克",
@@ -269,11 +360,12 @@
           "ranks": [
             11,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 04时44分]"
         },
         {
           "title": "马斯克被法司法部门传唤",
@@ -283,8 +375,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 04时44分]"
         },
         {
           "title": "马斯克跨性别女儿开锤亲爹",
@@ -294,8 +386,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 04时44分]"
+        },
+        {
+          "title": "马斯克被女儿爆料曾登爱泼斯坦岛",
+          "url": "https://www.toutiao.com/trending/7602285893713723455/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 04时44分]"
         }
       ]
     }
