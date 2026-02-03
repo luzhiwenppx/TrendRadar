@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-02-03T15:50:44.283158+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-02-03T16:45:20.489217+08:00",
+  "total_titles_processed": 1235,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
+          "url": "https://www.cls.cn/detail/2278467",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时36分 ~ 16时45分]"
+        },
         {
           "title": "SpaceX官宣收购xAI",
           "url": "https://search.bilibili.com/all?keyword=SpaceX%E5%AE%98%E5%AE%A3%E6%94%B6%E8%B4%ADxAI",
@@ -23,19 +37,6 @@
           "time_info": "[10时36分 ~ 15时50分]"
         },
         {
-          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
-          "url": "https://www.cls.cn/detail/2278467",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时36分 ~ 15时50分]"
-        },
-        {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
           "url": "https://wallstreetcn.com/articles/3764779",
           "source": "华尔街见闻",
@@ -46,8 +47,36 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时36分 ~ 16时45分]"
+        },
+        {
+          "title": "2月3日投资避雷针：这只人气股紧急澄清 无星云算力调度平台、马来西亚AI数据中心项目",
+          "url": "https://www.cls.cn/detail/2278442",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时36分 ~ 16时45分]"
+        },
+        {
+          "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
+          "url": "https://www.cls.cn/detail/2278753",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时36分 ~ 15时50分]"
+          "time_info": "[13时55分 ~ 16时45分]"
         },
         {
           "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
@@ -64,17 +93,15 @@
           "time_info": "[00时49分 ~ 10时36分]"
         },
         {
-          "title": "2月3日投资避雷针：这只人气股紧急澄清 无星云算力调度平台、马来西亚AI数据中心项目",
-          "url": "https://www.cls.cn/detail/2278442",
-          "source": "财联社热门",
+          "title": "解读SpaceX收购xAI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9,
-            8
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时36分 ~ 15时50分]"
+          "appearance_count": 7,
+          "time_info": "[12时51分 ~ 16时45分]"
         },
         {
           "title": "谷歌公司：借助云运行服务支持英伟达RTX PRO 6000 Blackwell服务器版GPU，为高端推理带来无服务器体验。",
@@ -123,30 +150,6 @@
           "time_info": "10时36分"
         },
         {
-          "title": "解读SpaceX收购xAI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时51分 ~ 15时50分]"
-        },
-        {
-          "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
-          "url": "https://www.cls.cn/detail/2278753",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 15时50分]"
-        },
-        {
           "title": "又一位AI亿万富豪诞生了",
           "url": "https://www.toutiao.com/trending/7602226721282457650/",
           "source": "今日头条",
@@ -169,6 +172,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时49分 ~ 07时34分]"
+        },
+        {
+          "title": "王楚然工作室AI剧宣",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4AI%E5%89%A7%E5%AE%A3%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 16时45分]"
         },
         {
           "title": "AI 社交平台 Moltbook 火了，多张截图疑有猫腻，有多少炒作成分？对行业的实际影响有多大？",
@@ -243,7 +257,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -408,6 +422,34 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "马斯克被女儿爆料曾登爱泼斯坦岛",
+          "url": "https://www.toutiao.com/trending/7602285893713723455/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            15,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时36分 ~ 16时45分]"
+        },
+        {
+          "title": "马斯克跨性别女儿开锤亲爹",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350084&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E5%84%BF%E5%BC%80%E9%94%A4%E4%BA%B2%E7%88%B9",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时51分 ~ 16时45分]"
+        },
+        {
           "title": "马斯克女儿爆料",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%B3%E5%84%BF%E7%88%86%E6%96%99%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -423,32 +465,6 @@
           "time_info": "[07时34分 ~ 15时50分]"
         },
         {
-          "title": "马斯克被女儿爆料曾登爱泼斯坦岛",
-          "url": "https://www.toutiao.com/trending/7602285893713723455/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时36分 ~ 15时50分]"
-        },
-        {
-          "title": "马斯克跨性别女儿开锤亲爹",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350084&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E5%84%BF%E5%BC%80%E9%94%A4%E4%BA%B2%E7%88%B9",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时51分 ~ 15时50分]"
-        },
-        {
           "title": "如何评价爱泼斯坦文件显示埃隆·马斯克想要登上爱泼斯坦岛，马斯克女儿爆料称属实？",
           "url": "https://www.zhihu.com/question/2000815546627811275",
           "source": "知乎",
@@ -456,8 +472,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时51分 ~ 15时50分]"
+          "appearance_count": 7,
+          "time_info": "[12时51分 ~ 16时45分]"
         },
         {
           "title": "马斯克女儿爆料",
@@ -469,8 +485,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时51分 ~ 15时50分]"
+          "appearance_count": 7,
+          "time_info": "[12时51分 ~ 16时45分]"
         },
         {
           "title": "萝莉岛兽行曝光,马斯克急撇清",
@@ -500,7 +516,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
@@ -512,6 +528,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时49分 ~ 07时34分]"
+        },
+        {
+          "title": "黄金两日暴跌后强势回升 分析师：当前价格回归合理区间",
+          "url": "https://flash.jin10.com/detail/20260203163759847800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         }
       ]
     }
