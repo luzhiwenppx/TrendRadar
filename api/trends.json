@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T21:12:31.873449+08:00",
-  "total_titles_processed": 1670,
+  "generated_at": "2026-02-03T22:51:26.743740+08:00",
+  "total_titles_processed": 1798,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
@@ -34,8 +34,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时36分 ~ 21时12分]"
+          "appearance_count": 14,
+          "time_info": "[10时36分 ~ 22时51分]"
         },
         {
           "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
@@ -59,8 +59,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时51分 ~ 21时12分]"
+          "appearance_count": 13,
+          "time_info": "[12时51分 ~ 22时51分]"
         },
         {
           "title": "SpaceX官宣收购xAI",
@@ -92,6 +92,19 @@
           "time_info": "[10时36分 ~ 16时45分]"
         },
         {
+          "title": "春节为何成为AI红包主战场",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时51分 ~ 22时51分]"
+        },
+        {
           "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
           "url": "https://www.cls.cn/detail/2278216",
           "source": "财联社热门",
@@ -119,17 +132,29 @@
           "time_info": "[16时44分 ~ 18时48分]"
         },
         {
-          "title": "春节为何成为AI红包主战场",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
-          "source": "bilibili 热搜",
+          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
+          "url": "https://www.cls.cn/detail/2279188",
+          "source": "财联社热门",
           "ranks": [
+            12,
+            10,
             8,
-            5,
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时51分 ~ 21时12分]"
+          "appearance_count": 6,
+          "time_info": "[17时51分 ~ 22时51分]"
+        },
+        {
+          "title": "分析师：SpaceX与xAI合并降低了特斯拉并入的可能性",
+          "url": "https://flash.jin10.com/detail/20260203223903996800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "谷歌公司：借助云运行服务支持英伟达RTX PRO 6000 Blackwell服务器版GPU，为高端推理带来无服务器体验。",
@@ -195,22 +220,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
-        },
-        {
-          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
-          "url": "https://www.cls.cn/detail/2279188",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时51分 ~ 21时12分]"
         },
         {
           "title": "又一位AI亿万富豪诞生了",
@@ -237,6 +249,18 @@
           "time_info": "[00时49分 ~ 07时34分]"
         },
         {
+          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
+          "url": "https://www.cls.cn/detail/2279363",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 22时51分]"
+        },
+        {
           "title": "AI 社交平台 Moltbook 火了，多张截图疑有猫腻，有多少炒作成分？对行业的实际影响有多大？",
           "url": "https://www.zhihu.com/question/2001346637126136295",
           "source": "知乎",
@@ -258,6 +282,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时48分 ~ 19时39分]"
+        },
+        {
+          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 22时51分]"
         },
         {
           "title": "谷歌(GOOG.O)：借助云运行服务支持英伟达RTX PRO 6000 Blackwell服务器版GPU，为高端推理带来无服务器体验。",
@@ -337,6 +373,17 @@
           "time_info": "10时36分"
         },
         {
+          "title": "腾讯推出社交 AI 「元宝派」，它的用处有哪些？会重塑线上社交习惯吗？",
+          "url": "https://www.zhihu.com/question/1999077818584228918",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "消息人士称，XAI与SpaceX已将股份交换比例定为0.1433。",
           "url": "https://flash.jin10.com/detail/20260203101620083800",
           "source": "金十数据",
@@ -359,26 +406,26 @@
           "time_info": "07时34分"
         },
         {
-          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
-          "url": "https://www.cls.cn/detail/2279363",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
           "title": "一图看懂|三大巨头豪掷45亿！2026春节AI红包大战打响",
           "url": "https://www.cls.cn/detail/2279165",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
+        },
+        {
+          "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
+          "url": "https://www.cls.cn/detail/2279310",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "泰雷兹集团与新加坡经济发展局签署三项谅解备忘录，以加强在新加坡的人工智能和制造业。",
@@ -414,17 +461,6 @@
           "time_info": "18时48分"
         },
         {
-          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
           "title": "上海“人工智能+”行动再深化，目标新增超50家先进智能工厂",
           "url": "https://wallstreetcn.com/livenews/3048705",
           "source": "华尔街见闻-快讯",
@@ -434,6 +470,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "腾讯元宝澄清：不存在“静默监控”、“默认开启AI”、“自动举报”情况",
+          "url": "https://wallstreetcn.com/livenews/3049154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "OpenAI将重点放在ChatGPT的研发上，而非进行更长期的研究，这导致公司高层人员离职。",
@@ -527,7 +574,7 @@
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "马斯克跨性别女儿开锤亲爹",
@@ -540,11 +587,12 @@
             12,
             14,
             15,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时51分 ~ 21时12分]"
+          "appearance_count": 13,
+          "time_info": "[12时51分 ~ 22时51分]"
         },
         {
           "title": "如何评价爱泼斯坦文件显示埃隆·马斯克想要登上爱泼斯坦岛，马斯克女儿爆料称属实？",
@@ -618,6 +666,17 @@
           "time_info": "[00时49分 ~ 10时36分]"
         },
         {
+          "title": "马斯克，被传唤",
+          "url": "https://news.ifeng.com/c/8qRtxXxufFZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 22时51分]"
+        },
+        {
           "title": "马斯克女儿爆料",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%B3%E5%84%BF%E7%88%86%E6%96%99",
           "source": "百度热搜",
@@ -628,17 +687,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时36分 ~ 12时51分]"
-        },
-        {
-          "title": "马斯克，被传唤",
-          "url": "https://news.ifeng.com/c/8qRtxXxufFZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
         },
         {
           "title": "阿联酋官员表示，与马斯克的BORING公司合作的迪拜环线第一阶段将立即启动。",
@@ -652,13 +700,35 @@
           "time_info": "18时48分"
         },
         {
+          "title": "马斯克被法司法部门传唤",
+          "url": "https://www.toutiao.com/trending/7602620308612189722/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "法国传唤马斯克",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E4%BC%A0%E5%94%A4%E9%A9%AC%E6%96%AF%E5%85%8B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "外媒：法国警方突击搜查社交平台X办公室，巴黎检方传唤马斯克要其接受问询",
           "url": "https://wallstreetcn.com/livenews/3049109",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         }
