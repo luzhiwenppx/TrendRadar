@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T15:01:44.170290+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-02-04T15:52:02.459655+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 67,
+      "match_count": 69,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -35,17 +35,29 @@
           "time_info": "[01时01分 ~ 07时34分]"
         },
         {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 15时52分]"
+        },
+        {
           "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
           "url": "https://wallstreetcn.com/articles/3764858",
           "source": "华尔街见闻",
           "ranks": [
             10,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 15时01分]"
+          "appearance_count": 17,
+          "time_info": "[01时01分 ~ 15时52分]"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
@@ -96,17 +108,6 @@
           "time_info": "[01时01分 ~ 07时34分]"
         },
         {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 15时01分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
           "url": "https://www.cls.cn/detail/2279710",
           "source": "财联社热门",
@@ -124,11 +125,25 @@
           "source": "知乎",
           "ranks": [
             5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 15时52分]"
+        },
+        {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 15时52分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -186,16 +201,17 @@
           "time_info": "13时54分"
         },
         {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
+          "title": "中央一号文件促进AI与农业发展相结合 AI赋能种植链前景可期",
+          "url": "https://www.cls.cn/detail/2279757",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            13,
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[12时45分 ~ 15时52分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
@@ -246,16 +262,15 @@
           "time_info": "[02时01分 ~ 03时10分]"
         },
         {
-          "title": "中央一号文件促进AI与农业发展相结合 AI赋能种植链前景可期",
-          "url": "https://www.cls.cn/detail/2279757",
-          "source": "财联社热门",
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            11
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时45分 ~ 15时01分]"
+          "time_info": "[15时01分 ~ 15时52分]"
         },
         {
           "title": "印度官员Jaishankar：2月3日在华盛顿特区会见美国财政部长贝森特。 讨论美国经济合作伙伴关系与协同。",
@@ -341,6 +356,17 @@
           "time_info": "[03时09分 ~ 03时10分]"
         },
         {
+          "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
+          "url": "https://www.cls.cn/detail/2280058",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 15时52分]"
+        },
+        {
           "title": "AMD(AMD.O)CEO苏姿丰：十大人工智能公司中有八家使用Instinct芯片来支持生产工作负载。",
           "url": "https://flash.jin10.com/detail/20260204061102814800",
           "source": "金十数据",
@@ -365,17 +391,6 @@
           "time_info": "[02时01分 ~ 03时10分]"
         },
         {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
-        },
-        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-04）",
           "url": "https://flash.jin10.com/detail/20260204115345286800",
           "source": "金十数据",
@@ -396,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "“人工智能+电影虚拟拍摄融合创新实验室”揭牌",
+          "url": "https://wallstreetcn.com/livenews/3049685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：Moltbook可能只是一时的潮流，但OpenCLAW并非如此。",
@@ -775,7 +801,7 @@
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "法国司法部门搜查X平台办公室并传唤马斯克",
@@ -789,8 +815,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 15时01分]"
+          "appearance_count": 17,
+          "time_info": "[01时01分 ~ 15时52分]"
         },
         {
           "title": "马斯克，被传唤",
@@ -827,6 +853,18 @@
           "time_info": "[01时01分 ~ 10时31分]"
         },
         {
+          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时45分 ~ 15时52分]"
+        },
+        {
           "title": "马斯克团队密访中国多家光伏企业？晶科能源：公司有与考察团接触",
           "url": "https://wallstreetcn.com/livenews/3049557",
           "source": "华尔街见闻-快讯",
@@ -839,16 +877,16 @@
           "time_info": "[12时45分 ~ 13时54分]"
         },
         {
-          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
-          "source": "凤凰网",
+          "title": "马斯克“炒热”太空数据中心？亚马逊AWS CEO“泼冷水”：仍遥不可及！",
+          "url": "https://www.cls.cn/detail/2279787",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            8
+            13,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时45分 ~ 15时01分]"
+          "time_info": "[15时01分 ~ 15时52分]"
         },
         {
           "title": "马斯克被女儿爆料曾登爱泼斯坦岛",
@@ -860,6 +898,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时43分 ~ 06时36分]"
+        },
+        {
+          "title": "晶科能源称与马斯克考察团队接触",
+          "url": "https://www.toutiao.com/trending/7602085526292643878/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 15时52分]"
         },
         {
           "title": "马斯克放弃Model S/X背后",
@@ -891,7 +940,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -902,18 +951,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
-        },
-        {
-          "title": "马斯克“炒热”太空数据中心？亚马逊AWS CEO“泼冷水”：仍遥不可及！",
-          "url": "https://www.cls.cn/detail/2279787",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -924,7 +962,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -957,7 +995,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -968,7 +1006,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
