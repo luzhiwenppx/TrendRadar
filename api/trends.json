@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T21:13:49.943264+08:00",
-  "total_titles_processed": 1787,
+  "generated_at": "2026-02-05T22:50:48.178011+08:00",
+  "total_titles_processed": 1921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 58,
+      "match_count": 65,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时34分 ~ 21时13分]"
+          "appearance_count": 16,
+          "time_info": "[07时34分 ~ 22时50分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时32分 ~ 21时13分]"
+          "appearance_count": 15,
+          "time_info": "[10时32分 ~ 22时50分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -159,6 +159,19 @@
           "time_info": "[00时57分 ~ 10时32分]"
         },
         {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时52分 ~ 22时50分]"
+        },
+        {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
           "url": "https://news.ifeng.com/c/8qTccGGdcdv",
           "source": "凤凰网",
@@ -170,16 +183,16 @@
           "time_info": "[00时57分 ~ 07时34分]"
         },
         {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
+          "title": "UP主们用AI办了场春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
-            10
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时52分 ~ 21时13分]"
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 22时50分]"
         },
         {
           "title": "OpenAI正在为其咨询团队招聘数百名员工。（The Information）",
@@ -204,15 +217,15 @@
           "time_info": "17时53分"
         },
         {
-          "title": "UP主们用AI办了场春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
+          "title": "欧洲央行行长拉加德：投资热潮与人工智能及一切与人工智能相关的事物有关。需要一些时间才能看出这对生产力和通胀的影响。",
+          "url": "https://flash.jin10.com/detail/20260205222621799800",
+          "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "22时50分"
         },
         {
           "title": "腾讯元宝红包微信分享遭限制，AI入口之争遇挫了吗？",
@@ -453,6 +466,39 @@
           "time_info": "[16时52分 ~ 16时53分]"
         },
         {
+          "title": "金十整理：OpenClaw、Cowork引爆AI代理革命，AI工具将重塑未来工作逻辑和方式",
+          "url": "https://flash.jin10.com/detail/20260205222215034800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "谷歌母公司Alphabet跌7%，创5月7日以来最差盘中表现。 该公司出现历史性财务里程碑：年营收首破4000亿美元大关。季度合并营收同比增长18%，全年营收同比增长15%。预计2026年资本支出将进一步扩大至1750亿-1850亿美元，同比翻倍。",
+          "url": "https://wallstreetcn.com/livenews/3050751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2282073",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-05）",
           "url": "https://flash.jin10.com/detail/20260205115645206800",
           "source": "金十数据",
@@ -484,6 +530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
+          "url": "https://wallstreetcn.com/articles/3765006",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "周四亚太盘初，纳指期货涨超0.3%，标普股指期货与罗素2000股指期货涨超0.2%，道指期货微跌不到0.1%。 当前（美股盘后），博通涨5.67%，美光科技涨3.05%，Snap涨2.37%，AMD反弹2.19%，英伟达、台积电涨超1%，恩智浦跌约0.4%，微软跌超0.7%，谷歌A跌1.2%，高通跌9.2%。",
@@ -651,6 +708,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "OpenAI推出OpenAI Frontier。",
+          "url": "https://flash.jin10.com/detail/20260205221051792800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "亚马逊计划利用AI来加速电视和电影产品。（路透）",
           "url": "https://wallstreetcn.com/livenews/3049977",
           "source": "华尔街见闻-快讯",
@@ -660,6 +728,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "I can't wait 但铁傀儡机",
+          "url": "https://search.bilibili.com/all?keyword=I%20can't%20wait%20%E4%BD%86%E9%93%81%E5%82%80%E5%84%A1%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "花旗：智能体AI难以撼动旅游平台 指跨平台比价仍是用户刚需",
