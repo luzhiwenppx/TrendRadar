@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T05:36:16.581965+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-02-06T06:34:25.948123+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时34分]"
         },
         {
           "title": "UP主们用AI办了场春晚",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时34分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时34分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时34分]"
         },
         {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
@@ -61,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时34分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -74,8 +74,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时34分]"
         },
         {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
@@ -87,8 +87,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时34分]"
         },
         {
           "title": "Anthropic发布新AI 金融服务公司承压",
@@ -141,6 +141,18 @@
           "time_info": "[03时42分 ~ 04时40分]"
         },
         {
+          "title": "高盛：甲骨文史诗级债券发售将引发AI债务狂潮",
+          "url": "https://wallstreetcn.com/livenews/3050875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时34分]"
+        },
+        {
           "title": "OpenAI推出新平台Frontier，助力企业部署“AI同事”",
           "url": "https://wallstreetcn.com/livenews/3050813",
           "source": "华尔街见闻-快讯",
@@ -165,15 +177,15 @@
           "time_info": "[03时42分 ~ 04时40分]"
         },
         {
-          "title": "高盛：甲骨文史诗级债券发售将引发AI债务狂潮",
-          "url": "https://wallstreetcn.com/livenews/3050875",
-          "source": "华尔街见闻-快讯",
+          "title": "亚马逊(AMZN.O)CEO：预计到2026年年中，所有Trainium 3芯片都将被预订完毕。",
+          "url": "https://flash.jin10.com/detail/20260206061539402800",
+          "source": "金十数据",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时36分"
+          "time_info": "06时34分"
         },
         {
           "title": "加拿大央行行长麦克勒姆：加拿大企业对人工智能的采用程度仍然很低。",
@@ -204,7 +216,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
