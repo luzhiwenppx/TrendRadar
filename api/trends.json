@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T17:53:57.982719+08:00",
-  "total_titles_processed": 1477,
+  "generated_at": "2026-02-05T18:48:59.182433+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时34分 ~ 17时53分]"
+          "appearance_count": 12,
+          "time_info": "[07时34分 ~ 18时48分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时32分 ~ 17时53分]"
+          "appearance_count": 11,
+          "time_info": "[10时32分 ~ 18时48分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -54,8 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时57分 ~ 17时53分]"
+          "appearance_count": 19,
+          "time_info": "[00时57分 ~ 18时48分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -96,6 +96,19 @@
           "time_info": "[10时32分 ~ 16时53分]"
         },
         {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时52分 ~ 18时48分]"
+        },
+        {
           "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
           "url": "https://www.cls.cn/detail/2281019",
           "source": "财联社热门",
@@ -110,19 +123,6 @@
           "time_info": "[10时32分 ~ 16时53分]"
         },
         {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时52分 ~ 17时53分]"
-        },
-        {
           "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
           "url": "https://wallstreetcn.com/articles/3764903",
           "source": "华尔街见闻",
@@ -135,17 +135,6 @@
           "time_info": "[00时57分 ~ 10时32分]"
         },
         {
-          "title": "国民党代表团参访清华大学，了解大陆AI技术",
-          "url": "https://news.ifeng.com/c/8qTccGGdcdv",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 07时34分]"
-        },
-        {
           "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
           "url": "https://www.cls.cn/detail/2281373",
           "source": "财联社热门",
@@ -154,8 +143,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时53分]"
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时48分]"
         },
         {
           "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
@@ -165,8 +154,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时53分]"
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时48分]"
+        },
+        {
+          "title": "国民党代表团参访清华大学，了解大陆AI技术",
+          "url": "https://news.ifeng.com/c/8qTccGGdcdv",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时34分]"
         },
         {
           "title": "OpenAI正在为其咨询团队招聘数百名员工。（The Information）",
@@ -186,7 +186,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -283,8 +283,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时53分]"
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时48分]"
         },
         {
           "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
@@ -446,7 +446,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -526,6 +526,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "如何评价李开复「AI 领域里手机是绝对错误的设备」的观点？为何他不看好 AI 手机？",
+          "url": "https://www.zhihu.com/question/2002683972233159732",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "提醒：谷歌母公司Alphabet电话会结束。",
@@ -735,8 +746,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 14时01分]"
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 18时48分]"
         },
         {
           "title": "马斯克团队光伏调研消息引爆A股",
