@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T21:01:49.090022+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2026-02-07T21:51:45.181688+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时42分 ~ 21时01分]"
+          "appearance_count": 12,
+          "time_info": "[12时42分 ~ 21时51分]"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时42分 ~ 21时01分]"
+          "appearance_count": 12,
+          "time_info": "[12时42分 ~ 21时51分]"
         },
         {
           "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
@@ -170,18 +170,6 @@
           "time_info": "[10时28分 ~ 17时37分]"
         },
         {
-          "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
-          "url": "https://www.cls.cn/detail/2283603",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 17时37分]"
-        },
-        {
           "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
           "url": "https://wallstreetcn.com/livenews/3051701",
           "source": "华尔街见闻-快讯",
@@ -193,8 +181,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 21时01分]"
+          "appearance_count": 6,
+          "time_info": "[16时39分 ~ 21时51分]"
+        },
+        {
+          "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
+          "url": "https://www.cls.cn/detail/2283603",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 17时37分]"
         },
         {
           "title": "美股人工智能相关股多数上涨，超微电脑(SMCI.O)、Arm(ARM.O)大涨10%，AMD(AMD.O)涨超8%，英伟达(NVDA.O)涨超7%。",
@@ -314,6 +314,19 @@
           "time_info": "[04时40分 ~ 06时31分]"
         },
         {
+          "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
+          "url": "https://wallstreetcn.com/livenews/3051719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 21时51分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：看到GPT-5.3-Codex版本如此受欢迎真是太好了。自最初的GPT-4发布以来，我们似乎还没有感受到对哪个模型如此兴奋过。",
           "url": "https://flash.jin10.com/detail/20260207004458170800",
           "source": "金十数据",
@@ -324,18 +337,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时46分]"
-        },
-        {
-          "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
-          "url": "https://wallstreetcn.com/livenews/3051719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 21时01分]"
         },
         {
           "title": "景林最新美股持仓曝光：谷歌升至第一大重仓 大幅减持英伟达",
@@ -458,6 +459,18 @@
           "time_info": "[00时54分 ~ 01时46分]"
         },
         {
+          "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
+          "url": "https://wallstreetcn.com/articles/3765198",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 21时51分]"
+        },
+        {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
           "url": "https://wallstreetcn.com/livenews/3051561",
           "source": "华尔街见闻-快讯",
@@ -513,17 +526,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时36分 ~ 17时37分]"
-        },
-        {
-          "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
-          "url": "https://wallstreetcn.com/articles/3765198",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
         },
         {
           "title": "阿里如何用AI重新定义自己",
@@ -626,11 +628,12 @@
           "ranks": [
             7,
             10,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 21时01分]"
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 21时51分]"
         },
         {
           "title": "马斯克旗下SpaceX推迟火星计划，转而侧重于（探索）月球。 SpaceX计划2027年3月实施无人的（航天器）登月活动。 该公司将优先探月，试图之后再推进火星探索。（华尔街日报）",
