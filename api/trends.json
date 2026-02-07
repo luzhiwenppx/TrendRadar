@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T02:42:49.718514+08:00",
-  "total_titles_processed": 361,
+  "generated_at": "2026-02-08T03:29:47.491821+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时29分]"
         },
         {
           "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时29分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -35,11 +35,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            3
+            3,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时29分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -49,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时29分]"
         },
         {
           "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
@@ -60,8 +61,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时29分]"
         },
         {
           "title": "从“AI红包大战”透视互联网流量重构：留存才是真正的考验",
@@ -81,7 +82,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         }
