@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T02:44:19.306958+08:00",
-  "total_titles_processed": 351,
+  "generated_at": "2026-02-09T03:31:16.367288+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 03时31分]"
         },
         {
           "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 03时31分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -37,19 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时44分]"
-        },
-        {
-          "title": "人民日报：孩子用AI写作业，你怎么看？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 03时31分]"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -59,8 +48,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 03时31分]"
+        },
+        {
+          "title": "人民日报：孩子用AI写作业，你怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 03时31分]"
         },
         {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
@@ -71,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 03时31分]"
         },
         {
           "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
@@ -83,8 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 03时31分]"
         },
         {
           "title": "如何看待 Anthropic 用纯 AI 实现的 CCC 编译器可编译 Linux?",
@@ -93,11 +94,12 @@
           "ranks": [
             9,
             10,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 03时31分]"
         },
         {
           "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
@@ -105,11 +107,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 03时31分]"
         },
         {
           "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
@@ -119,8 +122,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 03时31分]"
         },
         {
           "title": "UP主用AI做影游融合沉浸式科普",
@@ -133,8 +136,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 03时31分]"
         },
         {
           "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
@@ -144,8 +147,19 @@
             22
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时31分]"
+        },
+        {
+          "title": "泰国大选：根据选举委员会初步计票结果，在已统计15%有效选票的情况下，自豪泰党（Bhumjaithai Party）暂时领先。",
+          "url": "https://flash.jin10.com/detail/20260208214233701800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时44分]"
+          "time_info": "[01时32分 ~ 03时31分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -157,17 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 00时38分]"
-        },
-        {
-          "title": "泰国大选：根据选举委员会初步计票结果，在已统计15%有效选票的情况下，自豪泰党（Bhumjaithai Party）暂时领先。",
-          "url": "https://flash.jin10.com/detail/20260208214233701800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 02时44分]"
         }
       ]
     },
@@ -183,8 +186,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 03时31分]"
         },
         {
           "title": "马斯克与爱泼斯坦共进晚餐照曝光",
@@ -195,8 +198,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 03时31分]"
         },
         {
           "title": "“长沙马斯克”新公司估值2个亿",
@@ -205,22 +208,24 @@
           "ranks": [
             27,
             21,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 03时31分]"
         },
         {
           "title": "爱泼斯坦与马斯克共进晚餐照片曝光",
           "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%B1%E8%BF%9B%E6%99%9A%E9%A4%90%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 01时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 03时31分]"
         },
         {
           "title": "马斯克发帖表示，是时候大规模重返月球了。",
@@ -230,8 +235,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时31分]"
         }
       ]
     }
