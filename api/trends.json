@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T15:13:07.958715+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2026-02-09T17:03:22.287404+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
@@ -103,6 +103,17 @@
           "time_info": "[00时37分 ~ 10时40分]"
         },
         {
+          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
+          "url": "https://wallstreetcn.com/articles/3765243",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 17时03分]"
+        },
+        {
           "title": "如何看待 Anthropic 用纯 AI 实现的 CCC 编译器可编译 Linux?",
           "url": "https://www.zhihu.com/question/2003524766523473932",
           "source": "知乎",
@@ -150,28 +161,18 @@
           "time_info": "[00时37分 ~ 10时40分]"
         },
         {
-          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
-          "url": "https://wallstreetcn.com/articles/3765243",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 15时13分]"
-        },
-        {
           "title": "字节又一款AI产品火了！Seedance2.0海内外刷屏 哪些行业将被颠覆？",
           "url": "https://www.cls.cn/detail/2284177",
           "source": "财联社热门",
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时06分 ~ 15时13分]"
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 17时03分]"
         },
         {
           "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
@@ -181,8 +182,46 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时12分 ~ 15时13分]"
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 17时03分]"
+        },
+        {
+          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
+          "url": "https://wallstreetcn.com/articles/3765259",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 17时03分]"
+        },
+        {
+          "title": "OpenClaw走红，个人AI代理时代真的来了",
+          "url": "https://wallstreetcn.com/articles/3765254",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 17时03分]"
+        },
+        {
+          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
+          "url": "https://www.zhihu.com/question/2003997015852482602",
+          "source": "知乎",
+          "ranks": [
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 17时03分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-09）",
@@ -202,7 +241,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -216,32 +255,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时38分 ~ 04时35分]"
-        },
-        {
-          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
-          "url": "https://wallstreetcn.com/articles/3765259",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 15时13分]"
-        },
-        {
-          "title": "OpenClaw走红，个人AI代理时代真的来了",
-          "url": "https://wallstreetcn.com/articles/3765254",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 15时13分]"
         },
         {
           "title": "泰国大选：根据选举委员会初步计票结果，在已统计15%有效选票的情况下，自豪泰党（Bhumjaithai Party）暂时领先。",
@@ -266,17 +279,6 @@
           "time_info": "[00时37分 ~ 00时38分]"
         },
         {
-          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
-          "url": "https://www.zhihu.com/question/2003997015852482602",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时12分 ~ 15时13分]"
-        },
-        {
           "title": "这会是改变视频行业的AI吗",
           "url": "https://www.douyin.com/hot/2394323",
           "source": "抖音",
@@ -286,6 +288,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "美国方面称，道达尔能源将为谷歌位于得州的数据中心提供1吉瓦太阳能发电容量，为期15年。",
+          "url": "https://flash.jin10.com/detail/20260209161349055800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "道达尔能源将在德州为谷歌供应1吉瓦太阳能电力",
+          "url": "https://wallstreetcn.com/livenews/3052196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         },
         {
           "title": "AI“吞噬”软件行业？分析师：市场反应过度 逢低买入良机已至",
@@ -316,7 +351,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -349,7 +384,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -360,7 +395,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         }
@@ -368,7 +403,7 @@
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "秘密照片曝光！爱泼斯坦曾与马斯克、扎克伯格等共进晚餐(图)",
@@ -428,6 +463,20 @@
           "time_info": "[00时37分 ~ 07时37分]"
         },
         {
+          "title": "马斯克携SpaceX剑指“外星造城”：月球10年内完工，火星需要20年！",
+          "url": "https://www.cls.cn/detail/2284254",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 17时03分]"
+        },
+        {
           "title": "马斯克：SpaceX已将重心转向在月球上建设城市。",
           "url": "https://flash.jin10.com/detail/20260209072929459800",
           "source": "金十数据",
@@ -439,6 +488,17 @@
           "time_info": "07时37分"
         },
         {
+          "title": "萝莉岛去不成,马斯克改奔月球",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350442&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%8E%BB%E4%B8%8D%E6%88%90%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%94%B9%E5%A5%94%E6%9C%88%E7%90%83",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
           "title": "马斯克发帖表示，是时候大规模重返月球了。",
           "url": "https://wallstreetcn.com/livenews/3051815",
           "source": "华尔街见闻-快讯",
@@ -448,19 +508,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时38分 ~ 04时35分]"
-        },
-        {
-          "title": "马斯克携SpaceX剑指“外星造城”：月球10年内完工，火星需要20年！",
-          "url": "https://www.cls.cn/detail/2284254",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时06分 ~ 15时13分]"
         },
         {
           "title": "马斯克：特斯拉电动半挂卡车今年将开始大规模量产。",
@@ -485,6 +532,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "马斯克愿为爱泼斯坦案爆料者出律师费",
+          "url": "https://www.toutiao.com/trending/7604639551495258131/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         }
       ]
     }
