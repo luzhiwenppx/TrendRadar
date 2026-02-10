@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T05:50:04.710949+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-02-11T06:47:19.097699+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 06时47分]"
         },
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 06时47分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -38,11 +38,12 @@
             13,
             8,
             23,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 06时47分]"
         },
         {
           "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
@@ -54,8 +55,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 06时47分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -66,19 +67,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 06时47分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32567447",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 06时47分]"
         },
         {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
@@ -209,8 +211,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 06时47分]"
         }
       ]
     }
