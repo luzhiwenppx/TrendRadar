@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T21:22:37.782954+08:00",
-  "total_titles_processed": 1529,
+  "generated_at": "2026-02-11T22:59:47.324780+08:00",
+  "total_titles_processed": 1665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时46分 ~ 21时22分]"
+          "appearance_count": 11,
+          "time_info": "[10时46分 ~ 22时59分]"
         },
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -54,8 +54,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时46分 ~ 21时22分]"
+          "appearance_count": 11,
+          "time_info": "[10时46分 ~ 22时59分]"
         },
         {
           "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
@@ -116,8 +116,21 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时08分 ~ 21时22分]"
+          "appearance_count": 19,
+          "time_info": "[01时08分 ~ 22时59分]"
+        },
+        {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时07分 ~ 22时59分]"
         },
         {
           "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
@@ -148,19 +161,6 @@
           "time_info": "[10时46分 ~ 16时57分]"
         },
         {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时07分 ~ 21时22分]"
-        },
-        {
           "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
           "url": "https://www.cls.cn/detail/2286559",
           "source": "财联社热门",
@@ -171,6 +171,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时46分 ~ 15时09分]"
+        },
+        {
+          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
+          "url": "https://www.zhihu.com/question/2004565156580049390",
+          "source": "知乎",
+          "ranks": [
+            11,
+            5,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时56分 ~ 22时59分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -185,17 +199,27 @@
           "time_info": "[01时08分 ~ 06时47分]"
         },
         {
-          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
-          "url": "https://www.zhihu.com/question/2004565156580049390",
-          "source": "知乎",
+          "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
+          "url": "https://www.cls.cn/detail/2287511",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            5,
-            7
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时56分 ~ 21时22分]"
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时59分]"
+        },
+        {
+          "title": "最癫的AI赛博榨菜",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%99%AB%E7%9A%84AI%E8%B5%9B%E5%8D%9A%E6%A6%A8%E8%8F%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "当奶奶遇见AI音乐",
@@ -204,18 +228,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
-          "url": "https://www.cls.cn/detail/2287511",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -279,6 +292,18 @@
           "time_info": "[16时56分 ~ 16时57分]"
         },
         {
+          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时59分]"
+        },
+        {
           "title": "财富管理公司全线暴跌，新AI工具引发对行业前景忧虑",
           "url": "https://wallstreetcn.com/livenews/3053195",
           "source": "华尔街见闻-快讯",
@@ -319,7 +344,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -333,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
+        },
+        {
+          "title": "中美AI“隔空开打”",
+          "url": "https://www.toutiao.com/trending/7605571340929601066/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "网易有道发布中国版“OpenClaw”，推出全场景个人助理Agent“LobsterAI”",
@@ -363,18 +399,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -388,6 +413,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "Principal资产管理分析师Seema Shah：在退休、移民动态变化和人工智能驱动的生产力提高等强大的结构性因素抑制就业增长的背景下，非农数据表明劳动力市场依然稳固。",
+          "url": "https://flash.jin10.com/detail/20260211220820282800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "有哪些和 AI 的对话瞬间，让你觉得人类还没有一败涂地？",
@@ -410,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "MiniMax最新大模型M2.5上线Agent平台。 （硬AI）",
+          "url": "https://wallstreetcn.com/livenews/3053783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "据Business Insider：谷歌业务部门正在向部分员工提供自愿离职方案。",
@@ -462,7 +509,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
