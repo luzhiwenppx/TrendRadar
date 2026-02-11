@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T04:50:21.171602+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-02-12T05:38:40.644309+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "最癫的AI赛博榨菜",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 05时38分]"
         },
         {
           "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 05时38分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 05时38分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 05时38分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -61,8 +61,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 05时38分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -73,8 +73,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 05时38分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -84,8 +84,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 05时38分]"
         },
         {
           "title": "Meta Platforms(META.O)：推出“Dear Algo”，这是一项由人工智能驱动的功能，允许用户告知 Threads平台自己希望在一段时间内看到更多或更少特定主题的内容。",
@@ -105,18 +105,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "马斯克旗下xAI披露全体会议的视频。",
-          "url": "https://wallstreetcn.com/livenews/3053940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -132,6 +121,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时11分 ~ 03时18分]"
+        },
+        {
+          "title": "马斯克旗下xAI披露全体会议的视频。",
+          "url": "https://wallstreetcn.com/livenews/3053940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时38分]"
         },
         {
           "title": "巴西Flavio Bolsonaro：在我竞选总统一事上，Minas Gerais的Zema会是一个不错的副总统人选，但我们还没有谈及此事。",
@@ -158,6 +159,17 @@
           "time_info": "[03时18分 ~ 04时50分]"
         },
         {
+          "title": "AI基础设施需求爆发 思科上调业绩预期",
+          "url": "https://flash.jin10.com/detail/20260212051636793800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
           "url": "https://www.zhihu.com/question/2004565156580049390",
           "source": "知乎",
@@ -178,6 +190,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "思科(CSCO.O)：来自超大规模厂商的人工智能基础设施订单总额达21亿美元，反映出增长显著加速。",
+          "url": "https://flash.jin10.com/detail/20260212051118010800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "加拿大央行会议纪要：人工智能的狂热情绪对前景构成风险。",
@@ -266,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "市场继续寻找AI时代的潜在输家 今日轮到地产服务",
+          "url": "https://flash.jin10.com/detail/20260212045127691800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         }
       ]
     }
