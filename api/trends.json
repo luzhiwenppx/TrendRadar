@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-11T19:02:24.777229+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2026-02-11T21:22:37.782954+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
+          "url": "https://wallstreetcn.com/articles/3765438",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时46分 ~ 21时22分]"
+        },
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
           "url": "https://wallstreetcn.com/articles/3765363",
@@ -18,19 +31,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时08分 ~ 10时47分]"
-        },
-        {
-          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
-          "url": "https://wallstreetcn.com/articles/3765438",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时46分 ~ 19时02分]"
         },
         {
           "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
@@ -50,11 +50,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时46分 ~ 19时02分]"
+          "appearance_count": 10,
+          "time_info": "[10时46分 ~ 21时22分]"
         },
         {
           "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
@@ -111,11 +112,12 @@
             23,
             24,
             25,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时08分 ~ 19时02分]"
+          "appearance_count": 18,
+          "time_info": "[01时08分 ~ 21时22分]"
         },
         {
           "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
@@ -146,6 +148,19 @@
           "time_info": "[10时46分 ~ 16时57分]"
         },
         {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时07分 ~ 21时22分]"
+        },
+        {
           "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
           "url": "https://www.cls.cn/detail/2286559",
           "source": "财联社热门",
@@ -156,19 +171,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时46分 ~ 15时09分]"
-        },
-        {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时07分 ~ 19时02分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -188,11 +190,34 @@
           "source": "知乎",
           "ranks": [
             11,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时56分 ~ 19时02分]"
+          "appearance_count": 5,
+          "time_info": "[16时56分 ~ 21时22分]"
+        },
+        {
+          "title": "当奶奶遇见AI音乐",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%A5%B6%E5%A5%B6%E9%81%87%E8%A7%81AI%E9%9F%B3%E4%B9%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
+          "url": "https://www.cls.cn/detail/2287511",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
@@ -288,6 +313,17 @@
           "time_info": "13时07分"
         },
         {
+          "title": "UP主自己的AI音乐春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%B7%B1%E7%9A%84AI%E9%9F%B3%E4%B9%90%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-11）",
           "url": "https://flash.jin10.com/detail/20260211114707238800",
           "source": "金十数据",
@@ -319,6 +355,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
+        },
+        {
+          "title": "四川女生相亲焦虑获AI高能量安慰",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%A5%B3%E7%94%9F%E7%9B%B8%E4%BA%B2%E7%84%A6%E8%99%91%E8%8E%B7AI%E9%AB%98%E8%83%BD%E9%87%8F%E5%AE%89%E6%85%B0",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "美联储洛根：如果人工智能带来的生产率提升来得较晚，经济可能比提前提升时更加过热。",
@@ -396,6 +454,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "T-Mobile：推出实时代理AI平台，将推出实时翻译服务。",
+          "url": "https://flash.jin10.com/detail/20260211203001283800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "马斯克酝酿在月球造AI卫星工厂",
