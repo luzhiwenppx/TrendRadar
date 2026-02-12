@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T18:56:30.193317+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2026-02-12T19:44:36.186184+08:00",
+  "total_titles_processed": 1593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 66,
+      "match_count": 74,
       "titles": [
         {
           "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时38分 ~ 18时56分]"
+          "appearance_count": 8,
+          "time_info": "[07时38分 ~ 19时44分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -54,8 +54,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时11分 ~ 18时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时11分 ~ 19时44分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -98,8 +98,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时11分 ~ 18时56分]"
+          "appearance_count": 16,
+          "time_info": "[00时11分 ~ 19时44分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -121,8 +121,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时41分 ~ 18时56分]"
+          "appearance_count": 7,
+          "time_info": "[10时41分 ~ 19时44分]"
+        },
+        {
+          "title": "严厉打击无AI标识虚假不实信息",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E5%8E%89%E6%89%93%E5%87%BB%E6%97%A0AI%E6%A0%87%E8%AF%86%E8%99%9A%E5%81%87%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时44分]"
         },
         {
           "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
@@ -229,17 +240,6 @@
           "time_info": "04时50分"
         },
         {
-          "title": "严厉打击无AI标识虚假不实信息",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E5%8E%89%E6%89%93%E5%87%BB%E6%97%A0AI%E6%A0%87%E8%AF%86%E8%99%9A%E5%81%87%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
           "title": "职业教育将重点增设低空经济、人工智能等领域新专业",
           "url": "https://wallstreetcn.com/livenews/3054122",
           "source": "华尔街见闻-快讯",
@@ -260,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        },
+        {
+          "title": "严厉打击无AI标识的虚假不实信息",
+          "url": "https://www.douyin.com/hot/2398522",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "让AI集体翻车的洗车难题",
@@ -287,6 +298,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时11分 ~ 03时18分]"
+        },
+        {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时08分 ~ 19时44分]"
         },
         {
           "title": "全国首单“AI+人形机器人”研发领域科创债发行",
@@ -349,15 +371,16 @@
           "time_info": "[16时55分 ~ 17时57分]"
         },
         {
-          "title": "Seedance2.0展示中国AI潜力",
-          "url": "https://www.douyin.com/hot/2398167",
-          "source": "抖音",
+          "title": "掌阅科技：公司2025年度AI短剧业务收入预计不超过2025年度主营业务收入的1%。",
+          "url": "https://wallstreetcn.com/livenews/3054455",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            6,
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时08分 ~ 18时56分]"
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时44分]"
         },
         {
           "title": "AI淘金热变成AI恐慌潮！华尔街新共识：躲开一切可能被颠覆的公司",
@@ -384,6 +407,18 @@
           "time_info": "[03时18分 ~ 04时50分]"
         },
         {
+          "title": "哈尔滨小哥为早回家过年找AI替班",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时44分]"
+        },
+        {
           "title": "依视路陆逊梯卡：AI眼镜价格将上涨。",
           "url": "https://wallstreetcn.com/livenews/3053910",
           "source": "华尔街见闻-快讯",
@@ -396,6 +431,18 @@
           "time_info": "[03时18分 ~ 04时50分]"
         },
         {
+          "title": "用AI解锁吴克群将军令",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E8%A7%A3%E9%94%81%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B0%86%E5%86%9B%E4%BB%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时44分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-12）",
           "url": "https://flash.jin10.com/detail/20260212120054964800",
           "source": "金十数据",
@@ -405,17 +452,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
-        },
-        {
-          "title": "掌阅科技：公司2025年度AI短剧业务收入预计不超过2025年度主营业务收入的1%。",
-          "url": "https://wallstreetcn.com/livenews/3054455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
         },
         {
           "title": "软银集团：将以软银公司股份为抵押的保证金贷款增加了4000亿日元。 2025年4月至12月期间，因投资OpenAI录得2.8万亿日元投资收益。 愿景基金二号（Vision Fund 2）在2025年4月至12月期间，因投资OpenAI录得170亿美元投资收益。",
@@ -451,6 +487,28 @@
           "time_info": "13时02分"
         },
         {
+          "title": "深圳：开展智能网联汽车“车路云一体化”应用试点 加大“智造+智驾”汽车全产业链AI赋能力度",
+          "url": "https://wallstreetcn.com/livenews/3054473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "深圳：以AI芯片为突破口做强半导体产业",
+          "url": "https://wallstreetcn.com/livenews/3054472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "大摩“暴力”上调美光目标价至450美元：只要AI需求强劲，中国产能冲击、资本开支过热统统不是问题！",
           "url": "https://wallstreetcn.com/articles/3765518",
           "source": "华尔街见闻",
@@ -473,6 +531,17 @@
           "time_info": "15时08分"
         },
         {
+          "title": "深圳：到2027年在“人工智能+”先进制造业领域建成国家人工智能应用中试基地",
+          "url": "https://wallstreetcn.com/livenews/3054471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "谷歌的母公司 Alphabet 拟发行百年期债券，科技圈 30 年来首次，如何解读？",
           "url": "https://www.zhihu.com/question/2004856222604551649",
           "source": "知乎",
@@ -482,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
+          "url": "https://www.cls.cn/detail/2288655",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "支付宝AI付笔数超1.2亿",
@@ -506,6 +586,17 @@
           "time_info": "15时08分"
         },
         {
+          "title": "上海市委网信办、市公安局网安总队联合开展“整治AI涉企虚假不实信息”专项行动",
+          "url": "https://wallstreetcn.com/livenews/3054467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "马斯克xAI全员大会宣布裁员",
           "url": "https://www.toutiao.com/trending/7605774882411908671/",
           "source": "今日头条",
@@ -515,17 +606,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
-        },
-        {
-          "title": "哈尔滨小哥为早回家过年找AI替班",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
         },
         {
           "title": "AI基础设施需求爆发 思科上调业绩预期",
@@ -545,7 +625,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -572,6 +652,17 @@
           "time_info": "02时10分"
         },
         {
+          "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "思科(CSCO.O)：来自超大规模厂商的人工智能基础设施订单总额达21亿美元，反映出增长显著加速。",
           "url": "https://flash.jin10.com/detail/20260212051118010800",
           "source": "金十数据",
@@ -594,13 +685,24 @@
           "time_info": "06时35分"
         },
         {
+          "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
+          "url": "https://www.zhihu.com/question/2004603319558042744",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
           "url": "https://wallstreetcn.com/livenews/3054425",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -636,17 +738,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
-        },
-        {
-          "title": "用AI解锁吴克群将军令",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E8%A7%A3%E9%94%81%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B0%86%E5%86%9B%E4%BB%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
         },
         {
           "title": "加拿大央行会议纪要：人工智能的狂热情绪对前景构成风险。",
@@ -773,7 +864,7 @@
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Seedance 2.0征服海外！马斯克感慨发展太快 美国导演称或会颠覆好莱坞",
@@ -784,8 +875,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时55分 ~ 18时56分]"
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 19时44分]"
         },
         {
           "title": "马斯克感慨Seedance2.0发展快",
@@ -797,6 +888,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        },
+        {
+          "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
+          "url": "https://wallstreetcn.com/articles/3765571",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         }
       ]
     },
