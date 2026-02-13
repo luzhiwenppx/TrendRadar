@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T22:46:35.263558+08:00",
-  "total_titles_processed": 1839,
+  "generated_at": "2026-02-13T23:49:58.413733+08:00",
+  "total_titles_processed": 1936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 73,
+      "match_count": 81,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时42分 ~ 22时46分]"
+          "appearance_count": 15,
+          "time_info": "[10时42分 ~ 23时49分]"
         },
         {
           "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时52分 ~ 22时46分]"
+          "appearance_count": 9,
+          "time_info": "[16时52分 ~ 23时49分]"
         },
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -88,8 +88,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时42分 ~ 22时46分]"
+          "appearance_count": 15,
+          "time_info": "[10时42分 ~ 23时49分]"
+        },
+        {
+          "title": "AI整活无底线,赛文演员急了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时52分 ~ 23时49分]"
         },
         {
           "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
@@ -126,8 +139,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时42分 ~ 22时46分]"
+          "appearance_count": 15,
+          "time_info": "[10时42分 ~ 23时49分]"
         },
         {
           "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
@@ -138,8 +151,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时53分 ~ 22时46分]"
+          "appearance_count": 11,
+          "time_info": "[15时53分 ~ 23时49分]"
         },
         {
           "title": "一个2.6万亿AI独角兽诞生",
@@ -151,11 +164,12 @@
             14,
             18,
             16,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时53分 ~ 22时46分]"
+          "appearance_count": 11,
+          "time_info": "[15时53分 ~ 23时49分]"
         },
         {
           "title": "Seedance2.0展示中国AI潜力",
@@ -168,11 +182,12 @@
             19,
             20,
             28,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时58分 ~ 21时12分]"
+          "appearance_count": 11,
+          "time_info": "[12时58分 ~ 23时49分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -184,19 +199,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时10分 ~ 10时43分]"
-        },
-        {
-          "title": "AI整活无底线,赛文演员急了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时52分 ~ 22时46分]"
         },
         {
           "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
@@ -370,9 +372,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
+        },
+        {
+          "title": "FTC升级对微软反垄断调查，向竞争对手质询云与AI业务",
+          "url": "https://flash.jin10.com/detail/20260213233520438800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "欧盟将于4月前就针对谷歌的DMA框架下AI草案措施展开咨询",
@@ -381,9 +394,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
+        },
+        {
+          "title": "报道：法律AI初创公司Legora计划融资，估值或升至60亿美元",
+          "url": "https://wallstreetcn.com/livenews/3055282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
@@ -632,6 +656,50 @@
           "time_info": "07时35分"
         },
         {
+          "title": "据悉美国劳工部寻求加强员工人工智能培训。",
+          "url": "https://flash.jin10.com/detail/20260213231807078800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "美国联邦贸易委员会（FTC）加大对微软(MSFT.O)的调查力度，就云和人工智能问题向竞争对手取证。",
+          "url": "https://flash.jin10.com/detail/20260213231654274800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "美国联邦贸易委员会（FTC）加速调查微软，就云和AI问题询问该公司的竞争对手们。",
+          "url": "https://wallstreetcn.com/livenews/3055274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "美国劳工部督促雇主加强员工AI使用培训",
+          "url": "https://wallstreetcn.com/livenews/3055273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "AI算力催生电力需求 核聚变行业资本开支进入上行周期",
           "url": "https://www.cls.cn/detail/2289093",
           "source": "财联社热门",
@@ -693,7 +761,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -715,9 +783,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
+        },
+        {
+          "title": "人工智能公司Anthropic：克里斯·利德尔（Chris Liddell、曾担任特朗普助手）被任命为董事会成员。",
+          "url": "https://flash.jin10.com/detail/20260213230215077800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "英国央行首席经济学家皮尔：非加速通胀失业率（NAIRU）可能已上升。",
@@ -751,6 +830,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "马斯克旗下银团正商讨方案，旨在解决SpaceX与xAI合并后的债务问题",
+          "url": "https://wallstreetcn.com/livenews/3055261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "市场消息：沙特阿美与微软签署谅解备忘录，推进工业人工智能发展。",
@@ -858,7 +948,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         }
