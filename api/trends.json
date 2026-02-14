@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-14T19:28:05.016363+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-02-14T21:01:07.548112+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 54,
+      "match_count": 61,
       "titles": [
-        {
-          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时39分]"
-        },
         {
           "title": "AI无视版权,老外集火围殴",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350684&amp;topic_name=AI%E6%97%A0%E8%A7%86%E7%89%88%E6%9D%83%2C%E8%80%81%E5%A4%96%E9%9B%86%E7%81%AB%E5%9B%B4%E6%AE%B4",
@@ -28,8 +17,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时53分 ~ 21时01分]"
+        },
+        {
+          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[14时53分 ~ 19时28分]"
+          "time_info": "[00时55分 ~ 06时39分]"
         },
         {
           "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
@@ -68,11 +68,36 @@
             5,
             4,
             2,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时46分 ~ 19时28分]"
+          "appearance_count": 13,
+          "time_info": "[12时46分 ~ 21时01分]"
+        },
+        {
+          "title": "AI女副总因反色情被炒鱿鱼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时37分 ~ 21时01分]"
+        },
+        {
+          "title": "“我们正在目睹一场AI创造性破坏席卷全球各行各业”！高盛合伙人：本质上，这是一次“护城河检查”",
+          "url": "https://wallstreetcn.com/articles/3765723",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时39分 ~ 21时01分]"
         },
         {
           "title": "老码农裁员理由+1:被AI优化",
@@ -88,8 +113,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时55分 ~ 19时28分]"
+          "appearance_count": 25,
+          "time_info": "[00时55分 ~ 21时01分]"
         },
         {
           "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
@@ -105,17 +130,6 @@
           "time_info": "[00时55分 ~ 07时36分]"
         },
         {
-          "title": "AI女副总因反色情被炒鱿鱼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时37分 ~ 19时28分]"
-        },
-        {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
           "url": "https://www.cls.cn/detail/2290186",
           "source": "财联社热门",
@@ -127,8 +141,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时46分 ~ 19时28分]"
+          "appearance_count": 13,
+          "time_info": "[12时46分 ~ 21时01分]"
         },
         {
           "title": "AI整活无底线,赛文演员急了",
@@ -144,8 +158,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时55分 ~ 19时28分]"
+          "appearance_count": 25,
+          "time_info": "[00时55分 ~ 21时01分]"
         },
         {
           "title": "澎湃AI晚新闻丨2026年2月13日",
@@ -161,8 +175,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[03时48分 ~ 19时28分]"
+          "appearance_count": 19,
+          "time_info": "[03时48分 ~ 21时01分]"
         },
         {
           "title": "一个2.6万亿AI独角兽诞生",
@@ -207,18 +221,6 @@
           "time_info": "[10时29分 ~ 17时37分]"
         },
         {
-          "title": "“我们正在目睹一场AI创造性破坏席卷全球各行各业”！高盛合伙人：本质上，这是一次“护城河检查”",
-          "url": "https://wallstreetcn.com/articles/3765723",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时39分 ~ 19时28分]"
-        },
-        {
           "title": "马上评｜AI时代，让我们更懂年味",
           "url": "https://m.thepaper.cn/newsDetail_forward_32604363",
           "source": "澎湃新闻",
@@ -228,8 +230,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时39分 ~ 19时28分]"
+          "appearance_count": 8,
+          "time_info": "[16时39分 ~ 21时01分]"
+        },
+        {
+          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
+          "url": "https://wallstreetcn.com/articles/3765719",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时37分 ~ 21时01分]"
         },
         {
           "title": "“时机尴尬”！外媒爆“美对委军事行动使用AI模型Claude”，涉事美企回应",
@@ -273,6 +288,17 @@
           "time_info": "07时36分"
         },
         {
+          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3055546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "科大讯飞吴晓如：AI核心业务推动出海提速 2025年公司海外营收突破10亿元",
           "url": "https://flash.jin10.com/detail/20260214095050281800",
           "source": "金十数据",
@@ -284,38 +310,26 @@
           "time_info": "10时30分"
         },
         {
-          "title": "市场消息：英伟达首席执行官黄仁勋将不出席下周的印度人工智能峰会。",
-          "url": "https://flash.jin10.com/detail/20260214190015581800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
           "title": "英伟达首席执行官黄仁勋下周将不出席印度人工智能峰会。",
           "url": "https://wallstreetcn.com/livenews/3055529",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
         {
-          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
-          "url": "https://wallstreetcn.com/articles/3765719",
-          "source": "华尔街见闻",
+          "title": "印度AI峰会“五天赛程”安排",
+          "url": "https://wallstreetcn.com/livenews/3055544",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时37分 ~ 19时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "13F报告显示：巴克莱四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。 减持英伟达、微软、摩根大通、百事、苹果。 重仓英伟达、微软、苹果、亚马逊、谷歌A。",
@@ -394,6 +408,18 @@
           "time_info": "[16时39分 ~ 18时33分]"
         },
         {
+          "title": "市场消息：英伟达首席执行官黄仁勋将不出席下周的印度人工智能峰会。",
+          "url": "https://flash.jin10.com/detail/20260214190015581800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 21时01分]"
+        },
+        {
           "title": "欧洲银行股年内涨幅悉数回吐 分析师：银行股已成为人工智能最新受害者",
           "url": "https://flash.jin10.com/detail/20260214003126330800",
           "source": "金十数据",
@@ -417,6 +443,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时41分 ~ 07时36分]"
+        },
+        {
+          "title": "2026 年春节 AI 红包大战预计烧掉 45 亿，真的能让用户接受 AI 智能成为日常生活的标配吗？",
+          "url": "https://www.zhihu.com/question/2003986885089981631",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时27分 ~ 21时01分]"
         },
         {
           "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
@@ -494,6 +531,17 @@
           "time_info": "[06时39分 ~ 07时36分]"
         },
         {
+          "title": "如何理解开年全球市场？“可负担性”才是 2026 的总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
+          "url": "https://wallstreetcn.com/articles/3765728",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时00分 ~ 21时01分]"
+        },
+        {
           "title": "13F报告显示：索罗斯四季度建仓做多Dayforce、New Gold等。 增持微软、台积电、艺电、亚马逊。 减持Snowflake、Invesco标普500 平权ETF。 清仓Aramark、KKR、iShares 7-10年期美国国债ETF等。 重仓亚马逊、谷歌A、Salesforce、TKO、微软。",
           "url": "https://wallstreetcn.com/livenews/3055379",
           "source": "华尔街见闻-快讯",
@@ -516,17 +564,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时46分 ~ 13时50分]"
-        },
-        {
-          "title": "2026 年春节 AI 红包大战预计烧掉 45 亿，真的能让用户接受 AI 智能成为日常生活的标配吗？",
-          "url": "https://www.zhihu.com/question/2003986885089981631",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 19时28分]"
         },
         {
           "title": "工信部等三部门：支持酿酒企业深化人工智能应用 提升生产经营全过程智能化水平",
@@ -562,6 +599,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时32分 ~ 18时33分]"
+        },
+        {
+          "title": "河南春晚 AI感",
+          "url": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E6%98%A5%E6%99%9A%20AI%E6%84%9F&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时00分 ~ 21时01分]"
+        },
+        {
+          "title": "意大利能源公司埃尼集团Eni确认：在安哥拉周边海域Algaita-01区块发现石油。",
+          "url": "https://wallstreetcn.com/livenews/3055541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
+          "url": "https://wallstreetcn.com/livenews/3055539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "报道：法律AI初创公司Legora计划融资，估值或升至60亿美元",
@@ -606,6 +676,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "因“不可预见的情况”，英伟达CEO黄仁勋取消下周的印度AI峰会行程",
+          "url": "https://wallstreetcn.com/livenews/3055529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "美国劳工部督促雇主加强员工AI使用培训",
