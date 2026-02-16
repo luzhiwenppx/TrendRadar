@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T22:48:16.087519+08:00",
-  "total_titles_processed": 1451,
+  "generated_at": "2026-02-16T23:47:18.477264+08:00",
+  "total_titles_processed": 1515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
@@ -40,8 +40,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时37分 ~ 22时48分]"
+          "appearance_count": 24,
+          "time_info": "[00时37分 ~ 23时47分]"
+        },
+        {
+          "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
+          "url": "https://wallstreetcn.com/articles/3765773",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时11分 ~ 23时47分]"
         },
         {
           "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
@@ -56,6 +69,33 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时37分 ~ 18时02分]"
+        },
+        {
+          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
+          "url": "https://www.cls.cn/detail/2290769",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时11分 ~ 23时47分]"
+        },
+        {
+          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
+          "url": "https://wallstreetcn.com/articles/3765774",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时56分 ~ 23时47分]"
         },
         {
           "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
@@ -89,46 +129,6 @@
           "time_info": "[00时37分 ~ 18时02分]"
         },
         {
-          "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
-          "url": "https://wallstreetcn.com/articles/3765773",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时11分 ~ 22时48分]"
-        },
-        {
-          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
-          "url": "https://www.cls.cn/detail/2290769",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时11分 ~ 22时48分]"
-        },
-        {
-          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
-          "url": "https://wallstreetcn.com/articles/3765774",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时56分 ~ 22时48分]"
-        },
-        {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
           "url": "https://www.cls.cn/detail/2290485",
           "source": "财联社热门",
@@ -139,8 +139,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时37分 ~ 22时48分]"
+          "appearance_count": 24,
+          "time_info": "[00时37分 ~ 23时47分]"
+        },
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时04分 ~ 23时47分]"
         },
         {
           "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
@@ -164,22 +178,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时37分 ~ 22时48分]"
-        },
-        {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时04分 ~ 22时48分]"
+          "appearance_count": 24,
+          "time_info": "[00时37分 ~ 23时47分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -220,8 +220,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时33分 ~ 22时48分]"
+          "appearance_count": 14,
+          "time_info": "[07时33分 ~ 23时47分]"
         },
         {
           "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
@@ -235,6 +235,21 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时37分 ~ 10时39分]"
+        },
+        {
+          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时11分 ~ 23时47分]"
         },
         {
           "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
@@ -311,6 +326,20 @@
           "time_info": "[01时30分 ~ 07时33分]"
         },
         {
+          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时56分 ~ 23时47分]"
+        },
+        {
           "title": "黑龙江：打造“人工智能＋”数据共享新场景",
           "url": "https://wallstreetcn.com/livenews/3055622",
           "source": "华尔街见闻-快讯",
@@ -323,33 +352,19 @@
           "time_info": "[00时38分 ~ 07时33分]"
         },
         {
-          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
-          "source": "澎湃新闻",
+          "title": "刘维用AI与去世父母姥姥隔空相见",
+          "url": "https://www.toutiao.com/trending/7607362287455797294/",
+          "source": "今日头条",
           "ranks": [
-            20,
-            18,
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时11分 ~ 22时48分]"
-        },
-        {
-          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15,
-            13
+            12,
+            11,
+            30,
+            24,
+            21
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时56分 ~ 22时48分]"
+          "time_info": "[18时02分 ~ 23时47分]"
         },
         {
           "title": "OpenClaw之父加入OpenAI",
@@ -399,20 +414,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时56分 ~ 21时15分]"
-        },
-        {
-          "title": "刘维用AI与去世父母姥姥隔空相见",
-          "url": "https://www.toutiao.com/trending/7607362287455797294/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            11,
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时02分 ~ 22时48分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -537,6 +538,17 @@
           "time_info": "[19时43分 ~ 21时15分]"
         },
         {
+          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
+          "url": "https://www.cls.cn/detail/2290959",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时46分 ~ 23时47分]"
+        },
+        {
           "title": "英国首相斯塔默收紧人工智能监管，将强制聊天机器人遵守在线安全法案",
           "url": "https://wallstreetcn.com/livenews/3055650",
           "source": "华尔街见闻-快讯",
@@ -569,6 +581,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "软件开发商达索系统法国巴黎股价维持超过7%的跌幅，投资者对人工智能（AI）的恐慌情绪挥之不去。",
+          "url": "https://wallstreetcn.com/livenews/3055756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时47分]"
         },
         {
           "title": "UP主联合手搓AI春晚",
@@ -615,17 +639,6 @@
           "time_info": "21时15分"
         },
         {
-          "title": "软件开发商达索系统法国巴黎股价维持超过7%的跌幅，投资者对人工智能（AI）的恐慌情绪挥之不去。",
-          "url": "https://wallstreetcn.com/livenews/3055756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "港股AI应用股走强，阜博集团（03738.HK）领涨14.38%、海致科技集团（02706.HK）涨12.1%、智谱(02513.HK)涨超7%、阅文集团(00772.HK)涨2.53%。",
           "url": "https://flash.jin10.com/detail/20260216092812837800",
           "source": "金十数据",
@@ -670,13 +683,24 @@
           "time_info": "16时57分"
         },
         {
+          "title": "报道：美国国防部接近与Anthropic切断关系，双方就AI军事用途存分歧",
+          "url": "https://wallstreetcn.com/livenews/3055750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "德银：AI“输家”惨遭抛售的种子早在2022年就已种下",
           "url": "https://wallstreetcn.com/livenews/3055751",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         }
