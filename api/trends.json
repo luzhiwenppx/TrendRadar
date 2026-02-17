@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T03:05:00.093245+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-02-18T04:44:20.238327+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 21,
+      "match_count": 30,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 03时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 04时44分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 03时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 04时44分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 03时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 04时44分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -49,41 +49,91 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 03时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 04时44分]"
+        },
+        {
+          "title": "美联储戴利：人工智能是帮助我们应对通胀的一种机制，但它也是一种限制性政策。",
+          "url": "https://flash.jin10.com/detail/20260218042137521800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
           "url": "https://www.cls.cn/detail/2290650",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 03时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 04时44分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 03时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 04时44分]"
         },
         {
           "title": "王菲化妆师改口问就是AI",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8C%96%E5%A6%86%E5%B8%88%E6%94%B9%E5%8F%A3%E9%97%AE%E5%B0%B1%E6%98%AFAI%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 03时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 04时44分]"
+        },
+        {
+          "title": "美联储理事Barr：AI繁荣对货币政策并不敏感。",
+          "url": "https://wallstreetcn.com/livenews/3056090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 04时44分]"
+        },
+        {
+          "title": "Anthropic发布新AI模型，强化电脑操作与编程能力",
+          "url": "https://wallstreetcn.com/livenews/3056082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 04时44分]"
+        },
+        {
+          "title": "报道：苹果大改AI眼镜等三款可穿戴设备",
+          "url": "https://wallstreetcn.com/livenews/3056080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 04时44分]"
         },
         {
           "title": "美联储理事巴尔：人工智能投资对美联储的利率目标“极为漠不关心”。",
@@ -92,7 +142,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
         },
@@ -108,15 +158,15 @@
           "time_info": "01时08分"
         },
         {
-          "title": "美联储理事Barr：AI繁荣对货币政策并不敏感。",
-          "url": "https://wallstreetcn.com/livenews/3056090",
+          "title": "美国旧金山联储主席戴利：达到中性利率之前，我们大约还有75个基点的空间。 官员们应该等待关于人工智能（AI）影响的信号。 美联储在研究中使用AI技术，但在做FOMC货币政策决定时不会。",
+          "url": "https://wallstreetcn.com/livenews/3056106",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "04时44分"
         },
         {
           "title": "美联储理事巴尔：美联储很难判断人工智能带来的影响是结构性的还是周期性的。",
@@ -125,9 +175,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "13F报告显示：Tiger Global Management LLC.在四季度增持Coupang、Black、ServiceNOW等。 清仓MongoDB等。 减持Sea、微软、Applovin、Meta、Reddit。 重仓谷歌母公司Alphabet、微软、亚马逊、英伟达、Sea。",
+          "url": "https://wallstreetcn.com/livenews/3056102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "Anthropic发布新一代AI模型Claude Sonnet 4.6",
@@ -136,20 +197,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
         },
         {
-          "title": "Anthropic发布新AI模型，强化电脑操作与编程能力",
-          "url": "https://wallstreetcn.com/livenews/3056082",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储戴利：不能将所有生产率增长都归因于人工智能，但生产率确实正在发生变化。",
+          "url": "https://flash.jin10.com/detail/20260218040450529800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "04时44分"
         },
         {
           "title": "美联储理事巴尔：基本情况是，人工智能正在为经济带来积极影响。",
@@ -158,20 +219,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
         },
         {
-          "title": "报道：苹果大改AI眼镜等三款可穿戴设备",
-          "url": "https://wallstreetcn.com/livenews/3056080",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储戴利：人工智能投资可提振需求，加剧通胀压力；但生产力具有通胀放缓作用。",
+          "url": "https://flash.jin10.com/detail/20260218040421834800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "04时44分"
         },
         {
           "title": "阿达尼集团将对可再生能源支持的AI数据中心投资1000亿美元",
@@ -191,7 +252,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
         },
@@ -202,7 +263,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
         },
@@ -218,15 +279,37 @@
           "time_info": "01时08分"
         },
         {
+          "title": "美联储戴利：美联储须深入研究人工智能影响，方能做出正确利率决策",
+          "url": "https://flash.jin10.com/detail/20260218035606330800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
           "title": "美联储理事巴尔：人工智能有可能随着时间的推移提高结构性失业率。",
           "url": "https://flash.jin10.com/detail/20260218020927738800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "美联储戴利在关于人工智能的准备发言中未提及近期利率制定和经济前景。",
+          "url": "https://flash.jin10.com/detail/20260218034830084800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "苹果加速布局AI穿戴设备 三款新品细节曝光",
@@ -235,9 +318,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "美联储戴利：美联储必须深入研究人工智能的影响，才能在未来做出正确的利率决策。",
+          "url": "https://flash.jin10.com/detail/20260218033040854800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "2027年FOMC票委、旧金山联储主席戴利将于十分钟后就人工智能与经济问题发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260218032000000800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         }
       ]
     },
@@ -252,7 +357,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
         },
@@ -261,11 +366,23 @@
           "url": "https://wallstreetcn.com/livenews/3056096",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 04时44分]"
+        },
+        {
+          "title": "马斯克机器人涉色情被爱尔兰调查",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B6%89%E8%89%B2%E6%83%85%E8%A2%AB%E7%88%B1%E5%B0%94%E5%85%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 04时44分]"
         },
         {
           "title": "看着春晚，英媒想起马斯克这句：中国早就next level",
@@ -277,17 +394,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时07分 ~ 01时08分]"
-        },
-        {
-          "title": "马斯克机器人涉色情被爱尔兰调查",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B6%89%E8%89%B2%E6%83%85%E8%A2%AB%E7%88%B1%E5%B0%94%E5%85%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时04分 ~ 03时05分]"
         }
       ]
     }
