@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T21:18:30.749006+08:00",
-  "total_titles_processed": 1602,
+  "generated_at": "2026-02-19T22:54:18.212618+08:00",
+  "total_titles_processed": 1709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 59,
+      "match_count": 68,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -64,11 +64,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时57分 ~ 21时18分]"
+          "appearance_count": 13,
+          "time_info": "[12时57分 ~ 22时54分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -80,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 21时18分]"
+          "appearance_count": 24,
+          "time_info": "[00时31分 ~ 22时54分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -93,11 +94,12 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时37分 ~ 21时18分]"
+          "appearance_count": 15,
+          "time_info": "[10时37分 ~ 22时54分]"
         },
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -122,11 +124,12 @@
             19,
             20,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 21时18分]"
+          "appearance_count": 24,
+          "time_info": "[00时31分 ~ 22时54分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -140,11 +143,12 @@
             25,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 21时18分]"
+          "appearance_count": 24,
+          "time_info": "[00时31分 ~ 22时54分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -160,6 +164,17 @@
           "time_info": "[03时02分 ~ 10时38分]"
         },
         {
+          "title": "日盟警告:字节AI别来沾边",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350787&amp;topic_name=%E6%97%A5%E7%9B%9F%E8%AD%A6%E5%91%8A%3A%E5%AD%97%E8%8A%82AI%E5%88%AB%E6%9D%A5%E6%B2%BE%E8%BE%B9",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 22时54分]"
+        },
+        {
           "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
           "url": "https://flash.jin10.com/detail/20260219134816589800",
           "source": "金十数据",
@@ -171,15 +186,37 @@
           "time_info": "14时06分"
         },
         {
-          "title": "ServiceNow首席运营官Amit Zavery：如果一些软件公司未能为采用人工智能而进行业务转型，那么行业内可能会出现整合。",
-          "url": "https://wallstreetcn.com/livenews/3056641",
+          "title": "美联储Kashkari：人工智能投资可能正在推高中性利率。 沃什完全有资格担任美联储主席。 不确定能否在没有重大变化的情况下缩减资产负债表。",
+          "url": "https://wallstreetcn.com/livenews/3056665",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时18分"
+          "time_info": "22时54分"
+        },
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时51分 ~ 22时54分]"
+        },
+        {
+          "title": "波音美股盘初跌超1.8%，越南航空公司Vietnam Airlines、Sun PhuQuoc Airways、以及VietJet宣布，采购将近100架波音飞机。",
+          "url": "https://wallstreetcn.com/livenews/3056664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "比尔·盖茨宣布取消在印度人工智能峰会上的演讲",
@@ -295,6 +332,18 @@
           "time_info": "[00时32分 ~ 01时14分]"
         },
         {
+          "title": "ServiceNow首席运营官Amit Zavery：如果一些软件公司未能为采用人工智能而进行业务转型，那么行业内可能会出现整合。",
+          "url": "https://wallstreetcn.com/livenews/3056641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 22时54分]"
+        },
+        {
           "title": "谷歌：Lyria 3已在美国上线，并正向其他国家的YouTube创作者推广。",
           "url": "https://flash.jin10.com/detail/20260219000628825800",
           "source": "金十数据",
@@ -331,15 +380,29 @@
           "time_info": "[00时32分 ~ 01时14分]"
         },
         {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
+          "title": "美国两大人工智能巨头CEO拒绝牵手",
+          "url": "https://www.toutiao.com/trending/7608479654936674347/",
+          "source": "今日头条",
           "ranks": [
-            10
+            28,
+            15,
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时51分 ~ 21时18分]"
+          "time_info": "[19时42分 ~ 22时54分]"
+        },
+        {
+          "title": "腾讯姚顺雨首篇论文提出「AI 下半场」先搞上下文学习，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2002102277314454310",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时18分 ~ 22时54分]"
         },
         {
           "title": "印度首富承诺最高投资1100亿美元建AI基础设施",
@@ -462,18 +525,6 @@
           "time_info": "[05时40分 ~ 06时39分]"
         },
         {
-          "title": "美国两大人工智能巨头CEO拒绝牵手",
-          "url": "https://www.toutiao.com/trending/7608479654936674347/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时42分 ~ 21时18分]"
-        },
-        {
           "title": "谷歌Gemini上线音乐模型",
           "url": "https://www.toutiao.com/trending/7608160422319472646/",
           "source": "今日头条",
@@ -520,6 +571,17 @@
           "time_info": "[03时03分 ~ 04时47分]"
         },
         {
+          "title": "中美AI科技转向",
+          "url": "https://www.toutiao.com/trending/7608548446047309375/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 22时54分]"
+        },
+        {
           "title": "中国科研团队研发出AI看病系统",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E7%A0%94%E5%9B%A2%E9%98%9F%E7%A0%94%E5%8F%91%E5%87%BAAI%E7%9C%8B%E7%97%85%E7%B3%BB%E7%BB%9F",
           "source": "百度热搜",
@@ -531,15 +593,26 @@
           "time_info": "[10时37分 ~ 10时38分]"
         },
         {
-          "title": "腾讯姚顺雨首篇论文提出「AI 下半场」先搞上下文学习，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2002102277314454310",
-          "source": "知乎",
+          "title": "北京大学陈江教授讲AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E9%99%88%E6%B1%9F%E6%95%99%E6%8E%88%E8%AE%B2AI&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 22时54分]"
+        },
+        {
+          "title": "美联储卡什卡利：人工智能投资很可能推高中性利率。",
+          "url": "https://flash.jin10.com/detail/20260219223811056800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时18分"
+          "time_info": "22时54分"
         },
         {
           "title": "印度总理莫迪于2月19日在人工智能峰会上会见了阿布扎比王储。",
@@ -581,7 +654,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -652,6 +725,17 @@
           "time_info": "12时58分"
         },
         {
+          "title": "美联储卡什卡利：美联储在内部使用人工智能时持谨慎态度，并设有强有力的护栏，以防止访问机密数据。",
+          "url": "https://flash.jin10.com/detail/20260219222646571800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "美国宣布与网络安全和AI风险管理相关的倡议。",
           "url": "https://wallstreetcn.com/livenews/3056433",
           "source": "华尔街见闻-快讯",
@@ -661,6 +745,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "美联储卡什卡利：人工智能在未来5到10年可能提升生产力。",
+          "url": "https://flash.jin10.com/detail/20260219222640317800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美联储卡什卡利：对人工智能持乐观态度，几乎所有企业都在发现使用人工智能带来的益处。",
+          "url": "https://flash.jin10.com/detail/20260219222636560800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "谷歌：推出499美元的Pixel 10A智能手机，价格保持不变。",
