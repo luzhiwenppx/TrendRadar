@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T05:29:40.610507+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-02-22T06:30:59.785299+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时36分 ~ 06时30分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时36分 ~ 06时30分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时36分 ~ 06时30分]"
         },
         {
           "title": "印度AI峰会为何引发全球群嘲",
@@ -48,7 +48,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         }
