@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T17:36:02.114542+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2026-02-21T18:32:56.477881+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时47分 ~ 17时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时47分 ~ 18时32分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时33分 ~ 17时36分]"
+          "appearance_count": 12,
+          "time_info": "[06时33分 ~ 18时32分]"
         },
         {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
@@ -72,8 +72,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时47分 ~ 17时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时47分 ~ 18时32分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -99,11 +99,12 @@
             24,
             25,
             26,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时47分 ~ 17时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时47分 ~ 18时32分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -287,6 +288,28 @@
           "time_info": "01时42分"
         },
         {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "ClaudeCode 之父称不再需要「planmode」，将对 AI 编程带来哪些变革？",
+          "url": "https://www.zhihu.com/question/2008176730532234790",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "谷歌公司探索多种方法，从而为自家AI芯片扩大市场。 谷歌考虑将TPU部门重组为一个单独的部门，但还没有相应的计划。 谷歌洽谈对初创公司FluidStack投资大约1亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3057039",
           "source": "华尔街见闻-快讯",
@@ -341,6 +364,21 @@
           "time_info": "[00时47分 ~ 10时27分]"
         },
         {
+          "title": "马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
+          "url": "https://wallstreetcn.com/livenews/3057164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            8,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时51分 ~ 18时32分]"
+        },
+        {
           "title": "马斯克称星舰每年将发射超过1万颗卫星",
           "url": "https://flash.jin10.com/detail/20260221100438466800",
           "source": "金十数据",
@@ -355,20 +393,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时27分 ~ 16时38分]"
-        },
-        {
-          "title": "马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
-          "url": "https://wallstreetcn.com/livenews/3057164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时51分 ~ 17时36分]"
         },
         {
           "title": "马斯克称星舰每年将发射超过1万颗卫星",
