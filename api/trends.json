@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T00:36:27.276199+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-22T01:31:14.951529+08:00",
+  "total_titles_processed": 335,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时31分]"
         }
       ]
     },
@@ -51,11 +51,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32639070",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时31分]"
         }
       ]
     }
