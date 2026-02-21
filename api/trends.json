@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T13:47:16.907760+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2026-02-21T14:51:53.935193+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时47分 ~ 13时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 14时51分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -46,8 +46,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时47分 ~ 13时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 14时51分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -72,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时47分 ~ 13时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 14时51分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -87,8 +87,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时47分 ~ 13时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 14时51分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -102,8 +102,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时47分 ~ 13时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 14时51分]"
         },
         {
           "title": "男子用AI鉴定玉石8个月收入上百万",
@@ -168,11 +168,27 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时33分 ~ 13时47分]"
+          "appearance_count": 7,
+          "time_info": "[06时33分 ~ 14时51分]"
+        },
+        {
+          "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3057138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            21,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时34分 ~ 14时51分]"
         },
         {
           "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
@@ -189,31 +205,18 @@
           "time_info": "[05时31分 ~ 10时27分]"
         },
         {
-          "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3057138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时34分 ~ 13时47分]"
-        },
-        {
           "title": "OpenAI：预计到2030年营收将超过2800亿美元",
           "url": "https://flash.jin10.com/detail/20260221100811881800",
           "source": "金十数据",
           "ranks": [
             2,
             9,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 14时51分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -223,11 +226,12 @@
             7,
             15,
             25,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时34分 ~ 13时47分]"
+          "appearance_count": 5,
+          "time_info": "[07时34分 ~ 14时51分]"
         },
         {
           "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
@@ -302,7 +306,7 @@
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
@@ -320,17 +324,29 @@
           "time_info": "[00时47分 ~ 10时27分]"
         },
         {
+          "title": "马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
+          "url": "https://wallstreetcn.com/livenews/3057164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "马斯克称星舰每年将发射超过1万颗卫星",
           "url": "https://flash.jin10.com/detail/20260221100438466800",
           "source": "金十数据",
           "ranks": [
             3,
             10,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 14时51分]"
         },
         {
           "title": "马斯克称星舰每年将发射超过1万颗卫星",
@@ -339,11 +355,12 @@
           "ranks": [
             7,
             17,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 14时51分]"
         },
         {
           "title": "马斯克妈妈说不想去火星",
