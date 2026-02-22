@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T19:27:35.246619+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2026-02-22T21:01:19.657513+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时36分 ~ 19时27分]"
+          "appearance_count": 23,
+          "time_info": "[00时36分 ~ 21时01分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时36分 ~ 19时27分]"
+          "appearance_count": 23,
+          "time_info": "[00时36分 ~ 21时01分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -71,8 +71,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时38分 ~ 19时27分]"
+          "appearance_count": 13,
+          "time_info": "[10时38分 ~ 21时01分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -103,8 +103,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时40分 ~ 19时27分]"
+          "appearance_count": 7,
+          "time_info": "[15时40分 ~ 21时01分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -117,8 +117,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 19时27分]"
+          "appearance_count": 6,
+          "time_info": "[16时39分 ~ 21时01分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -142,8 +142,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时39分 ~ 21时01分]"
+        },
+        {
+          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
+          "url": "https://wallstreetcn.com/articles/3765949",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时39分 ~ 19时27分]"
+          "time_info": "[17时37分 ~ 21时01分]"
         },
         {
           "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
@@ -158,18 +170,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时38分 ~ 15时40分]"
-        },
-        {
-          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
-          "url": "https://wallstreetcn.com/articles/3765949",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时27分]"
         },
         {
           "title": "在现实生活与工作场景中，AI 给过你哪些「看似正确实则荒谬或难以落地」的回答？",
