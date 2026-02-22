@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T22:32:29.668646+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-02-22T23:31:52.275394+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时36分 ~ 22时32分]"
+          "appearance_count": 26,
+          "time_info": "[00时36分 ~ 23时31分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时36分 ~ 22时32分]"
+          "appearance_count": 26,
+          "time_info": "[00时36分 ~ 23时31分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -45,6 +45,34 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时38分 ~ 17时37分]"
+        },
+        {
+          "title": "表面风光之下，OpenAI的“四大困境”",
+          "url": "https://wallstreetcn.com/articles/3765945",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时40分 ~ 23时31分]"
+        },
+        {
+          "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
+          "url": "https://wallstreetcn.com/articles/3765948",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时39分 ~ 23时31分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -71,8 +99,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时38分 ~ 22时32分]"
+          "appearance_count": 16,
+          "time_info": "[10时38分 ~ 23时31分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -87,39 +115,12 @@
             23,
             17,
             26,
-            30
+            30,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时38分 ~ 21时51分]"
-        },
-        {
-          "title": "表面风光之下，OpenAI的“四大困境”",
-          "url": "https://wallstreetcn.com/articles/3765945",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时40分 ~ 22时32分]"
-        },
-        {
-          "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
-          "url": "https://wallstreetcn.com/articles/3765948",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时39分 ~ 22时32分]"
+          "appearance_count": 14,
+          "time_info": "[10时38分 ~ 23时31分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -131,8 +132,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时39分 ~ 22时32分]"
+          "appearance_count": 9,
+          "time_info": "[16时39分 ~ 23时31分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -144,8 +145,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时37分 ~ 22时32分]"
+          "appearance_count": 8,
+          "time_info": "[17时37分 ~ 23时31分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -190,11 +191,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时51分 ~ 22时32分]"
+          "appearance_count": 3,
+          "time_info": "[21时51分 ~ 23时31分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
