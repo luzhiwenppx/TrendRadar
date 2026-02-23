@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T22:56:17.896214+08:00",
-  "total_titles_processed": 1498,
+  "generated_at": "2026-02-23T23:53:09.427055+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,22 @@
           "time_info": "[00时37分 ~ 19时43分]"
         },
         {
+          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
+          "url": "https://wallstreetcn.com/articles/3765976",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时12分 ~ 23时53分]"
+        },
+        {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
           "url": "https://wallstreetcn.com/articles/3765948",
           "source": "华尔街见闻",
@@ -41,21 +57,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时37分 ~ 13时03分]"
-        },
-        {
-          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
-          "url": "https://wallstreetcn.com/articles/3765976",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时12分 ~ 22时56分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -80,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时37分 ~ 22时56分]"
+          "appearance_count": 26,
+          "time_info": "[00时37分 ~ 23时53分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
@@ -128,11 +129,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时57分 ~ 22时56分]"
+          "appearance_count": 9,
+          "time_info": "[16时57分 ~ 23时53分]"
         },
         {
           "title": "人工智能真的会让程序员在 5 年内失业吗？",
@@ -145,8 +147,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时57分 ~ 22时56分]"
+          "appearance_count": 9,
+          "time_info": "[16时57分 ~ 23时53分]"
+        },
+        {
+          "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2008557531367224108",
+          "source": "知乎",
+          "ranks": [
+            13,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时24分 ~ 23时53分]"
         },
         {
           "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
@@ -163,29 +178,18 @@
           "time_info": "[10时39分 ~ 16时57分]"
         },
         {
-          "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2008557531367224108",
-          "source": "知乎",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时24分 ~ 22时56分]"
-        },
-        {
           "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
           "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
           "source": "澎湃新闻",
           "ranks": [
             20,
             17,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时43分 ~ 22时56分]"
+          "appearance_count": 6,
+          "time_info": "[19时43分 ~ 23时53分]"
         },
         {
           "title": "苹果(AAPL.O)CEO库克暗示，苹果的下一个重大突破是视觉人工智能。",
@@ -295,7 +299,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -317,7 +321,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
