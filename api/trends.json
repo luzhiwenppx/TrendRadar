@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T15:12:58.042648+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2026-02-23T16:57:44.418804+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 15时12分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 16时57分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -62,8 +62,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 15时12分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 16时57分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -85,8 +85,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 15时12分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 16时57分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -110,11 +110,24 @@
           "ranks": [
             8,
             6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 16时57分]"
+        },
+        {
+          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
+          "url": "https://wallstreetcn.com/articles/3765976",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 15时12分]"
+          "appearance_count": 2,
+          "time_info": "[15时12分 ~ 16时57分]"
         },
         {
           "title": "苹果(AAPL.O)CEO库克暗示，苹果的下一个重大突破是视觉人工智能。",
@@ -129,6 +142,18 @@
           "time_info": "[05时31分 ~ 06时31分]"
         },
         {
+          "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
+          "url": "https://www.zhihu.com/question/2008217541886043272",
+          "source": "知乎",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时12分 ~ 16时57分]"
+        },
+        {
           "title": "受惠于AI热潮 泰国出口创四年来最大增幅",
           "url": "https://flash.jin10.com/detail/20260223125210171800",
           "source": "金十数据",
@@ -140,26 +165,15 @@
           "time_info": "13时03分"
         },
         {
-          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
-          "url": "https://wallstreetcn.com/articles/3765976",
+          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
+          "url": "https://wallstreetcn.com/articles/3765970",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
-          "url": "https://www.zhihu.com/question/2008217541886043272",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时57分"
         },
         {
           "title": "韩国和巴西达成新协议 涵盖关键矿产和人工智能",
@@ -168,7 +182,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -193,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "人工智能真的会让程序员在 5 年内失业吗？",
+          "url": "https://www.zhihu.com/question/617906623",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "机构：AI担忧加剧 英伟达财报或难提振股价",
@@ -223,7 +248,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
