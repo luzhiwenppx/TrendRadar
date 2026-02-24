@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T03:18:13.166182+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-02-25T05:11:21.840022+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时11分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时11分]"
         },
         {
           "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时11分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时11分]"
         },
         {
           "title": "李佳薇JKAI声乐大师课",
@@ -58,11 +58,47 @@
           "ranks": [
             6,
             10,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时11分]"
+        },
+        {
+          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
+          "url": "https://www.cls.cn/detail/2293574",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时11分]"
+        },
+        {
+          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
+          "url": "https://www.zhihu.com/question/41253586",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时11分]"
+        },
+        {
+          "title": "美联储巴尔金：生产率提升并非仅源于人工智能。",
+          "url": "https://flash.jin10.com/detail/20260225044639286800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "“官方辟谣”：白宫经济学家声称Citrini的AI风险报告纯属“科幻小说”",
@@ -71,9 +107,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "李在明社媒发AI视频",
+          "url": "https://www.douyin.com/hot/2410021",
+          "source": "抖音",
+          "ranks": [
+            17,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时11分]"
         },
         {
           "title": "据The Information：一份关于Anthropic员工提出的涵盖近50个研究项目的备忘录显示，其关注重点在于恶意AI代理与欺骗性模型。",
@@ -82,7 +131,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         },
@@ -104,45 +153,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         },
         {
-          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
-          "url": "https://www.cls.cn/detail/2293574",
-          "source": "财联社热门",
+          "title": "美联储巴尔金：担忧人工智能投资回落将对经济造成的影响。",
+          "url": "https://flash.jin10.com/detail/20260225044558231800",
+          "source": "金十数据",
           "ranks": [
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时18分]"
-        },
-        {
-          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
-          "url": "https://www.zhihu.com/question/41253586",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时18分]"
-        },
-        {
-          "title": "李在明社媒发AI视频",
-          "url": "https://www.douyin.com/hot/2410021",
-          "source": "抖音",
-          "ranks": [
-            17,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -150,11 +174,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 05时11分]"
         },
         {
           "title": "寻找AI惊涛骇浪下的避风港，高盛团队称资产密集型股票表现更佳",
@@ -169,6 +194,17 @@
           "time_info": "[02时00分 ~ 03时18分]"
         },
         {
+          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
+          "url": "https://wallstreetcn.com/articles/3766083",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时11分]"
+        },
+        {
           "title": "Anthropic拓展企业级AI代理生态，投行人力场景率先落地",
           "url": "https://wallstreetcn.com/articles/3766083",
           "source": "华尔街见闻",
@@ -179,17 +215,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时08分 ~ 02时00分]"
-        },
-        {
-          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
-          "url": "https://wallstreetcn.com/articles/3766083",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 03时18分]"
         },
         {
           "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
@@ -222,7 +247,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         },
@@ -244,7 +269,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         },
@@ -280,6 +305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "西安一市民除夕夜被AI给骂了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E5%B8%82%E6%B0%91%E9%99%A4%E5%A4%95%E5%A4%9C%E8%A2%ABAI%E7%BB%99%E9%AA%82%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "美联储理事沃勒：美国央行正推进AI的系统性部署",
