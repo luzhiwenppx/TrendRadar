@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T21:17:49.292682+08:00",
-  "total_titles_processed": 1685,
+  "generated_at": "2026-02-25T22:56:12.330450+08:00",
+  "total_titles_processed": 1806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 72,
+      "match_count": 76,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时47分 ~ 21时17分]"
+          "appearance_count": 16,
+          "time_info": "[07时47分 ~ 22时56分]"
         },
         {
           "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[03时16分 ~ 21时17分]"
+          "appearance_count": 21,
+          "time_info": "[03时16分 ~ 22时56分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -164,8 +164,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时57分 ~ 21时17分]"
+          "appearance_count": 13,
+          "time_info": "[12时57分 ~ 22时56分]"
         },
         {
           "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
@@ -272,17 +272,6 @@
           "time_info": "03时18分"
         },
         {
-          "title": "城堡证券反驳Citrini报告 认为人工智能不太可能引发大规模失业",
-          "url": "https://wallstreetcn.com/livenews/3058897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
           "title": "西安一市民除夕夜被AI给骂了",
           "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E5%B8%82%E6%B0%91%E9%99%A4%E5%A4%95%E5%A4%9C%E8%A2%ABAI%E7%BB%99%E9%AA%82%E4%BA%86%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -368,6 +357,18 @@
           "time_info": "[20时29分 ~ 21时17分]"
         },
         {
+          "title": "城堡证券反驳Citrini报告 认为人工智能不太可能引发大规模失业",
+          "url": "https://wallstreetcn.com/livenews/3058897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 22时56分]"
+        },
+        {
           "title": "寻找AI惊涛骇浪下的避风港，高盛团队称资产密集型股票表现更佳",
           "url": "https://wallstreetcn.com/livenews/3058280",
           "source": "华尔街见闻-快讯",
@@ -437,6 +438,18 @@
           "time_info": "[00时08分 ~ 02时00分]"
         },
         {
+          "title": "韩女子用AI精密策划诱杀致2死1伤",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时17分 ~ 22时56分]"
+        },
+        {
           "title": "AI短片 马上好",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
           "source": "bilibili 热搜",
@@ -459,6 +472,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时07分 ~ 16时03分]"
+        },
+        {
+          "title": "德银与高盛寻求借助人工智能“盯防”交易员不当行为",
+          "url": "https://wallstreetcn.com/livenews/3058893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 22时56分]"
         },
         {
           "title": "拉美电商巨头MercadoLibre（MELI.US）：代理AI工具将有助于跨境销售和个人财务。",
@@ -578,17 +603,6 @@
           "time_info": "[16时02分 ~ 16时03分]"
         },
         {
-          "title": "德银与高盛寻求借助人工智能“盯防”交易员不当行为",
-          "url": "https://wallstreetcn.com/livenews/3058893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
           "title": "据Axios网站：美国国防部长赫格塞思给Anthropic CEO达里奥·阿莫代设下最后期限——周五晚之前必须向军方无限制开放其AI模型，否则将面临严厉惩罚。",
           "url": "https://flash.jin10.com/detail/20260225022633218800",
           "source": "金十数据",
@@ -611,6 +625,17 @@
           "time_info": "07时48分"
         },
         {
+          "title": "戴尔(DELL.N)推出PowerEdge XR9700服务器，面向云无线接入网 (Cloud RAN) 和边缘人工智能 (Edge AI) 。",
+          "url": "https://flash.jin10.com/detail/20260225222134762800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "OpenAI：欢迎美国法院针对x.AI官司的决定。",
           "url": "https://wallstreetcn.com/livenews/3058374",
           "source": "华尔街见闻-快讯",
@@ -622,17 +647,6 @@
           "time_info": "06时50分"
         },
         {
-          "title": "韩女子用AI精密策划诱杀致2死1伤",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
           "title": "反向逻辑：城堡证券驳斥Citrini的“AI危机”设想",
           "url": "https://wallstreetcn.com/livenews/3058389",
           "source": "华尔街见闻-快讯",
@@ -642,6 +656,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
+        },
+        {
+          "title": "SoundHound AI Inc.在Bengaluru（印度班加罗尔）成立新的创新中心。",
+          "url": "https://wallstreetcn.com/livenews/3058919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "“AI灭霸”Anthropic与“受害股”合作推出智能体 软件板块集体回血",
@@ -697,6 +722,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "市场消息：墨西哥选举改革将要求在竞选活动中对人工智能生成内容进行标识。",
+          "url": "https://flash.jin10.com/detail/20260225220244476800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "美国国防部长“战争部”部长Hegseth就人工智能（AI）保障措施向Anthropic提供的最后期限为周五。 Hegseth告知该公司CEO Amodei，五角大楼可能会援引《国防生产法案》（DPA）。（Axios）",
@@ -765,6 +801,17 @@
           "time_info": "06时50分"
         },
         {
+          "title": "荷兰国际：逃离人工智能动荡的投资者可能转向欧元债券",
+          "url": "https://flash.jin10.com/detail/20260225214840051800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "Brandywine 全球投资管理公司基金经理杰克·麦金太尔（Jack McIntyre）：（对于美联储利率政策前景）问题在于，人工智能（AI）将如何引发通胀，也许长端利率曲线已经察觉到了这一切。 AI唯一的通胀因素在于数据中心的建设及其相关的能源需求，而这一点已经是已知信息。",
           "url": "https://wallstreetcn.com/livenews/3058363",
           "source": "华尔街见闻-快讯",
@@ -793,7 +840,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
