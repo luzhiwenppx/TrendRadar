@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T03:50:37.357818+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-02-27T04:43:52.193713+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 04时43分]"
         },
         {
           "title": "强劲财报难解AI担忧，英伟达跌超5%，纳指跌幅扩大至2%，芯片股承压，金涨银跌，油价反弹",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 04时43分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 04时43分]"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
@@ -49,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 04时43分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -62,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 04时43分]"
         },
         {
           "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
@@ -71,11 +71,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 03时50分]"
+          "appearance_count": 3,
+          "time_info": "[03时00分 ~ 04时43分]"
         },
         {
           "title": "Meta持续投资AI，用于监测Cloaking。",
@@ -118,9 +119,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "标普：基于人工智能驱动的规模和增长增强，将美光科技(MU.O)评级上调至“bbb”，展望积极。",
+          "url": "https://flash.jin10.com/detail/20260227033606328800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         },
         {
           "title": "谷歌：推出更快版本的最新图像模型Nano Banana 2，并将在谷歌旗下各产品中逐步上线。",
@@ -184,7 +196,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         },
