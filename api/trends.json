@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T19:37:46.707441+08:00",
-  "total_titles_processed": 1595,
+  "generated_at": "2026-02-27T21:10:04.299499+08:00",
+  "total_titles_processed": 1705,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时31分 ~ 19时37分]"
+          "appearance_count": 13,
+          "time_info": "[10时31分 ~ 21时10分]"
         },
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -54,6 +54,17 @@
           "time_info": "[01时10分 ~ 06时40分]"
         },
         {
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时50分 ~ 21时10分]"
+        },
+        {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
           "url": "https://wallstreetcn.com/articles/3766293",
           "source": "华尔街见闻",
@@ -65,8 +76,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时49分 ~ 19时37分]"
+          "appearance_count": 12,
+          "time_info": "[12时49分 ~ 21时10分]"
         },
         {
           "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
@@ -78,8 +89,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时36分 ~ 19时37分]"
+          "appearance_count": 14,
+          "time_info": "[07时36分 ~ 21时10分]"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
@@ -105,11 +116,12 @@
             13,
             17,
             21,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时10分 ~ 19时37分]"
+          "appearance_count": 22,
+          "time_info": "[01时10分 ~ 21时10分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -122,11 +134,12 @@
             19,
             15,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时36分 ~ 19时37分]"
+          "appearance_count": 14,
+          "time_info": "[07时36分 ~ 21时10分]"
         },
         {
           "title": "两会前瞻｜围绕人工智能发展，代表委员将带来哪些建议？",
@@ -138,22 +151,12 @@
             17,
             15,
             14,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时31分 ~ 19时37分]"
-        },
-        {
-          "title": "AI的未来，马克思已经预言了？",
-          "url": "https://wallstreetcn.com/articles/3766318",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时50分 ~ 19时37分]"
+          "appearance_count": 12,
+          "time_info": "[10时31分 ~ 21时10分]"
         },
         {
           "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
@@ -816,6 +819,34 @@
       ]
     },
     {
+      "keyword_group": "Dan Koe Elon Musk 马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克：特斯拉将在20年内上月球建厂 建议投资者长期持股",
+          "url": "https://wallstreetcn.com/livenews/3060282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "马斯克：星舰V3 SN1正前往地面测试。我非常有信心V3设计将实现完全可重复使用。",
+          "url": "https://flash.jin10.com/detail/20260227094707692800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股 有色金属 铜",
       "match_count": 1,
       "titles": [
@@ -829,23 +860,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克：星舰V3 SN1正前往地面测试。我非常有信心V3设计将实现完全可重复使用。",
-          "url": "https://flash.jin10.com/detail/20260227094707692800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
         }
       ]
     }
