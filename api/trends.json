@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T15:04:07.792402+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-02-27T16:50:52.480286+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 61,
+      "match_count": 65,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 15时04分]"
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 16时50分]"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
@@ -62,8 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时10分 ~ 12时50分]"
+          "appearance_count": 13,
+          "time_info": "[01时10分 ~ 16时50分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -80,8 +80,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时10分 ~ 15时04分]"
+          "appearance_count": 16,
+          "time_info": "[01时10分 ~ 16时50分]"
         },
         {
           "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
@@ -93,8 +93,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时36分 ~ 15时04分]"
+          "appearance_count": 8,
+          "time_info": "[07时36分 ~ 16时50分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -105,11 +105,24 @@
             16,
             17,
             19,
-            15
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时36分 ~ 16时50分]"
+        },
+        {
+          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2296619",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时36分 ~ 15时04分]"
+          "time_info": "[10时31分 ~ 16时50分]"
         },
         {
           "title": "演员王劲松发文怒斥被AI盗用",
@@ -123,6 +136,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时49分 ~ 15时04分]"
+        },
+        {
+          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
+          "url": "https://wallstreetcn.com/articles/3766293",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 16时50分]"
         },
         {
           "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
@@ -147,18 +173,6 @@
           "time_info": "07时36分"
         },
         {
-          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
-          "url": "https://www.cls.cn/detail/2296619",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 15时04分]"
-        },
-        {
           "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
           "url": "https://www.cls.cn/detail/2296526",
           "source": "财联社热门",
@@ -169,6 +183,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时31分 ~ 15时04分]"
+        },
+        {
+          "title": "两会前瞻｜围绕人工智能发展，代表委员将带来哪些建议？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660481",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 16时50分]"
         },
         {
           "title": "知情人士称，Meta已与谷歌签署协议，将租赁其AI芯片以开发新的AI模型。（The Information）",
@@ -191,6 +219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "据The Information：Meta公司也在与谷歌商谈，计划最早于明年为其数据中心购买TPU。",
@@ -259,31 +298,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时49分 ~ 15时04分]"
-        },
-        {
-          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
-          "url": "https://wallstreetcn.com/articles/3766293",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 15时04分]"
-        },
-        {
-          "title": "两会前瞻｜围绕人工智能发展，代表委员将带来哪些建议？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660481",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时31分 ~ 15时04分]"
         },
         {
           "title": "押注AI提升公司效率 Block拟裁员近半",
@@ -382,6 +396,18 @@
           "time_info": "[15时03分 ~ 15时04分]"
         },
         {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 16时50分]"
+        },
+        {
           "title": "Meta持续投资AI，用于监测Cloaking。",
           "url": "https://wallstreetcn.com/livenews/3059700",
           "source": "华尔街见闻-快讯",
@@ -427,6 +453,17 @@
           "time_info": "01时10分"
         },
         {
+          "title": "阿里回应：夸克AI眼镜和千问AI眼镜是同一个团队推出的不同系列",
+          "url": "https://wallstreetcn.com/livenews/3060005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "科技巨头2万亿美元豪赌AI",
           "url": "https://www.toutiao.com/trending/7611122303522311734/",
           "source": "今日头条",
@@ -469,6 +506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        },
+        {
+          "title": "融资额大增130% AI制药能否照进现实",
+          "url": "https://www.cls.cn/detail/2296887",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "韩国批准谷歌的地图数据出口申请。",
@@ -581,15 +629,15 @@
           "time_info": "07时36分"
         },
         {
-          "title": "硅谷“最贵华人”被OpenAI挖走",
-          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
-          "source": "百度热搜",
+          "title": "恒生指数收盘涨0.95%，能源、资源、AI以及创新药板块不同程度反弹",
+          "url": "https://wallstreetcn.com/livenews/3060118",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "16时50分"
         },
         {
           "title": "谷歌推出最新图像模型Nano Banana 2",
