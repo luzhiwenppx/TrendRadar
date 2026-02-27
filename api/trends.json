@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T22:43:56.286367+08:00",
-  "total_titles_processed": 1843,
+  "generated_at": "2026-02-27T23:42:32.024747+08:00",
+  "total_titles_processed": 1940,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 84,
+      "match_count": 90,
       "titles": [
         {
           "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时31分 ~ 22时43分]"
+          "appearance_count": 15,
+          "time_info": "[10时31分 ~ 23时42分]"
         },
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -42,6 +42,18 @@
           "time_info": "[01时10分 ~ 07时36分]"
         },
         {
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时50分 ~ 23时42分]"
+        },
+        {
           "title": "强劲财报难解AI担忧，英伟达跌超5%，纳指跌幅扩大至2%，芯片股承压，金涨银跌，油价反弹",
           "url": "https://wallstreetcn.com/articles/3766225",
           "source": "华尔街见闻",
@@ -52,17 +64,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时10分 ~ 06时40分]"
-        },
-        {
-          "title": "AI的未来，马克思已经预言了？",
-          "url": "https://wallstreetcn.com/articles/3766318",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时50分 ~ 22时43分]"
         },
         {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
@@ -76,8 +77,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时49分 ~ 22时43分]"
+          "appearance_count": 14,
+          "time_info": "[12时49分 ~ 23时42分]"
         },
         {
           "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
@@ -118,11 +119,12 @@
             21,
             15,
             26,
-            25
+            25,
+            20
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时10分 ~ 22时43分]"
+          "appearance_count": 24,
+          "time_info": "[01时10分 ~ 23时42分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -239,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "据The Information：Meta公司也在与谷歌商谈，计划最早于明年为其数据中心购买TPU。",
@@ -454,6 +467,18 @@
           "time_info": "[15时03分 ~ 15时04分]"
         },
         {
+          "title": "中国AI调用量超越美国",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 23时42分]"
+        },
+        {
           "title": "Meta持续投资AI，用于监测Cloaking。",
           "url": "https://wallstreetcn.com/livenews/3059700",
           "source": "华尔街见闻-快讯",
@@ -464,6 +489,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时00分 ~ 03时50分]"
+        },
+        {
+          "title": "OpenAI获1100亿美元投资",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 23时42分]"
         },
         {
           "title": "据The Information：谷歌与Meta公司达成数十亿美元的人工智能芯片交易。",
@@ -497,6 +533,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "英国《金融时报》近日爆料称，美国国防部正在寻求美国人工智能企业的合作，以研发出可以对中国的电网等关键基础设施实施攻击的智能化网络战工具。（环球时报）",
+          "url": "https://wallstreetcn.com/livenews/3060391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "阿里回应：夸克AI眼镜和千问AI眼镜是同一个团队推出的不同系列",
@@ -549,7 +596,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -563,6 +610,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        },
+        {
+          "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32666005",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "韩国批准谷歌的地图数据出口申请。",
@@ -582,7 +640,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -607,17 +665,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
-        },
-        {
-          "title": "中国AI调用量超越美国",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-27）",
@@ -653,6 +700,17 @@
           "time_info": "12时50分"
         },
         {
+          "title": "OpenAI首席执行官：如果收入保持增长 融资交易就不是“循环交易”",
+          "url": "https://wallstreetcn.com/livenews/3060380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "标普：基于人工智能驱动的规模和增长增强，将美光科技(MU.O)评级上调至“bbb”，展望积极。",
           "url": "https://flash.jin10.com/detail/20260227033606328800",
           "source": "金十数据",
@@ -662,6 +720,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "避险情绪占主导且Block裁员加剧AI担忧，美股走低",
+          "url": "https://flash.jin10.com/detail/20260227230411009800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "谷歌：推出更快版本的最新图像模型Nano Banana 2，并将在谷歌旗下各产品中逐步上线。",
@@ -692,7 +761,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -703,7 +772,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -730,13 +799,24 @@
           "time_info": "16时50分"
         },
         {
+          "title": "Block飙涨20%，创2024年2月份以来最大盘中涨幅，该公司宣布裁员将近一半。 信用卡概念股走低，Block大规模裁员计划引发人工智能（AI）顾虑。 美国运通跌约5%，Capital One跌4.7%，Synchrony Financial跌3.9%。 Truist’s Brian Finneran告诉其客户，鉴于Block业绩和裁员安排，市场抛售一切与信用（卡）敏感的资产，鉴于白领群体的失业风险——专家们更侧重于关注美国运通。",
+          "url": "https://wallstreetcn.com/livenews/3060377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：当前的融资提供了长期发展的保障。",
           "url": "https://flash.jin10.com/detail/20260227215950428800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -758,7 +838,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -813,7 +893,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -835,7 +915,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -849,17 +929,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
-        },
-        {
-          "title": "OpenAI获1100亿美元投资",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
         },
         {
           "title": "现代汽车集团：计划从2026年起，在韩国Saemangeum地区投入约9万亿韩元，其中，4,000亿韩元建设机器人工厂，5.8万亿韩元建设AI数据中心，1万亿韩元建设氢气生产设施，1.3万亿韩元用于太阳能发电建设。据悉，该AI数据中心将安装50000块GPU，计划2029年底前完成AI数据中心和机器人工厂的建设。",
@@ -901,7 +970,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -923,7 +992,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -934,7 +1003,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -956,7 +1025,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -978,7 +1047,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         }
@@ -986,8 +1055,30 @@
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美国政府机构对使用马斯克旗下的Grok聊天机器人发出警告。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3060393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
+          "title": "据华尔街日报：美国政府机构对使用马斯克旗下的Grok聊天机器人发出警告。",
+          "url": "https://flash.jin10.com/detail/20260227230549020800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
         {
           "title": "马斯克：特斯拉将在20年内上月球建厂 建议投资者长期持股",
           "url": "https://wallstreetcn.com/livenews/3060282",
