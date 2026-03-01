@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T13:58:36.064403+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-03-01T14:59:21.247666+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI冲击之下，新一轮“次贷危机”来了？",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 13时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 14时59分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -44,11 +44,12 @@
             19,
             10,
             9,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 13时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 14时59分]"
         },
         {
           "title": "如果百度当年梭哈 AI，现在的市值能达到腾讯、阿里的水平吗？",
@@ -59,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 14时59分]"
         },
         {
           "title": "最新AI军事模拟：95%对局发射核弹",
@@ -86,6 +87,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "美政府罕见封杀本国AI企业Anthropic",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%94%BF%E5%BA%9C%E7%BD%95%E8%A7%81%E5%B0%81%E6%9D%80%E6%9C%AC%E5%9B%BDAI%E4%BC%81%E4%B8%9AAnthropic",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            7,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 14时59分]"
         },
         {
           "title": "春节 AI 大战几十亿烧完，谁赢了？这场红包雨究竟是抢到了 AI 入口的门票，还是只买到了一波短期日活脉冲？",
@@ -123,19 +138,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时28分]"
-        },
-        {
-          "title": "美政府罕见封杀本国AI企业Anthropic",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%94%BF%E5%BA%9C%E7%BD%95%E8%A7%81%E5%B0%81%E6%9D%80%E6%9C%AC%E5%9B%BDAI%E4%BC%81%E4%B8%9AAnthropic",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 13时58分]"
         },
         {
           "title": "OpenAI就与美国国防部的协议表示，与任何合同一样，若政府违反条款，我们有权终止协议，但我们并不预期会出现这种情况。",
@@ -180,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "马斯克：我一点也不信任OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260301141148179800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         },
         {
           "title": "OpenAI就与美国国防部达成的协议表示，保留对安全机制的完全自主权，经审查的OpenAI人员参与其中，并拥有强有力的合同保护。",
@@ -295,18 +308,30 @@
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "市场消息：马斯克称社交媒体平台“X”使用量达到了新高。",
           "url": "https://flash.jin10.com/detail/20260301133956537800",
           "source": "金十数据",
           "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 14时59分]"
+        },
+        {
+          "title": "马斯克转发与哈梅内伊相关的帖子",
+          "url": "https://flash.jin10.com/detail/20260301143856225800",
+          "source": "金十数据",
+          "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "14时59分"
         },
         {
           "title": "马斯克转发了一条称Grok准确预测了未来的帖子，该帖子表示，正如Grok预测的那样，以色列和美国在2月28日袭击了伊朗。马斯克对持表示，预测未来是衡量（智能体）智慧的最佳标准。",
