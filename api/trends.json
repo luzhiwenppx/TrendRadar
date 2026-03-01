@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T22:31:01.772985+08:00",
-  "total_titles_processed": 1757,
+  "generated_at": "2026-03-01T23:30:12.950608+08:00",
+  "total_titles_processed": 1826,
   "failed_sources": [],
   "trends": [
     {
@@ -61,8 +61,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时33分 ~ 22时31分]"
+          "appearance_count": 26,
+          "time_info": "[00时33分 ~ 23时30分]"
         },
         {
           "title": "最新AI军事模拟：95%对局发射核弹",
@@ -117,6 +117,19 @@
           "time_info": "[00时33分 ~ 06时28分]"
         },
         {
+          "title": "AI短剧",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时45分 ~ 23时30分]"
+        },
+        {
           "title": "英伟达与全球电信巨头携手，致力于在开放、安全的原生AI平台上构建6G网络",
           "url": "https://wallstreetcn.com/livenews/3061088",
           "source": "华尔街见闻-快讯",
@@ -152,18 +165,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时28分]"
-        },
-        {
-          "title": "AI短剧",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时45分 ~ 22时31分]"
         },
         {
           "title": "荣耀发布人形机器人与“机器人手机”，押注AI硬件转型",
