@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T18:31:44.649232+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2026-03-01T19:26:22.086720+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
@@ -57,11 +57,12 @@
             10,
             9,
             8,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 18时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 19时26分]"
         },
         {
           "title": "最新AI军事模拟：95%对局发射核弹",
