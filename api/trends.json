@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T05:29:13.185297+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-03-02T06:31:15.655457+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 05时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 06时31分]"
         },
         {
           "title": "AI短剧",
@@ -28,11 +29,12 @@
             19,
             18,
             17,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 05时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 06时31分]"
         },
         {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
@@ -40,11 +42,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[04时34分 ~ 06时31分]"
         }
       ]
     },
@@ -58,11 +61,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[04时34分 ~ 06时31分]"
         }
       ]
     }
