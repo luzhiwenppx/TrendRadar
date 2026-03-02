@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T13:57:09.348157+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2026-03-02T15:07:50.780486+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -85,6 +85,17 @@
           "time_info": "10时34分"
         },
         {
+          "title": "千问AI眼镜开启预约",
+          "url": "https://www.toutiao.com/trending/7612431152581967913/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
           "title": "澳大利亚考虑要求应用商店和搜索引擎下架存在安全隐患的AI服务。",
           "url": "https://flash.jin10.com/detail/20260302101744342800",
           "source": "金十数据",
@@ -162,8 +173,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 15时07分]"
         }
       ]
     }
