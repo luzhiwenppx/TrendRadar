@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T15:51:00.593490+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-03-03T16:51:18.900171+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
@@ -52,11 +52,12 @@
           "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时51分 ~ 15时51分]"
+          "appearance_count": 8,
+          "time_info": "[12时51分 ~ 16时51分]"
         },
         {
           "title": "剑星AI作图抄袭,反手拉黑原创",
@@ -72,6 +73,19 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时56分 ~ 15时51分]"
+        },
+        {
+          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
+          "url": "https://wallstreetcn.com/articles/3766555",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时36分 ~ 16时51分]"
         },
         {
           "title": "演员王劲松遭 AI 盗用形象生成视频，如何界定 AI 侵权，普通人该如何防范？",
@@ -105,17 +119,17 @@
           "time_info": "[02时56分 ~ 07时32分]"
         },
         {
-          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
-          "url": "https://wallstreetcn.com/articles/3766555",
-          "source": "华尔街见闻",
+          "title": "如何评价 Apple 在 3 月 2 日 晚更新的 iPad Air M4，有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2011932852577650327",
+          "source": "知乎",
           "ranks": [
-            8,
-            7,
-            6
+            20,
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时36分 ~ 15时51分]"
+          "time_info": "[13时54分 ~ 16时51分]"
         },
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -129,6 +143,18 @@
           "time_info": "[00时56分 ~ 01时51分]"
         },
         {
+          "title": "AI生成 男女身高",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%94%9F%E6%88%90%20%E7%94%B7%E5%A5%B3%E8%BA%AB%E9%AB%98&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时00分 ~ 16时51分]"
+        },
+        {
           "title": "从被动观望转向主动布局，公募“全环节”直面AI颠覆性影响",
           "url": "https://wallstreetcn.com/livenews/3062199",
           "source": "华尔街见闻-快讯",
@@ -138,18 +164,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        },
-        {
-          "title": "如何评价 Apple 在 3 月 2 日 晚更新的 iPad Air M4，有哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2011932852577650327",
-          "source": "知乎",
-          "ranks": [
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时54分 ~ 15时51分]"
         },
         {
           "title": "摩根大通CEO戴蒙：人工智能（AI）可以将工作时长缩短至一周四天。 政府应该对使用AI的人设置年龄限制。 推动AI不会造成“赢家通吃”的局面。",
@@ -238,17 +252,6 @@
           "time_info": "[01时51分 ~ 02时57分]"
         },
         {
-          "title": "AI生成 男女身高",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%94%9F%E6%88%90%20%E7%94%B7%E5%A5%B3%E8%BA%AB%E9%AB%98&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时00分 ~ 15时51分]"
-        },
-        {
           "title": "财晓得丨播放量暴涨181倍！AI漫剧狂飙背后：资本涌入和版权争议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32659631",
           "source": "澎湃新闻",
@@ -319,6 +322,17 @@
           "time_info": "[04时43分 ~ 05时40分]"
         },
         {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 16时51分]"
+        },
+        {
           "title": "中东战云密布，A股波澜不惊？十大基金公司解盘：黄金、原油、AI谁主沉浮",
           "url": "https://www.cls.cn/detail/2300191",
           "source": "财联社热门",
@@ -341,6 +355,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时34分]"
+        },
+        {
+          "title": "冲万亿的扬州首开人工智能发展大会，党政主官现场演示AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684560",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 16时51分]"
         },
         {
           "title": "市场消息：AMD的MI325芯片将被纳入美国AI加速器出口限制范围。",
@@ -470,7 +495,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -547,7 +572,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         }
