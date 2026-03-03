@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T21:09:21.731560+08:00",
-  "total_titles_processed": 1918,
+  "generated_at": "2026-03-03T22:51:25.993092+08:00",
+  "total_titles_processed": 2058,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 53,
+      "match_count": 60,
       "titles": [
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
@@ -130,8 +130,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时50分 ~ 21时09分]"
+          "appearance_count": 8,
+          "time_info": "[16时50分 ~ 22时51分]"
         },
         {
           "title": "如何评价 Apple 在 3 月 2 日 晚更新的 iPad Air M4，有哪些细节值得关注？",
@@ -158,6 +158,18 @@
           "time_info": "[00时56分 ~ 01时51分]"
         },
         {
+          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
+          "url": "https://www.cls.cn/detail/2301441",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时37分 ~ 22时51分]"
+        },
+        {
           "title": "AI生成 男女身高",
           "url": "https://s.weibo.com/weibo?q=AI%E7%94%9F%E6%88%90%20%E7%94%B7%E5%A5%B3%E8%BA%AB%E9%AB%98&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -170,16 +182,15 @@
           "time_info": "[15时00分 ~ 16时51分]"
         },
         {
-          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
-          "url": "https://www.cls.cn/detail/2301441",
-          "source": "财联社热门",
+          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3062845",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            4
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时37分 ~ 21时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "从被动观望转向主动布局，公募“全环节”直面AI颠覆性影响",
@@ -384,6 +395,17 @@
           "time_info": "[16时50分 ~ 16时51分]"
         },
         {
+          "title": "伊拉克开始在Rumaila（鲁迈拉）停产石油，因为储油设施已满。 将Qurna 2的石油减产45万桶/日。",
+          "url": "https://wallstreetcn.com/livenews/3062839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "市场消息：AMD的MI325芯片将被纳入美国AI加速器出口限制范围。",
           "url": "https://flash.jin10.com/detail/20260303055516565800",
           "source": "金十数据",
@@ -417,6 +439,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "据AXIOS网站：OpenAI与美国国防部的新条款尚未正式签署。",
+          "url": "https://flash.jin10.com/detail/20260303222622632800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "据知情人士透露，随着SpaceX的IPO临近，马斯克旗下社交媒体平台X（原名推特）和和人工智能（AI）初创公司xAI将偿还175亿美元债务。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3062123",
           "source": "华尔街见闻-快讯",
@@ -445,9 +478,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
+        },
+        {
+          "title": "苹果推出升级版MacBook Pro、Air、以及新款Studio显示器",
+          "url": "https://wallstreetcn.com/livenews/3062834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI与美国国防部同意加强近期合同。",
+          "url": "https://flash.jin10.com/detail/20260303222545463800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "AI表格Agent接入钉钉群",
@@ -481,6 +536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI、美国国防部在AI协议中加入监控保护措施。",
+          "url": "https://flash.jin10.com/detail/20260303222435130800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "AI定制元宵节祝福语",
@@ -525,6 +591,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "韩国AI芯片初创公司Rebellions冲击今年上市 挑战英伟达市场地位",
+          "url": "https://flash.jin10.com/detail/20260303222048402800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "多平台公布2月涉“AI魔改”视频治理结果",
