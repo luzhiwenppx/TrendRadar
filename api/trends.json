@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-05T03:43:18.063330+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-03-05T04:38:30.434920+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
+          "url": "https://www.zhihu.com/question/2012192001999726052",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 04时38分]"
+        },
         {
           "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
           "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
@@ -15,20 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 03时43分]"
-        },
-        {
-          "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
-          "url": "https://www.zhihu.com/question/2012192001999726052",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 03时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 04时38分]"
         },
         {
           "title": "AI真人微短剧爆火 演员会被替代吗",
@@ -38,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 03时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 04时38分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -50,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 03时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 04时38分]"
         },
         {
           "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
@@ -61,8 +62,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 03时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 04时38分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -71,11 +72,12 @@
           "ranks": [
             11,
             15,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 03时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 04时38分]"
         },
         {
           "title": "英伟达CEO黄仁勋：目前并不存在1000亿美元投资机会。 OpenAI（潜在的）IPO限制投资机会。 与OpenAI、Anthropic的协议可能是最后一轮。",
@@ -87,6 +89,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：谷歌是一家好公司。",
+          "url": "https://flash.jin10.com/detail/20260305042824208800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "Meta Platforms(META.O)计划开发硅芯片以训练人工智能模型，旨在提升AI能力。",
+          "url": "https://flash.jin10.com/detail/20260305042235977800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "Mosaic股价下跌3.7%，CF Industries跌3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3063819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时59分 ~ 04时38分]"
         },
         {
           "title": "华为发布AI数据平台，加速企业AI落地应用",
@@ -101,18 +137,6 @@
           "time_info": "[01时44分 ~ 02时59分]"
         },
         {
-          "title": "Mosaic股价下跌3.7%，CF Industries跌3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3063819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时43分]"
-        },
-        {
           "title": "谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
           "url": "https://wallstreetcn.com/livenews/3063812",
           "source": "华尔街见闻-快讯",
@@ -121,8 +145,19 @@
             26
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时59分 ~ 04时38分]"
+        },
+        {
+          "title": "黄仁勋排除英伟达向OpenAI投资1000亿美元的可能性",
+          "url": "https://wallstreetcn.com/livenews/3063822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时43分]"
+          "time_info": "[03时43分 ~ 04时38分]"
         },
         {
           "title": "美媒：前OpenAI高管押注制造业自动化 为AI初创公司Arda融资7000万美元",
@@ -136,15 +171,15 @@
           "time_info": "00时54分"
         },
         {
-          "title": "黄仁勋排除英伟达向OpenAI投资1000亿美元的可能性",
-          "url": "https://wallstreetcn.com/livenews/3063822",
-          "source": "华尔街见闻-快讯",
+          "title": "据CNBC：OpenAI创始人奥尔特曼预计将于周四在摩根士丹利会议上发言。",
+          "url": "https://flash.jin10.com/detail/20260305041842177800",
+          "source": "金十数据",
           "ranks": [
-            18
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时43分"
+          "time_info": "04时38分"
         },
         {
           "title": "市场消息：谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
@@ -167,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "加拿大总理卡尼：今天在悉尼会见了商业领袖，旨在建立新的合作伙伴关系，为我们的能源、关键矿产和人工智能领域创造数千个高薪职业。",
+          "url": "https://flash.jin10.com/detail/20260305034744133800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
         }
       ]
     },
