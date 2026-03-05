@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T12:49:14.049564+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-03-05T13:53:56.365172+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
@@ -69,11 +69,12 @@
             16,
             14,
             10,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时54分 ~ 12时49分]"
+          "appearance_count": 16,
+          "time_info": "[00时54分 ~ 13时53分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -217,11 +218,12 @@
           "url": "https://www.zhihu.com/question/2007415716228330401",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 13时53分]"
         },
         {
           "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
@@ -231,8 +233,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 13时53分]"
+        },
+        {
+          "title": "一键进入AI幻想世界",
+          "url": "https://www.douyin.com/hot/2419330",
+          "source": "抖音",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 13时53分]"
         },
         {
           "title": "博通营收预测令部分投资者失望，凸显AI担忧",
@@ -280,17 +294,6 @@
           "time_info": "[12时48分 ~ 12时49分]"
         },
         {
-          "title": "一键进入AI幻想世界",
-          "url": "https://www.douyin.com/hot/2419330",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
-        },
-        {
           "title": "日本太空一号公司“KAIROS”小型火箭从日本南部海岸发射升空。",
           "url": "https://flash.jin10.com/detail/20260305101114492800",
           "source": "金十数据",
@@ -308,9 +311,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "北约拟在7月峰会上推动军费转向AI与无人机技术投资",
+          "url": "https://flash.jin10.com/detail/20260305133945841800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "OpenAI与Trade Desk Inc.（TTD）围绕广告销售启动初步的磋商。（The Information）",
@@ -344,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "英国央行拟推演AI冲击 评估就业与金融风险",
+          "url": "https://flash.jin10.com/detail/20260305133440231800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "据CNBC：OpenAI创始人奥尔特曼预计将于周四在摩根士丹利会议上发言。",
@@ -401,6 +426,17 @@
           "time_info": "07时36分"
         },
         {
+          "title": "市场消息：由于担心人工智能技术将导致大量工作岗位流失，并重创大片企业，英国央行正计划对全面人工智能冲击可能带来的经济和金融影响进行演练。",
+          "url": "https://flash.jin10.com/detail/20260305132907855800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "市场消息：谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
           "url": "https://flash.jin10.com/detail/20260305021016525800",
           "source": "金十数据",
@@ -418,7 +454,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -440,7 +476,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -484,7 +520,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
