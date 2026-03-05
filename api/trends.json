@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T16:52:51.792918+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-03-05T17:53:01.321376+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
         {
           "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
@@ -72,11 +72,12 @@
             23,
             22,
             28,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时54分 ~ 16时52分]"
+          "appearance_count": 21,
+          "time_info": "[00时54分 ~ 17时53分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -100,8 +101,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时48分 ~ 16时52分]"
+          "appearance_count": 9,
+          "time_info": "[12时48分 ~ 17时53分]"
         },
         {
           "title": "英伟达CEO黄仁勋：目前并不存在1000亿美元投资机会。 OpenAI（潜在的）IPO限制投资机会。 与OpenAI、Anthropic的协议可能是最后一轮。",
@@ -135,6 +136,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
+          "url": "https://www.cls.cn/detail/2303258",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时50分 ~ 17时53分]"
         },
         {
           "title": "代表：所有的工种都不会被AI取代",
@@ -204,6 +218,18 @@
           "time_info": "[12时48分 ~ 15时01分]"
         },
         {
+          "title": "一键进入AI幻想世界",
+          "url": "https://www.douyin.com/hot/2419330",
+          "source": "抖音",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时48分 ~ 17时53分]"
+        },
+        {
           "title": "博通：预计二季度AI芯片收入107亿美元。",
           "url": "https://wallstreetcn.com/livenews/3063885",
           "source": "华尔街见闻-快讯",
@@ -252,28 +278,27 @@
           "time_info": "[02时59分 ~ 04时38分]"
         },
         {
-          "title": "一键进入AI幻想世界",
-          "url": "https://www.douyin.com/hot/2419330",
-          "source": "抖音",
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
           "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时48分 ~ 13时53分]"
-        },
-        {
-          "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
-          "url": "https://www.cls.cn/detail/2303258",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时52分]"
+          "time_info": "[17时52分 ~ 17时53分]"
+        },
+        {
+          "title": "欧洲央行监管委员会成员Donnery：正评估伊朗局势对银行系统的间接冲击风险。 欧盟银行业对伊朗冲突的直接风险敞口有限。 银行尚未出现利用人工智能取代岗位的现象。",
+          "url": "https://wallstreetcn.com/livenews/3064369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时53分]"
         },
         {
           "title": "博通营收预测令部分投资者失望，凸显AI担忧",
@@ -286,6 +311,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时36分]"
+        },
+        {
+          "title": "比Deepfake更严重的AI出现了",
+          "url": "https://s.weibo.com/weibo?q=%E6%AF%94Deepfake%E6%9B%B4%E4%B8%A5%E9%87%8D%E7%9A%84AI%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 17时53分]"
         },
         {
           "title": "黄仁勋排除英伟达向OpenAI投资1000亿美元的可能性",
@@ -319,17 +355,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时48分 ~ 12时49分]"
-        },
-        {
-          "title": "欧洲央行监管委员会成员Donnery：正评估伊朗局势对银行系统的间接冲击风险。 欧盟银行业对伊朗冲突的直接风险敞口有限。 银行尚未出现利用人工智能取代岗位的现象。",
-          "url": "https://wallstreetcn.com/livenews/3064369",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
         },
         {
           "title": "日本太空一号公司“KAIROS”小型火箭从日本南部海岸发射升空。",
@@ -437,7 +462,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -514,7 +539,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -539,6 +564,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "鸿海：第一季度业绩表现符合市场预期。 人工智能设备出货量持续增长。 智能消费电子产品业务超出预期表现良好。",
+          "url": "https://wallstreetcn.com/livenews/3064381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "工业和信息化部部长李乐成：要坚持AI为人所控",
@@ -627,6 +663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "博通(AVGO.O)股价盘前上涨6%，此前该公司预计人工智能芯片业务收入明年将超过1000亿美元，并宣布启动新的股票回购计划。",
+          "url": "https://flash.jin10.com/detail/20260305170820646800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         }
       ]
     },
