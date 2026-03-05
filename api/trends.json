@@ -1,112 +1,22 @@
 {
-  "generated_at": "2026-03-05T23:56:16.293786+08:00",
-  "total_titles_processed": 2053,
+  "generated_at": "2026-03-06T02:10:08.566015+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 64,
+      "match_count": 7,
       "titles": [
         {
-          "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
-          "url": "https://www.zhihu.com/question/2012192001999726052",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            4,
-            3,
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 10时32分]"
-        },
-        {
-          "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
-          "url": "https://www.zhihu.com/question/1922608207504867947",
-          "source": "知乎",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 10时32分]"
-        },
-        {
-          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时54分 ~ 07时36分]"
-        },
-        {
-          "title": "AI真人微短剧爆火 演员会被替代吗",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9C%9F%E4%BA%BA%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB+%E6%BC%94%E5%91%98%E4%BC%9A%E8%A2%AB%E6%9B%BF%E4%BB%A3%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 10时32分]"
-        },
-        {
-          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
-          "url": "https://www.zhihu.com/question/2007415716228330401",
-          "source": "知乎",
-          "ranks": [
-            10,
-            18,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时48分 ~ 21时12分]"
-        },
-        {
-          "title": "AI猫咪的复工vlog",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            15,
-            16,
-            14,
-            10,
-            23,
-            22,
-            28,
-            24,
-            26,
-            19,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时54分 ~ 23时56分]"
-        },
-        {
-          "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
-          "url": "https://www.cls.cn/detail/2302628",
+          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
+          "url": "https://www.cls.cn/detail/2303891",
           "source": "财联社热门",
           "ranks": [
-            11,
-            10
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时54分 ~ 07时36分]"
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 02时10分]"
         },
         {
           "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
@@ -116,677 +26,63 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时52分 ~ 23时56分]"
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 02时10分]"
         },
         {
-          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
-          "url": "https://www.cls.cn/detail/2303891",
+          "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
+          "url": "https://www.cls.cn/detail/2304328",
           "source": "财联社热门",
           "ranks": [
-            12,
-            4,
-            3,
-            2
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时39分 ~ 23时56分]"
-        },
-        {
-          "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
-          "url": "https://www.cls.cn/detail/2303258",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时50分 ~ 21时12分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：目前并不存在1000亿美元投资机会。 OpenAI（潜在的）IPO限制投资机会。 与OpenAI、Anthropic的协议可能是最后一轮。",
-          "url": "https://wallstreetcn.com/livenews/3063822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 02时10分]"
         },
         {
           "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
           "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            16,
-            15,
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时48分 ~ 23时56分]"
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 02时10分]"
         },
         {
-          "title": "美国总统特朗普：谷歌是一家好公司。",
-          "url": "https://flash.jin10.com/detail/20260305042824208800",
-          "source": "金十数据",
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
-          "url": "https://wallstreetcn.com/livenews/3063902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "代表：所有的工种都不会被AI取代",
-          "url": "https://www.toutiao.com/trending/7613364759950131236/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时40分"
-        },
-        {
-          "title": "代表：AI不是来抢饭碗的",
-          "url": "https://www.toutiao.com/trending/7613364759950131236/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "香港监管机构推出GenA.I.沙盒++以促进金融服务领域的人工智能创新",
-          "url": "https://wallstreetcn.com/livenews/3064454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
-          "title": "Meta Platforms(META.O)计划开发硅芯片以训练人工智能模型，旨在提升AI能力。",
-          "url": "https://flash.jin10.com/detail/20260305042235977800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "日本太空一号公司表示，“KAIROS”火箭飞行中止。",
-          "url": "https://flash.jin10.com/detail/20260305101538520800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "Mosaic股价下跌3.7%，CF Industries跌3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3063819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时59分 ~ 04时38分]"
-        },
-        {
-          "title": "比Deepfake更严重的AI出现了",
-          "url": "https://s.weibo.com/weibo?q=%E6%AF%94Deepfake%E6%9B%B4%E4%B8%A5%E9%87%8D%E7%9A%84AI%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            11,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时52分 ~ 21时12分]"
-        },
-        {
-          "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
-          "url": "https://www.cls.cn/detail/2303137",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 15时01分]"
-        },
-        {
-          "title": "一键进入AI幻想世界",
-          "url": "https://www.douyin.com/hot/2419330",
-          "source": "抖音",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 17时53分]"
-        },
-        {
-          "title": "博通：预计二季度AI芯片收入107亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3063885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时36分]"
+          "time_info": "[02时09分 ~ 02时10分]"
         },
         {
-          "title": "阿联酋工业和先进技术部长、阿布扎比国家石油公司集团CEO阿尔·贾比尔：Ruwais液化天然气项目建设进展顺利。",
-          "url": "https://wallstreetcn.com/livenews/3064333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时52分]"
-        },
-        {
-          "title": "华为发布AI数据平台，加速企业AI落地应用",
-          "url": "https://wallstreetcn.com/livenews/3063794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 02时59分]"
-        },
-        {
-          "title": "谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
-          "url": "https://wallstreetcn.com/livenews/3063812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时59分 ~ 04时38分]"
-        },
-        {
-          "title": "欧洲央行监管委员会成员Donnery：正评估伊朗局势对银行系统的间接冲击风险。 欧盟银行业对伊朗冲突的直接风险敞口有限。 银行尚未出现利用人工智能取代岗位的现象。",
-          "url": "https://wallstreetcn.com/livenews/3064369",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时53分]"
-        },
-        {
-          "title": "博通营收预测令部分投资者失望，凸显AI担忧",
-          "url": "https://flash.jin10.com/detail/20260305053239942800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时36分]"
-        },
-        {
-          "title": "黄仁勋排除英伟达向OpenAI投资1000亿美元的可能性",
-          "url": "https://wallstreetcn.com/livenews/3063822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 04时38分]"
-        },
-        {
-          "title": "马斯克为何频繁为中国AI站台",
-          "url": "https://www.toutiao.com/trending/7613576713213054470/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
-        },
-        {
-          "title": "百度AIGC舌尖遇顺德",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6AIGC%E8%88%8C%E5%B0%96%E9%81%87%E9%A1%BA%E5%BE%B7",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
-        },
-        {
-          "title": "日本太空一号公司“KAIROS”小型火箭从日本南部海岸发射升空。",
-          "url": "https://flash.jin10.com/detail/20260305101114492800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-03-05）",
-          "url": "https://flash.jin10.com/detail/20260305120534883800",
+          "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
+          "url": "https://flash.jin10.com/detail/20260306014710843800",
           "source": "金十数据",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "北约拟在7月峰会上推动军费转向AI与无人机技术投资",
-          "url": "https://flash.jin10.com/detail/20260305133945841800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "伯克希尔哈撒韦(BRK.A.N、BRK.B.N)首席执行官阿贝尔：未使用人工智能撰写伯克希尔年度信函。",
-          "url": "https://flash.jin10.com/detail/20260305205839504800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "OpenAI与Trade Desk Inc.（TTD）围绕广告销售启动初步的磋商。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3063894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "美军被曝使用Claude AI空袭伊朗，负责情报评估与目标识别，专家发出严厉警告",
-          "url": "https://wallstreetcn.com/articles/3766696",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "美媒：前OpenAI高管押注制造业自动化 为AI初创公司Arda融资7000万美元",
-          "url": "https://flash.jin10.com/detail/20260305002035785800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "英国央行拟推演AI冲击 评估就业与金融风险",
-          "url": "https://flash.jin10.com/detail/20260305133440231800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "据CNBC：OpenAI创始人奥尔特曼预计将于周四在摩根士丹利会议上发言。",
-          "url": "https://flash.jin10.com/detail/20260305041842177800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "Meta计划研发自研芯片，来训练自家的AI模型",
-          "url": "https://wallstreetcn.com/livenews/3063889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "恒生指数收盘涨0.3%，能源、AI板块领涨，南向资金净卖出277.35亿港元",
-          "url": "https://wallstreetcn.com/livenews/3064358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "因担心AI冲击就业和经济，英国央行拟开展情景评估并纳入银行压力测试",
-          "url": "https://wallstreetcn.com/livenews/3064319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
-        },
-        {
-          "title": "Anthropic恢复与五角大楼的人工智能协议谈判",
-          "url": "https://flash.jin10.com/detail/20260305095823483800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "据The Information：OpenAI选定律师事务所Cooley和Wachtell为IPO做准备。",
-          "url": "https://flash.jin10.com/detail/20260305095057425800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "博通：预计Anthropic将在2027（财务）年度带来3 GW算力需求。 预计OpenAI将在2027年批量部署芯片。 Meta的定制芯片路线图“正在推进之中，进展不错”。",
-          "url": "https://wallstreetcn.com/livenews/3063886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "市场消息：由于担心人工智能技术将导致大量工作岗位流失，并重创大片企业，英国央行正计划对全面人工智能冲击可能带来的经济和金融影响进行演练。",
-          "url": "https://flash.jin10.com/detail/20260305132907855800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "市场消息：谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
-          "url": "https://flash.jin10.com/detail/20260305021016525800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "不建议大学生直接用AI写论文",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9B%B4%E6%8E%A5%E7%94%A8AI%E5%86%99%E8%AE%BA%E6%96%87%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "【工信部部长李乐成：全力推进新一代人工智能产品的攻关和迭代更新】在十四届全国人大四次会议首场“部长通道”集中采访活动上，工业和信息化部部长李乐成表示，2026年工信部将按照政府工作报告要求，大力推动人工智能（AI）和制造业双向奔赴。我国产业门类齐全，创新人才众多，创新生态不断改善，我们有信心，坚信必将有更多的世界级智能产品在这片热土上生产出来。要努力推动AI电脑、AI手机、智能家居，更好满足人民群众对美好生活的需求。要全力推进新一代人工智能产品的攻关和迭代更新，包括脑机接口、自动驾驶汽车、机器人，推动科技攻关、技术迭代。大力支持发展智能农业机械、智能医疗器械，让更多智能产品满足各行各业各领域的需要。",
-          "url": "https://wallstreetcn.com/livenews/3064172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "据华尔街日报：知情人士称，前OpenAI首席研究官正为一家人工智能初创公司筹集7000万美元资金，该初创公司正开发一款软件，以帮助工厂实现自主运行。",
-          "url": "https://flash.jin10.com/detail/20260305000849896800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "鸿海：第一季度业绩表现符合市场预期。 人工智能设备出货量持续增长。 智能消费电子产品业务超出预期表现良好。",
-          "url": "https://wallstreetcn.com/livenews/3064381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "工业和信息化部部长李乐成：要坚持AI为人所控",
-          "url": "https://wallstreetcn.com/livenews/3064167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "美国参议院Ron Wyden就特朗普政府在国内实施监控（国内间谍）的政策施压多家人工智能（AI）公司。",
-          "url": "https://wallstreetcn.com/livenews/3063848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时40分"
-        },
-        {
-          "title": "谷歌DeepMind向千问团队抛橄榄枝",
-          "url": "https://wallstreetcn.com/livenews/3064303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
-        },
-        {
-          "title": "美国总统特朗普：谷歌是一家好公司。",
-          "url": "https://wallstreetcn.com/livenews/3063847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时40分"
-        },
-        {
-          "title": "工信部部长李乐成：“人工智能+制造”是必答题 今年将大力推动",
-          "url": "https://wallstreetcn.com/livenews/3064302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
-        },
-        {
-          "title": "加拿大总理卡尼：今天在悉尼会见了商业领袖，旨在建立新的合作伙伴关系，为我们的能源、关键矿产和人工智能领域创造数千个高薪职业。",
-          "url": "https://flash.jin10.com/detail/20260305034744133800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "工业和信息化部部长李乐成：我国规上制造业企业人工智能（AI）技术应用普及率超30%",
-          "url": "https://wallstreetcn.com/livenews/3064161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：承诺到2030年投入5000万美元，采取行动应对强效温室气体。",
-          "url": "https://flash.jin10.com/detail/20260305222046201800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        },
-        {
-          "title": "市场消息：美国参议员就监控政策问题向人工智能公司施压。",
-          "url": "https://flash.jin10.com/detail/20260305043153960800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时40分"
-        },
-        {
-          "title": "The Information：OpenAI开发出一款“双向”音频模型。",
-          "url": "https://flash.jin10.com/detail/20260305230503213800",
-          "source": "金十数据",
-          "ranks": [
-            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时56分"
+          "time_info": "02时10分"
         },
         {
-          "title": "博通(AVGO.O)股价盘前上涨6%，此前该公司预计人工智能芯片业务收入明年将超过1000亿美元，并宣布启动新的股票回购计划。",
-          "url": "https://flash.jin10.com/detail/20260305170820646800",
+          "title": "市场消息：美国起草规则，要求全球范围内AI芯片出口需持有许可证。",
+          "url": "https://flash.jin10.com/detail/20260306013029699800",
           "source": "金十数据",
           "ranks": [
-            29
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "政协委员告诉你什么最让马斯克破防",
-          "url": "https://www.toutiao.com/trending/7612652724908441610/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            26,
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时36分]"
-        },
-        {
-          "title": "美国上诉法院裁定马斯克可免于就政府效率部（DOGE）问题作证。",
-          "url": "https://flash.jin10.com/detail/20260305052529472800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时40分 ~ 07时36分]"
+          "time_info": "02时10分"
         }
       ]
     }
