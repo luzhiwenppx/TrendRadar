@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T22:42:19.911254+08:00",
-  "total_titles_processed": 1879,
+  "generated_at": "2026-03-06T23:43:14.642224+08:00",
+  "total_titles_processed": 1974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 55,
+      "match_count": 60,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -30,8 +30,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时31分 ~ 22时42分]"
+          "appearance_count": 16,
+          "time_info": "[10时31分 ~ 23时43分]"
+        },
+        {
+          "title": "真实锐评TES打野Naiyou被调查",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时35分 ~ 23时43分]"
         },
         {
           "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
@@ -87,16 +99,15 @@
           "time_info": "[02时09分 ~ 10时31分]"
         },
         {
-          "title": "真实锐评TES打野Naiyou被调查",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
+          "title": "TES上报Naiyou不当行为",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            4,
-            3
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时35分 ~ 22时42分]"
+          "appearance_count": 8,
+          "time_info": "[17时46分 ~ 23时43分]"
         },
         {
           "title": "全国首例AI幻觉侵权纠纷案判了",
@@ -113,6 +124,33 @@
           "time_info": "[15时43分 ~ 18时42分]"
         },
         {
+          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
+          "url": "https://www.cls.cn/detail/2305626",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时41分 ~ 23时43分]"
+        },
+        {
+          "title": "TES上报Naiyou不正当行为",
+          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            14,
+            18,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时46分 ~ 23时43分]"
+        },
+        {
           "title": "破5亿播放AI短剧成本仅3000",
           "url": "https://s.weibo.com/weibo?q=%23%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -127,39 +165,15 @@
           "time_info": "[15时43分 ~ 21时07分]"
         },
         {
-          "title": "TES上报Naiyou不当行为",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
-          "source": "bilibili 热搜",
+          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
+          "url": "https://www.zhihu.com/question/2013292943084058316",
+          "source": "知乎",
           "ranks": [
-            7
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时46分 ~ 22时42分]"
-        },
-        {
-          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
-          "url": "https://www.cls.cn/detail/2305626",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时41分 ~ 22时42分]"
-        },
-        {
-          "title": "TES上报Naiyou不正当行为",
-          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时46分 ~ 22时42分]"
+          "time_info": "[19时35分 ~ 23时43分]"
         },
         {
           "title": "AI相关产业规模将超10万亿元",
@@ -204,6 +218,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "国产AI短剧《霍去病》火到海外",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E7%9F%AD%E5%89%A7%E3%80%8A%E9%9C%8D%E5%8E%BB%E7%97%85%E3%80%8B%E7%81%AB%E5%88%B0%E6%B5%B7%E5%A4%96",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时07分 ~ 23时43分]"
         },
         {
           "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
@@ -289,27 +316,15 @@
           "time_info": "[19时35分 ~ 22时42分]"
         },
         {
-          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
-          "url": "https://www.zhihu.com/question/2013292943084058316",
-          "source": "知乎",
+          "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
+          "url": "https://news.ifeng.com/c/8rHKBpbeROT",
+          "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时35分 ~ 22时42分]"
-        },
-        {
-          "title": "国产AI短剧《霍去病》火到海外",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E7%9F%AD%E5%89%A7%E3%80%8A%E9%9C%8D%E5%8E%BB%E7%97%85%E3%80%8B%E7%81%AB%E5%88%B0%E6%B5%B7%E5%A4%96",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时07分 ~ 22时42分]"
+          "time_info": "[22时41分 ~ 23时43分]"
         },
         {
           "title": "甲骨文因AI数据中心扩张成本激增，计划裁员数千人",
@@ -361,17 +376,6 @@
           "time_info": "[04时43分 ~ 05时42分]"
         },
         {
-          "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
-          "url": "https://news.ifeng.com/c/8rHKBpbeROT",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时41分 ~ 22时42分]"
-        },
-        {
           "title": "市场消息：马斯克的xAI未能阻止加州人工智能透明度法案实施。",
           "url": "https://flash.jin10.com/detail/20260306031802688800",
           "source": "金十数据",
@@ -384,6 +388,17 @@
           "time_info": "[03时56分 ~ 04时43分]"
         },
         {
+          "title": "逐帧分析TES赛场Naiyou操作",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E5%88%86%E6%9E%90TES%E8%B5%9B%E5%9C%BANaiyou%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时42分 ~ 23时43分]"
+        },
+        {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
           "url": "https://wallstreetcn.com/livenews/3064630",
           "source": "华尔街见闻-快讯",
@@ -394,6 +409,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 04时43分]"
+        },
+        {
+          "title": "两会专访｜王遵来委员：AI不是中医的颠覆者，是传承创新的加速器",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712020",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时42分 ~ 23时43分]"
         },
         {
           "title": "OpenAI：正式推出GPT‑5.4，将在ChatGPT和API中发布GPT‑5.4 Pro。",
@@ -452,6 +478,17 @@
           "time_info": "12时46分"
         },
         {
+          "title": "破5亿播放AI短剧成本仅3000",
+          "url": "https://www.baidu.com/s?wd=%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
           "url": "https://flash.jin10.com/detail/20260306014710843800",
           "source": "金十数据",
@@ -472,6 +509,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "美国芝加哥联储主席Goolsbee：并不认为人工智能（AI）的应用解释了生产力数据。",
+          "url": "https://wallstreetcn.com/livenews/3065348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "国家发展改革委主任：“十五五”末人工智能相关产业规模将增长到10万亿元以上",
@@ -604,6 +652,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "Naiyou Jiaqi",
+          "url": "https://s.weibo.com/weibo?q=Naiyou%20Jiaqi&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "印度距成为全球AI第三大国还需多久",
