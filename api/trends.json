@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T15:34:10.396451+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-03-07T16:38:34.328761+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 15时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 16时38分]"
         },
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -111,8 +111,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时24分 ~ 15时34分]"
+          "appearance_count": 7,
+          "time_info": "[10时24分 ~ 16时38分]"
         },
         {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
@@ -124,6 +124,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时51分 ~ 05时35分]"
+        },
+        {
+          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时25分 ~ 16时38分]"
         },
         {
           "title": "青岛：发布首批OPC AI工具包清单",
@@ -148,18 +160,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时51分 ~ 14时50分]"
-        },
-        {
-          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 15时34分]"
         },
         {
           "title": "美国堪萨斯城联储主席Schmid：受人工智能影响及劳动力人口老龄化，企业雇佣计划处于停滞状态。",
@@ -306,6 +306,18 @@
           "time_info": "[12时25分 ~ 13时41分]"
         },
         {
+          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
+          "url": "https://www.zhihu.com/question/2004583095244911914",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 16时38分]"
+        },
+        {
           "title": "TES上报Naiyou不正当行为",
           "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -349,17 +361,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
-        },
-        {
-          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
-          "url": "https://www.zhihu.com/question/2004583095244911914",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
         },
         {
           "title": "美国起草了新的政府关于人工智能合同的指导方针，美国希望人工智能公司允许“任何合法”的使用方式来应用人工智能模型。（英国金融时报）",
