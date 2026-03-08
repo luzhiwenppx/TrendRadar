@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T16:38:18.996880+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-03-08T17:36:44.909968+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
@@ -47,8 +47,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时36分 ~ 16时38分]"
+          "appearance_count": 12,
+          "time_info": "[10时36分 ~ 17时36分]"
         },
         {
           "title": "3人48小时做出5亿播放量AI短剧",
@@ -129,6 +129,18 @@
           "time_info": "[12时47分 ~ 15时35分]"
         },
         {
+          "title": "AI养“龙虾”警惕安全风险",
+          "url": "https://www.cls.cn/detail/2306306",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 17时36分]"
+        },
+        {
           "title": "林俊旸离职风波暴露了大厂与技术负责人的哪些分歧？你认为该如何化解「既要、又要、还要」的 AI 管理难题？",
           "url": "https://www.zhihu.com/question/2013358487866996726",
           "source": "知乎",
@@ -169,17 +181,6 @@
           "time_info": "[10时36分 ~ 10时37分]"
         },
         {
-          "title": "AI养“龙虾”警惕安全风险",
-          "url": "https://www.cls.cn/detail/2306306",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
           "title": "破5亿播放AI短剧成本仅3000元",
           "url": "https://www.toutiao.com/trending/7614214812960034340/",
           "source": "今日头条",
@@ -217,6 +218,20 @@
           "time_info": "[00时34分 ~ 03时27分]"
         },
         {
+          "title": "千问AI眼镜G1现货开售，3小时全平台登顶第一",
+          "url": "https://wallstreetcn.com/livenews/3065837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时53分 ~ 17时36分]"
+        },
+        {
           "title": "“龙虾”狂欢①4个月25万星标！开源智能体“龙虾”为何能席卷AI圈",
           "url": "https://m.thepaper.cn/newsDetail_forward_32723518",
           "source": "澎湃新闻",
@@ -240,29 +255,17 @@
           "time_info": "[00时34分 ~ 02时41分]"
         },
         {
-          "title": "千问AI眼镜G1现货开售，3小时全平台登顶第一",
-          "url": "https://wallstreetcn.com/livenews/3065837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时53分 ~ 16时38分]"
-        },
-        {
           "title": "AI “养龙虾” 走红，官方提示：警惕安全风险",
           "url": "https://wallstreetcn.com/livenews/3065841",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时35分 ~ 16时38分]"
+          "appearance_count": 3,
+          "time_info": "[15时35分 ~ 17时36分]"
         },
         {
           "title": "OpenAI机器人团队主管辞职，因公司与五角大楼的AI交易",
@@ -287,6 +290,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时47分 ~ 13时48分]"
+        },
+        {
+          "title": "人社部表示正研究措施，发挥人工智能创造新岗位作用，会带来哪些影响？未来可能会出现哪些 AI 新职业？",
+          "url": "https://www.zhihu.com/question/2013564166326215304",
+          "source": "知乎",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时36分 ~ 17时36分]"
         },
         {
           "title": "AI龙虾到底能干什么",
@@ -327,15 +342,15 @@
           "time_info": "[12时47分 ~ 14时53分]"
         },
         {
-          "title": "人社部表示正研究措施，发挥人工智能创造新岗位作用，会带来哪些影响？未来可能会出现哪些 AI 新职业？",
-          "url": "https://www.zhihu.com/question/2013564166326215304",
-          "source": "知乎",
+          "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726184",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时36分 ~ 10时37分]"
+          "time_info": "[17时35分 ~ 17时36分]"
         },
         {
           "title": "年轻人为何排队疯抢AI龙虾",
