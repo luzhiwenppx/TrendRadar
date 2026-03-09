@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T01:51:51.310978+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-03-10T03:01:41.327307+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 03时01分]"
         },
         {
           "title": "yilai加入BLG无畏契约",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 03时01分]"
         },
         {
           "title": "AI“养龙虾”爆火！OpenClaw概念走强 多家上市公司回应相关业务最新进展|聚焦",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 03时01分]"
         },
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -51,19 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时51分]"
-        },
-        {
-          "title": "AI初创公司ElevenLabs的CEO表示：公司准备在未来2-3年IPO。",
-          "url": "https://wallstreetcn.com/livenews/3066663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 03时01分]"
         },
         {
           "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
@@ -71,11 +60,24 @@
           "source": "知乎",
           "ranks": [
             5,
-            15
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 03时01分]"
+        },
+        {
+          "title": "AI初创公司ElevenLabs的CEO表示：公司准备在未来2-3年IPO。",
+          "url": "https://wallstreetcn.com/livenews/3066663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时51分]"
+          "time_info": "[01时51分 ~ 03时01分]"
         },
         {
           "title": "小片片解读AI神作牌子",
@@ -83,11 +85,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            27
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 03时01分]"
+        },
+        {
+          "title": "OpenAI同意收购AI安全初创公司PromptFoo。",
+          "url": "https://wallstreetcn.com/livenews/3066654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时51分]"
+          "time_info": "[01时51分 ~ 03时01分]"
         },
         {
           "title": "高中生评测M4 iPad Air",
@@ -101,15 +116,15 @@
           "time_info": "00时05分"
         },
         {
-          "title": "OpenAI同意收购AI安全初创公司PromptFoo。",
-          "url": "https://wallstreetcn.com/livenews/3066654",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：苹果(AAPL.O)推迟智能家居显示屏发布，等待新的人工智能功能开发完成。",
+          "url": "https://flash.jin10.com/detail/20260310024624702800",
+          "source": "金十数据",
           "ranks": [
-            12
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "03时01分"
         },
         {
           "title": "OpenAI：同意收购AI安全初创公司PromptFoo。",
@@ -118,7 +133,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         }
