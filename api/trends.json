@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T21:13:13.215711+08:00",
-  "total_titles_processed": 1883,
+  "generated_at": "2026-03-10T22:55:49.286300+08:00",
+  "total_titles_processed": 2022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -33,22 +33,6 @@
           "time_info": "[00时05分 ~ 10时28分]"
         },
         {
-          "title": "工信部提醒AI养虾安全风险",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            4,
-            7,
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时28分 ~ 21时13分]"
-        },
-        {
           "title": "yilai加入BLG无畏契约",
           "url": "https://search.bilibili.com/all?keyword=yilai%E5%8A%A0%E5%85%A5BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6",
           "source": "bilibili 热搜",
@@ -61,6 +45,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时05分 ~ 06时35分]"
+        },
+        {
+          "title": "工信部提醒AI养虾安全风险",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            4,
+            7,
+            9,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[10时28分 ~ 22时55分]"
         },
         {
           "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
@@ -141,7 +142,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -157,6 +158,17 @@
           "time_info": "10时28分"
         },
         {
+          "title": "高校出手,AI龙虾被禁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351656&amp;topic_name=%E9%AB%98%E6%A0%A1%E5%87%BA%E6%89%8B%2CAI%E9%BE%99%E8%99%BE%E8%A2%AB%E7%A6%81",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "Meta公司的监督委员会：Meta公司需要制定一套新的、独立的规则，以确保用户能够可靠地识别人工智能生成的内容。",
           "url": "https://flash.jin10.com/detail/20260310174949696800",
           "source": "金十数据",
@@ -166,6 +178,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        },
+        {
+          "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
+          "url": "https://www.cls.cn/detail/2308421",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时48分 ~ 22时55分]"
         },
         {
           "title": "亚马逊在发生AI相关停机事故后召开工程会议。（英国金融时报）",
@@ -216,16 +240,27 @@
           "time_info": "[04时41分 ~ 05时38分]"
         },
         {
-          "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
-          "url": "https://www.cls.cn/detail/2308421",
-          "source": "财联社热门",
+          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
+          "url": "https://wallstreetcn.com/articles/3767089",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时48分 ~ 21时13分]"
+          "appearance_count": 3,
+          "time_info": "[21时12分 ~ 22时55分]"
+        },
+        {
+          "title": "AI背锅,内存降价遥遥无期",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时12分 ~ 22时55分]"
         },
         {
           "title": "AI龙虾为何那么“生猛”",
@@ -264,17 +299,6 @@
           "time_info": "[17时52分 ~ 18时48分]"
         },
         {
-          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
-          "url": "https://wallstreetcn.com/articles/3767089",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时12分 ~ 21时13分]"
-        },
-        {
           "title": "AI圈贩卖焦虑已经过于离谱了",
           "url": "https://wallstreetcn.com/articles/3767072",
           "source": "华尔街见闻",
@@ -308,17 +332,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 03时01分]"
-        },
-        {
-          "title": "AI背锅,内存降价遥遥无期",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时12分 ~ 21时13分]"
         },
         {
           "title": "周一（3月9日），信息科技指数涨3.21%，报270.01点，绝大部分时间维持微幅上涨状态，北京时间03:17开始显著扩大涨幅。 人工智能（AI）赢家指数涨3.82%。 AI软件先驱指数跌0.38%。",
@@ -388,6 +401,28 @@
           "time_info": "17时52分"
         },
         {
+          "title": "两会现场 我问了AI这样一个问题",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E7%8E%B0%E5%9C%BA+%E6%88%91%E9%97%AE%E4%BA%86AI%E8%BF%99%E6%A0%B7%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "院士说文科生绝不会被AI替代",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%A2%E5%A3%AB%E8%AF%B4%E6%96%87%E7%A7%91%E7%94%9F%E7%BB%9D%E4%B8%8D%E4%BC%9A%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "沙特阿美：正在利用人工智能提升各项运营效率。我们相信，持续投资于我们的业务，将使我们在未来处于有利地位。",
           "url": "https://flash.jin10.com/detail/20260310131741446800",
           "source": "金十数据",
@@ -438,7 +473,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -463,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
+        },
+        {
+          "title": "五角大楼引入谷歌AI代理 自动化非机密日常工作",
+          "url": "https://flash.jin10.com/detail/20260310222453964800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "美国负责军备控制和国际安全的国务卿：若没有核能，就无法满足数据中心、人工智能等领域日益增长的能源需求。",
@@ -526,7 +572,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -570,7 +616,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         }
