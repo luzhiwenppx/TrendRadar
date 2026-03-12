@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T17:52:15.866237+08:00",
-  "total_titles_processed": 1472,
+  "generated_at": "2026-03-12T18:46:30.269107+08:00",
+  "total_titles_processed": 1567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -72,11 +72,12 @@
             23,
             26,
             28,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时59分 ~ 17时52分]"
+          "appearance_count": 21,
+          "time_info": "[00时59分 ~ 18时46分]"
         },
         {
           "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
@@ -125,19 +126,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时03分 ~ 17时52分]"
-        },
-        {
-          "title": "今年将加快研究人工智能等领域立法",
-          "url": "https://www.toutiao.com/trending/7616278214587924534/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 17时52分]"
+          "appearance_count": 6,
+          "time_info": "[15时03分 ~ 18时46分]"
         },
         {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
@@ -145,11 +135,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时52分 ~ 17时52分]"
+          "appearance_count": 5,
+          "time_info": "[16时52分 ~ 18时46分]"
         },
         {
           "title": "美国国防部：我们将继续加快人工智能的部署。",
@@ -174,6 +165,31 @@
           "time_info": "10时34分"
         },
         {
+          "title": "今年将加快研究人工智能等领域立法",
+          "url": "https://www.toutiao.com/trending/7616278214587924534/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 18时46分]"
+        },
+        {
+          "title": "亚马逊将禁止初级工程师直接提交 AI 代码，如何评价这一举措？AI 提效与工程质量如何平衡？",
+          "url": "https://www.zhihu.com/question/2015067278698312603",
+          "source": "知乎",
+          "ranks": [
+            11,
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时52分 ~ 18时46分]"
+        },
+        {
           "title": "SkillHub上线 腾讯推出“中国专供”的AI Skills社区",
           "url": "https://www.cls.cn/detail/2310349",
           "source": "财联社热门",
@@ -195,18 +211,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时53分 ~ 17时52分]"
-        },
-        {
-          "title": "亚马逊将禁止初级工程师直接提交 AI 代码，如何评价这一举措？AI 提效与工程质量如何平衡？",
-          "url": "https://www.zhihu.com/question/2015067278698312603",
-          "source": "知乎",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时52分 ~ 17时52分]"
         },
         {
           "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
@@ -307,7 +311,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -332,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "真爱美家：公司关注到有关媒体在网络上流传关于公司被收购后将“变更主营业务”“被借壳”的传闻。经公司核实，公司的主营业务仍为毛毯为主的家用纺织品研发、设计、生产与销售，不涉及人工智能业务，公司主营业务未发生重大变化。控股股东亦不存在将其控制的资产在未来36个月内通过上市公司借壳上市的计划或安排。",
+          "url": "https://wallstreetcn.com/livenews/3068832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "德意志银行：出于对人工智能（AI）未来造成干扰的恐惧，投资者对美联储降息前景的定价可能超过了美国经济所能保证的程度。",
