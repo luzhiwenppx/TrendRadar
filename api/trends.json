@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T19:29:36.728449+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-03-14T21:03:24.362411+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "鹅厂抄袭AI龙虾,创始人开喷",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时47分 ~ 19时29分]"
+          "appearance_count": 12,
+          "time_info": "[12时47分 ~ 21时03分]"
         },
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -44,11 +44,12 @@
             11,
             9,
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时51分 ~ 19时29分]"
+          "appearance_count": 11,
+          "time_info": "[13时51分 ~ 21时03分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -65,8 +66,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时48分 ~ 19时29分]"
+          "appearance_count": 23,
+          "time_info": "[00时48分 ~ 21时03分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -278,9 +279,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
+        },
+        {
+          "title": "人工智能替代了大部分工作后，我们该做什么？",
+          "url": "https://www.zhihu.com/question/60274282",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "据英国金融时报：埃隆·马斯克下令xAI再裁员。",
@@ -303,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "谁在渲染AI焦虑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%9C%A8%E6%B8%B2%E6%9F%93AI%E7%84%A6%E8%99%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         }
       ]
     }
