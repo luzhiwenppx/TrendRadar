@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T01:32:32.387959+08:00",
-  "total_titles_processed": 344,
+  "generated_at": "2026-03-15T02:47:41.404473+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 02时47分]"
         },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 02时47分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 02时47分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -48,8 +48,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 02时47分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -57,11 +57,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时47分]"
         }
       ]
     }
