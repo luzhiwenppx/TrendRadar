@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T06:46:32.706703+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-03-18T07:38:18.269106+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时46分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时38分]"
         },
         {
           "title": "谷歌公司位于美国密歇根的Gigawatt数据中心将于2027年上线（投入应用）。",
@@ -25,20 +25,62 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
         {
-          "title": "“龙虾”火出圈，券商纷纷自研AI智能体",
-          "url": "https://wallstreetcn.com/livenews/3071935",
-          "source": "华尔街见闻-快讯",
+          "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
+          "url": "https://www.zhihu.com/question/2016992148197750088",
+          "source": "知乎",
           "ranks": [
-            2
+            8,
+            10,
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时38分]"
+        },
+        {
+          "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
+          "url": "https://www.zhihu.com/question/2016981407864414269",
+          "source": "知乎",
+          "ranks": [
+            10,
+            13,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时38分]"
+        },
+        {
+          "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
+          "url": "https://www.cls.cn/detail/2315814",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时38分]"
+        },
+        {
+          "title": "于谦说怕AI偷看相册",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 07时38分]"
         },
         {
           "title": "亚马逊股价走高，最新上涨1%，报214美元以上，此前报道称，该公司首席执行官预计到2036年，人工智能将使亚马逊云服务的销售额翻一番，达到6000亿美元。",
@@ -52,6 +94,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "橡树资本联合创始人Howard Marks：投资者低估了人工智能（AI）。 AI让世界变得更难预测。 赋予AI重要性的“力量”也让AI未来会做些什么变得难以预料。",
+          "url": "https://wallstreetcn.com/livenews/3071946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
           "title": "36 岁程序员，被 AI 写代码吓到了，如果再不转型，我几年内会失业吗？",
           "url": "https://www.zhihu.com/question/1977057445844109122",
           "source": "知乎",
@@ -63,55 +116,16 @@
           "time_info": "01时08分"
         },
         {
-          "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
-          "url": "https://www.zhihu.com/question/2016992148197750088",
-          "source": "知乎",
+          "title": "“龙虾”火出圈，券商纷纷自研AI智能体",
+          "url": "https://wallstreetcn.com/livenews/3071935",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            10,
-            13,
-            12
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时46分]"
-        },
-        {
-          "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
-          "url": "https://www.zhihu.com/question/2016981407864414269",
-          "source": "知乎",
-          "ranks": [
-            10,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时46分]"
-        },
-        {
-          "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
-          "url": "https://www.cls.cn/detail/2315814",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时46分]"
-        },
-        {
-          "title": "于谦说怕AI偷看相册",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时46分]"
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时38分]"
         },
         {
           "title": "必和必拓集团任命Brandon Craig为首席执行官，自7月1日起接替Mike Henry。",
@@ -136,6 +150,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 06时46分]"
+        },
+        {
+          "title": "大厂月薪 3 万元「疯抢」文科生，AI 时代文科生比理科生更吃香了吗？他们有哪些优势？",
+          "url": "https://www.zhihu.com/question/2016095792616744489",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时38分]"
         },
         {
           "title": "亚马逊(AMZN.O)首席执行官：到2036年，人工智能将使亚马逊云服务销售额翻倍至6000亿美元（此前预计为3000亿美元）。",
@@ -182,6 +207,28 @@
           "time_info": "03时09分"
         },
         {
+          "title": "公募机构争夺AI好感度，业内提示谨防信息污染",
+          "url": "https://wallstreetcn.com/livenews/3071939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "谷歌公司位于美国密歇根的Gigawatt数据中心将于2027年上线（投入应用）。 谷歌与DTE提议，为中心提供长达20年的电力供应合同。 谷歌将承担1600 MW可再生能源项目的所有成本，并承担480 MW能源存储的所有成本。",
+          "url": "https://wallstreetcn.com/livenews/3071936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
           "title": "德国寻求扩大AI基础设施 计划瞄准大规模数据中心扩张",
           "url": "https://wallstreetcn.com/livenews/3071875",
           "source": "华尔街见闻-快讯",
@@ -191,17 +238,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
-        },
-        {
-          "title": "大厂月薪 3 万元「疯抢」文科生，AI 时代文科生比理科生更吃香了吗？他们有哪些优势？",
-          "url": "https://www.zhihu.com/question/2016095792616744489",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
         },
         {
           "title": "报道：亚马逊预计AI将推动AWS销售额于2036年达到6000亿美元",
