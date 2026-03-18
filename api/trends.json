@@ -1,22 +1,74 @@
 {
-  "generated_at": "2026-03-18T07:38:18.269106+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-03-18T10:40:10.411109+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 27,
+      "match_count": 35,
       "titles": [
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 07时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 10时40分]"
+        },
+        {
+          "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
+          "url": "https://www.zhihu.com/question/2016992148197750088",
+          "source": "知乎",
+          "ranks": [
+            8,
+            10,
+            13,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 10时40分]"
+        },
+        {
+          "title": "于谦说怕AI偷看相册",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            17,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 10时40分]"
+        },
+        {
+          "title": "男二以下 AI演员",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%20AI%E6%BC%94%E5%91%98&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
+        },
+        {
+          "title": "日本AI造假,套壳DeepSeek",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
           "title": "谷歌公司位于美国密歇根的Gigawatt数据中心将于2027年上线（投入应用）。",
@@ -28,20 +80,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
-        },
-        {
-          "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
-          "url": "https://www.zhihu.com/question/2016992148197750088",
-          "source": "知乎",
-          "ranks": [
-            8,
-            10,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 07时38分]"
         },
         {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
@@ -70,19 +108,6 @@
           "time_info": "[01时08分 ~ 07时38分]"
         },
         {
-          "title": "于谦说怕AI偷看相册",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 07时38分]"
-        },
-        {
           "title": "亚马逊股价走高，最新上涨1%，报214美元以上，此前报道称，该公司首席执行官预计到2036年，人工智能将使亚马逊云服务的销售额翻一番，达到6000亿美元。",
           "url": "https://flash.jin10.com/detail/20260318024409341800",
           "source": "金十数据",
@@ -100,7 +125,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -140,6 +165,28 @@
           "time_info": "[06时02分 ~ 06时46分]"
         },
         {
+          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
+          "url": "https://www.zhihu.com/question/2016095792616744489",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
+        },
+        {
+          "title": "七部门发AI安全治理3年计划？谣言",
+          "url": "https://www.toutiao.com/trending/7618388030847700530/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
+        },
+        {
           "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3071904",
           "source": "华尔街见闻-快讯",
@@ -161,6 +208,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时38分]"
+        },
+        {
+          "title": "为何游戏大厂都在聊AI",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%B8%B8%E6%88%8F%E5%A4%A7%E5%8E%82%E9%83%BD%E5%9C%A8%E8%81%8AAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
           "title": "亚马逊(AMZN.O)首席执行官：到2036年，人工智能将使亚马逊云服务销售额翻倍至6000亿美元（此前预计为3000亿美元）。",
@@ -196,6 +254,17 @@
           "time_info": "01时08分"
         },
         {
+          "title": "三星数字体验事业部负责人表示，将把人工智能应用于所有产品。",
+          "url": "https://wallstreetcn.com/livenews/3072049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
           "title": "惠与（HPE）推出由英伟达产品支持的HPE AI Grid。",
           "url": "https://wallstreetcn.com/livenews/3071844",
           "source": "华尔街见闻-快讯",
@@ -213,7 +282,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -224,9 +293,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "三星电子芯片业务负责人：存储芯片市场正经历前所未有的“超级周期”。 电力供应可能成为AI增长的瓶颈。 需对AI市场前景持谨慎态度。 将重点销售用于服务器和AI应用的高利润芯片。 预计今年的资本支出将大幅上升。",
+          "url": "https://wallstreetcn.com/livenews/3072037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         },
         {
           "title": "德国寻求扩大AI基础设施 计划瞄准大规模数据中心扩张",
@@ -315,6 +395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "摩根大通：上调哔哩哔哩评级至超配并建议抄底 公司AI投资战略正确",
+          "url": "https://wallstreetcn.com/livenews/3072012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         }
       ]
     },
@@ -343,6 +434,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金多空对垒延续，三套估值方式均显示价格仍被低估",
+          "url": "https://flash.jin10.com/detail/20260318101827269800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         }
       ]
     }
