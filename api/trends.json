@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T15:51:27.345024+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-03-19T16:52:09.662589+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
@@ -19,8 +19,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 15时51分]"
+          "appearance_count": 15,
+          "time_info": "[01时07分 ~ 16时52分]"
         },
         {
           "title": "AI短片流金谷恩仇录",
@@ -30,11 +30,12 @@
             7,
             6,
             4,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时07分 ~ 15时51分]"
+          "appearance_count": 13,
+          "time_info": "[01时07分 ~ 16时52分]"
         },
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -62,11 +63,12 @@
             9,
             19,
             30,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时43分 ~ 15时51分]"
+          "appearance_count": 13,
+          "time_info": "[04时43分 ~ 16时52分]"
         },
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -124,6 +126,55 @@
           "time_info": "[01时07分 ~ 07时53分]"
         },
         {
+          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时41分 ~ 16时52分]"
+        },
+        {
+          "title": "外资企业为何“偏爱”上海？他们提到人工智能、供应链、市场……",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32789587",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时41分 ~ 16时52分]"
+        },
+        {
+          "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时41分 ~ 16时52分]"
+        },
+        {
+          "title": "50年前石油危机启示录：最可怕的是中东战火刺破AI泡沫？",
+          "url": "https://www.cls.cn/detail/2317944",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时51分 ~ 16时52分]"
+        },
+        {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
           "url": "https://www.cls.cn/detail/2316793",
           "source": "财联社热门",
@@ -137,6 +188,28 @@
           "time_info": "[01时07分 ~ 07时53分]"
         },
         {
+          "title": "如何看待央视网发布的动画短片《AI 奇谈 | 止戈为武：流金谷无「鹰」家》？",
+          "url": "https://www.zhihu.com/question/2017531069054869898",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 16时52分]"
+        },
+        {
+          "title": "普通人如何防范AI投毒",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 16时52分]"
+        },
+        {
           "title": "多名配音演员发函要求停止 AI 侵权，这反映出 AI 时代版权保护面临哪些新挑战？",
           "url": "https://www.zhihu.com/question/2016065149123970133",
           "source": "知乎",
@@ -145,43 +218,6 @@
             12,
             10,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时41分 ~ 15时51分]"
-        },
-        {
-          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时41分 ~ 15时51分]"
-        },
-        {
-          "title": "外资企业为何“偏爱”上海？他们提到人工智能、供应链、市场……",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32789587",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时41分 ~ 15时51分]"
-        },
-        {
-          "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -208,17 +244,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
-        },
-        {
-          "title": "50年前石油危机启示录：最可怕的是中东战火刺破AI泡沫？",
-          "url": "https://www.cls.cn/detail/2317944",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
         },
         {
           "title": "网易回应外包裁员称信息不实，此前网易被曝计划「使用 AI 清退全裁部外包员工」，具体怎么回事？",
@@ -269,6 +294,41 @@
           "time_info": "[01时07分 ~ 05时45分]"
         },
         {
+          "title": "AI观众 AI粉丝 AI打分",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%A7%82%E4%BC%97%20AI%E7%B2%89%E4%B8%9D%20AI%E6%89%93%E5%88%86&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时51分 ~ 16时52分]"
+        },
+        {
+          "title": "AI龙虾大战我的世界",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时51分 ~ 16时52分]"
+        },
+        {
+          "title": "AI万物皆可龙抬头",
+          "url": "https://www.douyin.com/hot/2435867",
+          "source": "抖音",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时51分 ~ 16时52分]"
+        },
+        {
           "title": "美光科技：AI服务器需求继续表现强劲。",
           "url": "https://wallstreetcn.com/livenews/3072679",
           "source": "华尔街见闻-快讯",
@@ -314,6 +374,17 @@
           "time_info": "07时53分"
         },
         {
+          "title": "工信部召开新材料领域中小企业圆桌会：探索人工智能等在材料研发、中试、生产等典型场景应用",
+          "url": "https://wallstreetcn.com/livenews/3073119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "AI演员 假人感",
           "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%20%E5%81%87%E4%BA%BA%E6%84%9F&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -353,18 +424,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
-        },
-        {
-          "title": "AI龙虾大战我的世界",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -386,7 +446,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -400,28 +460,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
-        },
-        {
-          "title": "AI观众 AI粉丝 AI打分",
-          "url": "https://s.weibo.com/weibo?q=AI%E8%A7%82%E4%BC%97%20AI%E7%B2%89%E4%B8%9D%20AI%E6%89%93%E5%88%86&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
-        },
-        {
-          "title": "AI万物皆可龙抬头",
-          "url": "https://www.douyin.com/hot/2435867",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
         },
         {
           "title": "恒生科技指数盘中跌超2%，AI应用、OpenClaw、明星科网股跌幅居前。",
@@ -446,6 +484,17 @@
           "time_info": "06时38分"
         },
         {
+          "title": "港股收盘：恒生指数收跌2.02%，恒生科技指数收跌2.19%，南向资金净买入超250亿港元。AI应用、有色金属等板块全线下跌，腾讯控股收跌超6%；小米逆势涨超3%，小米推出三款自研大模型，雷军称今年在AI领域将投入超160亿。",
+          "url": "https://wallstreetcn.com/livenews/3073099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
           "url": "https://wallstreetcn.com/livenews/3072659",
           "source": "华尔街见闻-快讯",
@@ -455,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "恒生指数公司：推出六条新指数，包含恒生港美超大型股指数、恒生港美大型股指数、恒生科技美股人工智能指数、恒生科技美股汽车指数、恒生港美机器人主题指数、恒生亚洲精选新经济指数。",
+          "url": "https://wallstreetcn.com/livenews/3073096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         }
       ]
     },
@@ -509,6 +569,36 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "荷兰国际银行：高能源成本带来的通胀影响正在打压黄金价格",
+          "url": "https://flash.jin10.com/detail/20260319164950014800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "黄金价格下跌 普通人能入手吗",
+          "url": "https://www.toutiao.com/trending/7618482201037901355/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时08分 ~ 07时53分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股 有色金属 铜",
       "match_count": 1,
       "titles": [
@@ -522,25 +612,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金价格下跌 普通人能入手吗",
-          "url": "https://www.toutiao.com/trending/7618482201037901355/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时08分 ~ 07时53分]"
         }
       ]
     }
