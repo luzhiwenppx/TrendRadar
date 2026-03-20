@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T02:58:11.488942+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-03-21T03:41:23.169679+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 02时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 03时41分]"
         },
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 02时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 03时41分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 02时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 03时41分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -50,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 02时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 03时41分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -62,8 +62,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 02时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 03时41分]"
         },
         {
           "title": "AI演员林汐颜、秦凌岳为何引众怒",
@@ -74,8 +74,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 02时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 03时41分]"
         },
         {
           "title": "博主用AI手搓应用1个多月赚近九千",
@@ -108,11 +108,23 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[02时57分 ~ 03时41分]"
+        },
+        {
+          "title": "高盛：对私募信贷的担忧，包括承销质量以及对可能受人工智能不利影响的软件公司的敞口，提醒我们信贷周期并未终结。",
+          "url": "https://flash.jin10.com/detail/20260321032318787800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
         },
         {
           "title": "OpenAI：我们为美国和加拿大的大学生提供100美元的Codex额度。",
@@ -124,6 +136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "高盛：潜在机遇源于货币宽松、人工智能投资以及更为均衡的美国监管体系等因素。",
+          "url": "https://flash.jin10.com/detail/20260321032020972800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
         }
       ]
     }
