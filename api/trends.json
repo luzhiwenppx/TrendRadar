@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T19:36:40.608375+08:00",
-  "total_titles_processed": 1621,
+  "generated_at": "2026-03-20T21:11:01.741403+08:00",
+  "total_titles_processed": 1752,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 40,
+      "match_count": 48,
       "titles": [
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时32分 ~ 19时36分]"
+          "appearance_count": 13,
+          "time_info": "[10时32分 ~ 21时11分]"
         },
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时50分 ~ 19时36分]"
+          "appearance_count": 9,
+          "time_info": "[16时50分 ~ 21时11分]"
         },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -54,8 +54,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时35分 ~ 19时36分]"
+          "appearance_count": 14,
+          "time_info": "[07时35分 ~ 21时11分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -90,8 +90,21 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时00分 ~ 19时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时00分 ~ 21时11分]"
+        },
+        {
+          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
+          "url": "https://www.cls.cn/detail/2319626",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时43分 ~ 21时11分]"
         },
         {
           "title": "人民日报：请给AI起个中文名字",
@@ -107,6 +120,28 @@
           "time_info": "[10时32分 ~ 15时04分]"
         },
         {
+          "title": "AI演员林汐颜、秦凌岳为何引众怒",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 21时11分]"
+        },
+        {
+          "title": "博主用AI手搓应用1个多月赚近九千",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%94%A8AI%E6%89%8B%E6%90%93%E5%BA%94%E7%94%A81%E4%B8%AA%E5%A4%9A%E6%9C%88%E8%B5%9A%E8%BF%91%E4%B9%9D%E5%8D%83",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 21时11分]"
+        },
+        {
           "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
           "url": "https://www.zhihu.com/question/2017676791603553270",
           "source": "知乎",
@@ -118,16 +153,15 @@
           "time_info": "10时32分"
         },
         {
-          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
-          "url": "https://www.cls.cn/detail/2319626",
-          "source": "财联社热门",
+          "title": "【何小鹏：IRON人形机器人将于2026年底量产，月产能目标上千台】小鹏董事长、CEO何小鹏表示，全新一代的IRON机器人将会在2026年底量产。小鹏IRON搭载三颗图灵AI芯片，端侧的有效算力远高于行业里的机器人。当前，小鹏VLA2.0技术栈已经在机器人上成功跑通，结合小鹏机器人的全新第4代运动控制系统。小鹏机器人主攻商业、工业和家庭三大场景。IRON将首先支持在小鹏中国和海外的门店和园区落地服务、导览和导购等商业场景。今年一季度，小鹏在广州启动了人形机器人量产基地的建设。IRON今年底的月产能目标是上千台。",
+          "url": "https://wallstreetcn.com/livenews/3074165",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
             4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时43分 ~ 19时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "普通人如何防范AI投毒",
@@ -298,6 +332,17 @@
           "time_info": "[16时50分 ~ 16时51分]"
         },
         {
+          "title": "未来十年AI拼的是什么",
+          "url": "https://www.douyin.com/hot/2436316",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 21时11分]"
+        },
+        {
           "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
           "url": "https://wallstreetcn.com/articles/3767836",
           "source": "华尔街见闻",
@@ -309,6 +354,17 @@
           "time_info": "00时00分"
         },
         {
+          "title": "XAI派工程师前往客户现场，以从OpenAI手中抢夺业务。",
+          "url": "https://flash.jin10.com/detail/20260320210018195800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "沪指尾盘跌幅扩大至1%，深成指涨0.06%，创业板指涨1.61%，算力租赁、AI应用、油气、多元金融等方向跌幅居前，沪深京三市下跌个股近4700只。",
           "url": "https://wallstreetcn.com/livenews/3073839",
           "source": "华尔街见闻-快讯",
@@ -318,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
+        },
+        {
+          "title": "交通运输部：推动网络货运、低空物流等新业态规范健康有序发展，加快人工智能在交通物流领域应用",
+          "url": "https://wallstreetcn.com/livenews/3074158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "阿里最新财季净利同比下滑近7成，重构AI版图能否撑起五年千亿美元目标？|财报解读",
@@ -441,6 +508,17 @@
           "time_info": "07时35分"
         },
         {
+          "title": "白宫发布国家人工智能框架",
+          "url": "https://wallstreetcn.com/livenews/3074149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "据华尔街日报：知情人士称，贝索斯正在初步洽谈筹集1000亿美元，用于一个新基金，该基金将收购制造公司，并寻求利用人工智能技术加速其自动化进程。",
           "url": "https://flash.jin10.com/detail/20260320024923101800",
           "source": "金十数据",
@@ -461,6 +539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "美联储理事鲍曼：将关注人工智能领域的杠杆水平。 预计今年经济将强劲增长。 强劲增长将受到政府供应端政策支持。 听证会称人工智能将增强而非取代员工。 仍然对就业市场感到担忧。 仍预计2026年将降息三次。 期待与沃什合作。 如果确认，沃什将在美联储产生强大影响。",
+          "url": "https://wallstreetcn.com/livenews/3074143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "去世演员通过AI重返银幕",
@@ -502,6 +591,18 @@
           "time_info": "13时56分"
         },
         {
+          "title": "黄金白银价格为何双双暴跌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时36分 ~ 21时11分]"
+        },
+        {
           "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32796580",
           "source": "澎湃新闻",
@@ -511,17 +612,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
-        },
-        {
-          "title": "黄金白银价格为何双双暴跌",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
         }
       ]
     },
