@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-20T21:11:01.741403+08:00",
-  "total_titles_processed": 1752,
+  "generated_at": "2026-03-20T22:50:10.109343+08:00",
+  "total_titles_processed": 1873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 48,
+      "match_count": 54,
       "titles": [
+        {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时50分 ~ 22时50分]"
+        },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
@@ -15,22 +27,12 @@
             1,
             2,
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时32分 ~ 21时11分]"
-        },
-        {
-          "title": "人工智能太绕,AI急需中文名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时50分 ~ 21时11分]"
+          "appearance_count": 15,
+          "time_info": "[10时32分 ~ 22时50分]"
         },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -56,6 +58,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[07时35分 ~ 21时11分]"
+        },
+        {
+          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
+          "url": "https://www.cls.cn/detail/2319626",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时43分 ~ 22时50分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -87,24 +102,12 @@
             15,
             19,
             16,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时00分 ~ 21时11分]"
-        },
-        {
-          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
-          "url": "https://www.cls.cn/detail/2319626",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时43分 ~ 21时11分]"
+          "appearance_count": 22,
+          "time_info": "[00时00分 ~ 22时50分]"
         },
         {
           "title": "人民日报：请给AI起个中文名字",
@@ -124,22 +127,24 @@
           "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 21时11分]"
+          "appearance_count": 4,
+          "time_info": "[21时10分 ~ 22时50分]"
         },
         {
           "title": "博主用AI手搓应用1个多月赚近九千",
           "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%94%A8AI%E6%89%8B%E6%90%93%E5%BA%94%E7%94%A81%E4%B8%AA%E5%A4%9A%E6%9C%88%E8%B5%9A%E8%BF%91%E4%B9%9D%E5%8D%83",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 21时11分]"
+          "appearance_count": 4,
+          "time_info": "[21时10分 ~ 22时50分]"
         },
         {
           "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
@@ -159,9 +164,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "京东云披露“龙虾天团”：基于JoyAI大模型驱动",
+          "url": "https://wallstreetcn.com/livenews/3074229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "普通人如何防范AI投毒",
@@ -210,6 +226,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时34分]"
+        },
+        {
+          "title": "未来十年AI拼的是什么",
+          "url": "https://www.douyin.com/hot/2436316",
+          "source": "抖音",
+          "ranks": [
+            30,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时10分 ~ 22时50分]"
         },
         {
           "title": "曝AI短剧使用杨紫的脸",
@@ -332,15 +360,15 @@
           "time_info": "[16时50分 ~ 16时51分]"
         },
         {
-          "title": "未来十年AI拼的是什么",
-          "url": "https://www.douyin.com/hot/2436316",
-          "source": "抖音",
+          "title": "国家医保局、广西将共同主办全国首个国家级医学影像AI识图大赛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32796766",
+          "source": "澎湃新闻",
           "ranks": [
-            30
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时10分 ~ 21时11分]"
+          "time_info": "[22时49分 ~ 22时50分]"
         },
         {
           "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
@@ -360,7 +388,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -382,7 +410,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -440,6 +468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：众议院将推动实施国家AI框架。",
+          "url": "https://wallstreetcn.com/livenews/3074217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "谷歌开始测试Gemini Mac版应用，以与ChatGPT和Claude竞争。",
@@ -514,9 +553,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "日本软银计划在美国俄亥俄州建设由燃气电厂供电的巨型AI数据中心",
+          "url": "https://wallstreetcn.com/livenews/3074214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "据华尔街日报：知情人士称，贝索斯正在初步洽谈筹集1000亿美元，用于一个新基金，该基金将收购制造公司，并寻求利用人工智能技术加速其自动化进程。",
@@ -541,13 +591,24 @@
           "time_info": "04时44分"
         },
         {
+          "title": "美国众议院议长约翰逊：众议院将致力于落实国家人工智能框架。",
+          "url": "https://flash.jin10.com/detail/20260320222016898800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "美联储理事鲍曼：将关注人工智能领域的杠杆水平。 预计今年经济将强劲增长。 强劲增长将受到政府供应端政策支持。 听证会称人工智能将增强而非取代员工。 仍然对就业市场感到担忧。 仍预计2026年将降息三次。 期待与沃什合作。 如果确认，沃什将在美联储产生强大影响。",
           "url": "https://wallstreetcn.com/livenews/3074143",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -561,6 +622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "何小鹏：2026年小鹏汽车物理AI相关研发投入预计提升至70亿元",
+          "url": "https://wallstreetcn.com/livenews/3074206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "白宫拟于周五向国会提交AI监管框架",
@@ -596,11 +668,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 21时11分]"
+          "appearance_count": 5,
+          "time_info": "[19时36分 ~ 22时50分]"
         },
         {
           "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
