@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T15:36:58.700475+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2026-03-21T16:40:34.210122+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -26,11 +26,12 @@
             2,
             4,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时09分 ~ 15时36分]"
+          "appearance_count": 17,
+          "time_info": "[01时09分 ~ 16时40分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -40,11 +41,12 @@
             7,
             9,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时09分 ~ 15时36分]"
+          "appearance_count": 17,
+          "time_info": "[01时09分 ~ 16时40分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -138,6 +140,19 @@
           "time_info": "[01时10分 ~ 02时58分]"
         },
         {
+          "title": "如何看待 ICML 2026 因审稿人违规使用 AI 而一次性桌拒 497 篇论文？",
+          "url": "https://www.zhihu.com/question/2017816580403246847",
+          "source": "知乎",
+          "ranks": [
+            7,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时46分 ~ 16时40分]"
+        },
+        {
           "title": "如何评价耀客推出 AI 演员秦凌岳、林汐颜，被指撞脸翟子路、赵今麦张子枫？AI 艺人仿真人版权边界如何界定？",
           "url": "https://www.zhihu.com/question/2017644548151616976",
           "source": "知乎",
@@ -148,18 +163,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时41分 ~ 15时36分]"
-        },
-        {
-          "title": "如何看待 ICML 2026 因审稿人违规使用 AI 而一次性桌拒 497 篇论文？",
-          "url": "https://www.zhihu.com/question/2017816580403246847",
-          "source": "知乎",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 15时36分]"
         },
         {
           "title": "周五（3月20日），存储芯片与硬件供应链指数跌4.93%，报113.25点，本周累计上涨5.14%，整体呈现出M形走势。 北美科技软件股指数ETF收跌1.74%，报82.99美元，本周累跌1.43%，延续上周跌4.30%的表现。 信息科技指数跌3.42%，报269.03点，本周累涨0.24%。 人工智能（AI）赢家指数跌4.02%，报281.73点，本周累跌0.09%。 AI软件先驱指数跌2.18%，报98.04点，本周累跌1.37%。",
@@ -188,6 +191,30 @@
           "time_info": "[12时41分 ~ 14时53分]"
         },
         {
+          "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
+          "url": "https://wallstreetcn.com/livenews/3074413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 16时40分]"
+        },
+        {
+          "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
+          "url": "https://flash.jin10.com/detail/20260321144016687800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 16时40分]"
+        },
+        {
           "title": "抵制没用 AI演员已经杀进影视圈",
           "url": "https://www.baidu.com/s?wd=%E6%8A%B5%E5%88%B6%E6%B2%A1%E7%94%A8+AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E6%9D%80%E8%BF%9B%E5%BD%B1%E8%A7%86%E5%9C%88",
           "source": "百度热搜",
@@ -211,28 +238,6 @@
           "time_info": "13时46分"
         },
         {
-          "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
-          "url": "https://wallstreetcn.com/livenews/3074413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
-          "url": "https://flash.jin10.com/detail/20260321144016687800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
           "title": "高盛：对私募信贷的担忧，包括承销质量以及对可能受人工智能不利影响的软件公司的敞口，提醒我们信贷周期并未终结。",
           "url": "https://flash.jin10.com/detail/20260321032318787800",
           "source": "金十数据",
@@ -242,6 +247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "伊朗媒体：巴斯基民兵组织副指挥官“阿齐姆·埃斯梅伊利”（Azim Esmaili）遇害。",
+          "url": "https://flash.jin10.com/detail/20260321155755350800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "OpenAI：我们为美国和加拿大的大学生提供100美元的Codex额度。",
@@ -291,7 +307,7 @@
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马斯克的律师们将对“美国陪审团认定他欺诈推特投资者们”的判决结果提出上诉。",
@@ -331,6 +347,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时34分 ~ 10时27分]"
+        },
+        {
+          "title": "马斯克：Optimus+PV将是首个冯·诺依曼探测器，一种能够利用太空中的原材料完全自我复制的机器。",
+          "url": "https://flash.jin10.com/detail/20260321154514979800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         }
       ]
     }
