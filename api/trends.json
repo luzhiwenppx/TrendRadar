@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T19:28:54.784378+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-03-21T21:02:03.974139+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -28,11 +28,12 @@
             9,
             10,
             11,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时09分 ~ 19时28分]"
+          "appearance_count": 22,
+          "time_info": "[01时09分 ~ 21时02分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -44,11 +45,12 @@
             14,
             15,
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时09分 ~ 19时28分]"
+          "appearance_count": 22,
+          "time_info": "[01时09分 ~ 21时02分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -129,17 +131,6 @@
           "time_info": "[01时09分 ~ 07时35分]"
         },
         {
-          "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
-          "url": "https://wallstreetcn.com/livenews/3074449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
           "title": "如何评价耀客推出 AI 演员秦凌岳、林汐颜，被指撞脸翟子路、赵今麦张子枫？AI 艺人仿真人版权边界如何界定？",
           "url": "https://www.zhihu.com/question/2017644548151616976",
           "source": "知乎",
@@ -164,6 +155,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时10分 ~ 02时58分]"
+        },
+        {
+          "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
+          "url": "https://wallstreetcn.com/livenews/3074449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 21时02分]"
         },
         {
           "title": "如何看待 ICML 2026 因审稿人违规使用 AI 而一次性桌拒 497 篇论文？",
@@ -230,6 +233,18 @@
           "time_info": "[15时36分 ~ 16时40分]"
         },
         {
+          "title": "季冠霖发文抵制AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%A3%E5%86%A0%E9%9C%96%E5%8F%91%E6%96%87%E6%8A%B5%E5%88%B6AI&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 21时02分]"
+        },
+        {
           "title": "伊朗媒体：巴斯基民兵组织副指挥官“阿齐姆·埃斯梅伊利”（Azim Esmaili）遇害。",
           "url": "https://flash.jin10.com/detail/20260321155755350800",
           "source": "金十数据",
@@ -254,6 +269,17 @@
           "time_info": "[14时53分 ~ 15时36分]"
         },
         {
+          "title": "用AI拍出创意反诈大片",
+          "url": "https://www.douyin.com/hot/2437681",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
           "title": "我用AI盲猜周杰伦新歌",
           "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E7%9B%B2%E7%8C%9C%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C",
           "source": "bilibili 热搜",
@@ -265,6 +291,17 @@
           "time_info": "13时46分"
         },
         {
+          "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3074453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "高盛：对私募信贷的担忧，包括承销质量以及对可能受人工智能不利影响的软件公司的敞口，提醒我们信贷周期并未终结。",
           "url": "https://flash.jin10.com/detail/20260321032318787800",
           "source": "金十数据",
@@ -274,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "华为肖德刚：AI技术与存储密不可分，加速迈入双向赋能新阶段",
+          "url": "https://flash.jin10.com/detail/20260321201526714800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "OpenAI：我们为美国和加拿大的大学生提供100美元的Codex额度。",
@@ -304,20 +352,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
         {
-          "title": "季冠霖发文抵制AI",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%A3%E5%86%A0%E9%9C%96%E5%8F%91%E6%96%87%E6%8A%B5%E5%88%B6AI&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "OpenAI计划到2026年底将员工人数增至8000人，以缩小与竞争对手Anthropic的差距。",
+          "url": "https://flash.jin10.com/detail/20260321200202568800",
+          "source": "金十数据",
           "ranks": [
-            24
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时28分"
+          "time_info": "21时02分"
         },
         {
           "title": "沦为AI素材杨紫尊严何在",
@@ -345,7 +393,7 @@
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "马斯克：企业版Grok Voice现已推出。",
@@ -354,7 +402,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -385,6 +433,18 @@
           "time_info": "10时27分"
         },
         {
+          "title": "“罕见”！马斯克败诉",
+          "url": "https://www.cls.cn/detail/2320283",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时33分 ~ 21时02分]"
+        },
+        {
           "title": "陪审团裁定：马斯克在2022年收购前误导了推特投资者",
           "url": "https://wallstreetcn.com/livenews/3074361",
           "source": "华尔街见闻-快讯",
@@ -398,17 +458,6 @@
           "time_info": "[06时34分 ~ 10时27分]"
         },
         {
-          "title": "“罕见”！马斯克败诉",
-          "url": "https://www.cls.cn/detail/2320283",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 19时28分]"
-        },
-        {
           "title": "马斯克：Optimus+PV将是首个冯·诺依曼探测器，一种能够利用太空中的原材料完全自我复制的机器。",
           "url": "https://flash.jin10.com/detail/20260321154514979800",
           "source": "金十数据",
@@ -419,6 +468,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时40分 ~ 17时38分]"
+        },
+        {
+          "title": "在美国政府拨款僵局持续期间，埃隆·马斯克提出由他来支付运输安全管理局 (TSA) 人员的工资。",
+          "url": "https://flash.jin10.com/detail/20260321193405686800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         }
       ]
     }
