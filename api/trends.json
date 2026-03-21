@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T13:46:35.021829+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2026-03-21T14:53:48.949458+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -25,11 +25,12 @@
           "ranks": [
             2,
             4,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时09分 ~ 13时46分]"
+          "appearance_count": 15,
+          "time_info": "[01时09分 ~ 14时53分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -38,11 +39,12 @@
           "ranks": [
             7,
             9,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时09分 ~ 13时46分]"
+          "appearance_count": 15,
+          "time_info": "[01时09分 ~ 14时53分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -56,11 +58,12 @@
             20,
             18,
             17,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时09分 ~ 13时46分]"
+          "appearance_count": 15,
+          "time_info": "[01时09分 ~ 14时53分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -153,11 +156,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 13时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 14时53分]"
         },
         {
           "title": "如何评价耀客推出 AI 演员秦凌岳、林汐颜，被指撞脸翟子路、赵今麦张子枫？AI 艺人仿真人版权边界如何界定？",
@@ -167,8 +171,20 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 14时53分]"
+        },
+        {
+          "title": "如何看待 ICML 2026 因审稿人违规使用 AI 而一次性桌拒 497 篇论文？",
+          "url": "https://www.zhihu.com/question/2017816580403246847",
+          "source": "知乎",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时41分 ~ 13时46分]"
+          "time_info": "[13时46分 ~ 14时53分]"
         },
         {
           "title": "我用AI盲猜周杰伦新歌",
@@ -177,18 +193,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        },
-        {
-          "title": "如何看待 ICML 2026 因审稿人违规使用 AI 而一次性桌拒 497 篇论文？",
-          "url": "https://www.zhihu.com/question/2017816580403246847",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -226,6 +231,17 @@
           "time_info": "03时41分"
         },
         {
+          "title": "抵制没用 AI演员已经杀进影视圈",
+          "url": "https://www.baidu.com/s?wd=%E6%8A%B5%E5%88%B6%E6%B2%A1%E7%94%A8+AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E6%9D%80%E8%BF%9B%E5%BD%B1%E8%A7%86%E5%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "沦为AI素材杨紫尊严何在",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A6%E4%B8%BAAI%E7%B4%A0%E6%9D%90%E6%9D%A8%E7%B4%AB%E5%B0%8A%E4%B8%A5%E4%BD%95%E5%9C%A8%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -254,6 +270,21 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "马斯克的律师们将对“美国陪审团认定他欺诈推特投资者们”的判决结果提出上诉。",
+          "url": "https://wallstreetcn.com/livenews/3074385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            20,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 14时53分]"
+        },
+        {
           "title": "马斯克说这就是kimi",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%B4%E8%BF%99%E5%B0%B1%E6%98%AFkimi%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -263,20 +294,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
-        },
-        {
-          "title": "马斯克的律师们将对“美国陪审团认定他欺诈推特投资者们”的判决结果提出上诉。",
-          "url": "https://wallstreetcn.com/livenews/3074385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时35分 ~ 13时46分]"
         },
         {
           "title": "陪审团裁定：马斯克在2022年收购前误导了推特投资者",
