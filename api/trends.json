@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T21:02:03.974139+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-03-21T21:50:50.972224+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -32,8 +32,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时09分 ~ 21时02分]"
+          "appearance_count": 23,
+          "time_info": "[01时09分 ~ 21时50分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -49,8 +49,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时09分 ~ 21时02分]"
+          "appearance_count": 23,
+          "time_info": "[01时09分 ~ 21时50分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -162,11 +162,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 21时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 21时50分]"
         },
         {
           "title": "如何看待 ICML 2026 因审稿人违规使用 AI 而一次性桌拒 497 篇论文？",
@@ -221,6 +222,19 @@
           "time_info": "[12时41分 ~ 14时53分]"
         },
         {
+          "title": "季冠霖发文抵制AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%A3%E5%86%A0%E9%9C%96%E5%8F%91%E6%96%87%E6%8A%B5%E5%88%B6AI&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 21时50分]"
+        },
+        {
           "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
           "url": "https://flash.jin10.com/detail/20260321144016687800",
           "source": "金十数据",
@@ -233,16 +247,16 @@
           "time_info": "[15时36分 ~ 16时40分]"
         },
         {
-          "title": "季冠霖发文抵制AI",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%A3%E5%86%A0%E9%9C%96%E5%8F%91%E6%96%87%E6%8A%B5%E5%88%B6AI&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3074453",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24,
-            11
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时28分 ~ 21时02分]"
+          "time_info": "[21时02分 ~ 21时50分]"
         },
         {
           "title": "伊朗媒体：巴斯基民兵组织副指挥官“阿齐姆·埃斯梅伊利”（Azim Esmaili）遇害。",
@@ -255,6 +269,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时40分 ~ 17时38分]"
+        },
+        {
+          "title": "华为肖德刚：AI技术与存储密不可分，加速迈入双向赋能新阶段",
+          "url": "https://flash.jin10.com/detail/20260321201526714800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时50分]"
+        },
+        {
+          "title": "OpenAI计划到2026年底将员工人数增至8000人，以缩小与竞争对手Anthropic的差距。",
+          "url": "https://flash.jin10.com/detail/20260321200202568800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时50分]"
         },
         {
           "title": "抵制没用 AI演员已经杀进影视圈",
@@ -291,17 +329,6 @@
           "time_info": "13时46分"
         },
         {
-          "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3074453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
           "title": "高盛：对私募信贷的担忧，包括承销质量以及对可能受人工智能不利影响的软件公司的敞口，提醒我们信贷周期并未终结。",
           "url": "https://flash.jin10.com/detail/20260321032318787800",
           "source": "金十数据",
@@ -311,17 +338,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
-        },
-        {
-          "title": "华为肖德刚：AI技术与存储密不可分，加速迈入双向赋能新阶段",
-          "url": "https://flash.jin10.com/detail/20260321201526714800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
         },
         {
           "title": "OpenAI：我们为美国和加拿大的大学生提供100美元的Codex额度。",
@@ -357,15 +373,15 @@
           "time_info": "19时28分"
         },
         {
-          "title": "OpenAI计划到2026年底将员工人数增至8000人，以缩小与竞争对手Anthropic的差距。",
-          "url": "https://flash.jin10.com/detail/20260321200202568800",
-          "source": "金十数据",
+          "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
+          "url": "https://wallstreetcn.com/livenews/3074461",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "21时50分"
         },
         {
           "title": "沦为AI素材杨紫尊严何在",
@@ -438,11 +454,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时33分 ~ 21时02分]"
+          "appearance_count": 5,
+          "time_info": "[18时33分 ~ 21时50分]"
         },
         {
           "title": "陪审团裁定：马斯克在2022年收购前误导了推特投资者",
@@ -476,7 +493,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
