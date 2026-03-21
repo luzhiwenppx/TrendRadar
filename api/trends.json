@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T17:38:26.599045+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-03-21T18:33:47.921866+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时09分 ~ 17时38分]"
+          "appearance_count": 19,
+          "time_info": "[01时09分 ~ 18时33分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -47,8 +47,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时09分 ~ 17时38分]"
+          "appearance_count": 19,
+          "time_info": "[01时09分 ~ 18时33分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -312,7 +312,7 @@
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克的律师们将对“美国陪审团认定他欺诈推特投资者们”的判决结果提出上诉。",
@@ -364,6 +364,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时40分 ~ 17时38分]"
+        },
+        {
+          "title": "“罕见”！马斯克败诉",
+          "url": "https://www.cls.cn/detail/2320283",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         }
       ]
     }
