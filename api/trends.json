@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T05:43:09.246117+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-03-24T06:39:02.947810+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "普通人如何制作AI视频",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 05时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 06时39分]"
         },
         {
           "title": "欧洲央行首席经济学家：欧洲金融体系不适配人工智能时代",
@@ -116,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "据航空新闻资讯平台The Air Current：波音(BA.N)已获得美国联邦航空管理局的批准，推出787-9和787-10远程宽体客机的新型增重最大起飞重量型号。",
+          "url": "https://flash.jin10.com/detail/20260324052732928800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
         }
       ]
     },
