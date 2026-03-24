@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-03-24T19:50:08.324665+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-03-24T21:23:41.124559+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "AI骗老美,虚拟女兵狂捞金",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时33分 ~ 21时23分]"
+        },
         {
           "title": "普通人如何制作AI视频",
           "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9CAI%E8%A7%86%E9%A2%91",
@@ -18,21 +34,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时41分 ~ 10时33分]"
-        },
-        {
-          "title": "AI骗老美,虚拟女兵狂捞金",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时33分 ~ 19时50分]"
         },
         {
           "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
@@ -56,11 +57,12 @@
             7,
             8,
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时57分 ~ 19时50分]"
+          "appearance_count": 7,
+          "time_info": "[15时57分 ~ 21时23分]"
         },
         {
           "title": "欧洲央行首席经济学家：欧洲金融体系不适配人工智能时代",
@@ -87,6 +89,17 @@
           "time_info": "[15时57分 ~ 19时50分]"
         },
         {
+          "title": "官方定调！AI时代“词元经济”崛起",
+          "url": "https://www.cls.cn/detail/2322996",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "欧洲央行首席经济学家Lane：AI是欧盟（致力于）完成储蓄联盟的另外一个理由。",
           "url": "https://wallstreetcn.com/livenews/3075317",
           "source": "华尔街见闻-快讯",
@@ -102,11 +115,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时55分 ~ 19时50分]"
+          "appearance_count": 5,
+          "time_info": "[18时55分 ~ 21时23分]"
         },
         {
           "title": "贝莱德CEO芬克：AI将重演财富分化剧本，普通人的出路是\"持股上车\"",
@@ -120,6 +134,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时33分 ~ 14时06分]"
+        },
+        {
+          "title": "给AI龙虾装上双手打游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时49分 ~ 21时23分]"
         },
         {
           "title": "内娱影视行业AI化是好是坏",
@@ -164,17 +190,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 00时42分]"
-        },
-        {
-          "title": "给AI龙虾装上双手打游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 19时50分]"
         },
         {
           "title": "泰凌微：公司不是Ray-Ban的供应商；公司部分产品可以用于AI眼镜，但目前尚未有相应的终端产品落地。",
@@ -238,7 +253,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -293,7 +308,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -309,13 +324,24 @@
           "time_info": "06时39分"
         },
         {
+          "title": "据The Information：亚马逊预计内部人工智能将随着时间推移缩减公司员工规模。",
+          "url": "https://flash.jin10.com/detail/20260324210158844800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "卢伟冰：Xiaomi miclaw未来会拓展到电脑、手表端，反对将“AI手机”概念化",
           "url": "https://wallstreetcn.com/livenews/3075911",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -360,8 +386,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时33分 ~ 19时50分]"
+          "appearance_count": 10,
+          "time_info": "[10时33分 ~ 21时23分]"
         },
         {
           "title": "中国为什么把 Elon Musk 的名翻译成「埃隆」而不是非常接近原音的「伊隆」？",
@@ -372,8 +398,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时55分 ~ 19时50分]"
+          "appearance_count": 5,
+          "time_info": "[18时55分 ~ 21时23分]"
         },
         {
           "title": "SpaceX股东富达投资：马斯克的“轨道数据”愿景具备可行性",
@@ -410,7 +436,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         }
