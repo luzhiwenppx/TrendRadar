@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T05:46:08.241391+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-03-26T06:42:31.439636+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时42分 ~ 05时46分]"
+          "appearance_count": 8,
+          "time_info": "[01时42分 ~ 06时42分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -30,8 +30,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时42分 ~ 05时46分]"
+          "appearance_count": 8,
+          "time_info": "[01时42分 ~ 06时42分]"
         },
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
@@ -40,11 +40,12 @@
           "ranks": [
             19,
             14,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时02分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[03时02分 ~ 06时42分]"
         },
         {
           "title": "谷歌在青少年社交媒体成瘾案中被判定负有责任。",
@@ -86,11 +87,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 05时46分]"
+          "appearance_count": 3,
+          "time_info": "[05时00分 ~ 06时42分]"
         },
         {
           "title": "美联储理事米兰：我预计，AI和去监管将让通胀失速。",
@@ -98,22 +100,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 05时46分]"
+          "appearance_count": 3,
+          "time_info": "[05时00分 ~ 06时42分]"
         },
         {
           "title": "Sparc AI：在乌克兰推荐代理商，以加快OverwatchGPS无信号导航平台的部署。",
           "url": "https://flash.jin10.com/detail/20260326044901012800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时42分]"
         },
         {
           "title": "市场消息：CrowdStrike扩大与英特尔的战略合作，以保护新一代AI PC。",
