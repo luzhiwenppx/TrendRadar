@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-03-29T19:35:05.337803+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-03-29T21:07:06.576596+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
+          "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时11分 ~ 21时07分]"
+        },
+        {
+          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时16分 ~ 21时07分]"
+        },
         {
           "title": "一个视频了解AI常识",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E4%BA%86%E8%A7%A3AI%E5%B8%B8%E8%AF%86",
@@ -19,22 +46,28 @@
             9,
             10,
             3,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 21时07分]"
+        },
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            7,
+            13,
+            20,
+            17,
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 18时40分]"
-        },
-        {
-          "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
-          "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时11分 ~ 19时35分]"
+          "appearance_count": 11,
+          "time_info": "[10时52分 ~ 21时07分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -52,34 +85,15 @@
           "time_info": "[00时41分 ~ 19时35分]"
         },
         {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
+          "title": "AI勇闯二游圈,引爆米库论战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
+          "source": "贴吧",
           "ranks": [
-            1,
-            7,
-            13,
-            20,
-            17
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时52分 ~ 19时35分]"
-        },
-        {
-          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时16分 ~ 19时35分]"
+          "appearance_count": 5,
+          "time_info": "[18时40分 ~ 21时07分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -91,11 +105,12 @@
             22,
             24,
             25,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时41分 ~ 19时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时41分 ~ 21时07分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -172,17 +187,6 @@
           "time_info": "[00时41分 ~ 07时37分]"
         },
         {
-          "title": "AI勇闯二游圈,引爆米库论战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时40分 ~ 19时35分]"
-        },
-        {
           "title": "人工智能会取代哪些岗位？",
           "url": "https://www.zhihu.com/question/2019355746328932969",
           "source": "知乎",
@@ -207,6 +211,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时41分 ~ 07时37分]"
+        },
+        {
+          "title": "伊朗战争的账单，“AI牛市”来买？",
+          "url": "https://wallstreetcn.com/articles/3768662",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时43分 ~ 21时07分]"
         },
         {
           "title": "上海人工智能实验室联合相关主体启动“超智融合算力”平台",
@@ -248,16 +265,15 @@
           "time_info": "[04时37分 ~ 06时35分]"
         },
         {
-          "title": "伊朗战争的账单，“AI牛市”来买？",
-          "url": "https://wallstreetcn.com/articles/3768662",
-          "source": "华尔街见闻",
+          "title": "新算法公布,谷歌干崩股市",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
+          "source": "贴吧",
           "ranks": [
-            10,
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时35分]"
+          "time_info": "[19时34分 ~ 21时07分]"
         },
         {
           "title": "中国AI不会因几张邀请函停滞",
@@ -284,15 +300,15 @@
           "time_info": "[15时11分 ~ 16时50分]"
         },
         {
-          "title": "新算法公布,谷歌干崩股市",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
-          "source": "贴吧",
+          "title": "所有“联创”均离职，马斯克“彻底重组”xAI",
+          "url": "https://wallstreetcn.com/articles/3768659",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时34分 ~ 19时35分]"
+          "time_info": "[21时06分 ~ 21时07分]"
         },
         {
           "title": "就是你是RAIN也得接孩子放学",
