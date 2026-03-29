@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T15:11:51.164494+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-03-29T16:50:10.405742+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
@@ -33,11 +33,12 @@
             7,
             8,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 15时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 16时50分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -46,11 +47,12 @@
           "ranks": [
             13,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 15时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 16时50分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -92,11 +94,12 @@
           "ranks": [
             20,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 15时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 16时50分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -152,6 +155,45 @@
           "time_info": "[00时41分 ~ 07时37分]"
         },
         {
+          "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
+          "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时11分 ~ 16时50分]"
+        },
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            7,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时52分 ~ 16时50分]"
+        },
+        {
+          "title": "上海人工智能实验室联合相关主体启动“超智融合算力”平台",
+          "url": "https://wallstreetcn.com/livenews/3078656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 16时50分]"
+        },
+        {
           "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
           "url": "https://flash.jin10.com/detail/20260329004806006800",
           "source": "金十数据",
@@ -161,17 +203,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
-        },
-        {
-          "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
-          "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时11分"
         },
         {
           "title": "做量化搞 quant 会被 ai 取代吗?",
@@ -187,30 +218,17 @@
           "time_info": "[04时37分 ~ 06时35分]"
         },
         {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
+          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
+            9,
             7,
-            13
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时52分 ~ 15时11分]"
-        },
-        {
-          "title": "上海人工智能实验室联合相关主体启动“超智融合算力”平台",
-          "url": "https://wallstreetcn.com/livenews/3078656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时52分 ~ 15时11分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 16时50分]"
         },
         {
           "title": "中国AI不会因几张邀请函停滞",
@@ -226,16 +244,15 @@
           "time_info": "[05时35分 ~ 07时37分]"
         },
         {
-          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
-          "source": "澎湃新闻",
+          "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
+          "url": "https://www.zhihu.com/question/2021000785224287940",
+          "source": "知乎",
           "ranks": [
-            9,
-            7
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 15时11分]"
+          "appearance_count": 3,
+          "time_info": "[15时11分 ~ 16时50分]"
         },
         {
           "title": "就是你是RAIN也得接孩子放学",
@@ -272,17 +289,6 @@
           "time_info": "01时35分"
         },
         {
-          "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
-          "url": "https://www.zhihu.com/question/2021000785224287940",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时11分"
-        },
-        {
           "title": "据Business Insider：马斯克旗下Xai初始创建团队的最后一位成员Ross Nordeen本周离开了该公司。",
           "url": "https://flash.jin10.com/detail/20260329001800989800",
           "source": "金十数据",
@@ -300,7 +306,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
