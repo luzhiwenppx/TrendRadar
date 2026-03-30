@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T13:32:00.837642+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2026-03-30T15:50:59.548128+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             1,
             5,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 13时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 15时50分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -51,11 +52,12 @@
             12,
             14,
             16,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 13时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 15时50分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -66,11 +68,12 @@
             22,
             19,
             24,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 13时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 15时50分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -105,7 +108,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -116,7 +119,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -173,8 +176,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 15时50分]"
         },
         {
           "title": "印度否认“马斯克参与特朗普与莫迪通话”",
@@ -183,7 +186,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
