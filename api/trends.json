@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T01:03:02.714267+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-03-31T03:07:09.399263+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -15,30 +15,43 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 03时07分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 03时07分]"
         },
         {
           "title": "AI勇闯二游圈,引爆米库论战",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
           "source": "贴吧",
           "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 03时07分]"
+        },
+        {
+          "title": "AI 会让年轻人的机会变多还是变少？",
+          "url": "https://www.zhihu.com/question/2016930184062789503",
+          "source": "知乎",
+          "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "time_info": "[03时06分 ~ 03时07分]"
         }
       ]
     },
@@ -64,7 +77,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         }
