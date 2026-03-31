@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T15:24:14.202293+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2026-03-31T17:07:47.334250+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI勇闯二游圈,引爆米库论战",
@@ -20,6 +20,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时02分 ~ 13时14分]"
+        },
+        {
+          "title": "苹果客服回应撤回国行AI",
+          "url": "https://www.douyin.com/hot/2449610",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 17时07分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -49,29 +61,18 @@
           "time_info": "[01时02分 ~ 07时41分]"
         },
         {
-          "title": "苹果客服回应撤回国行AI",
-          "url": "https://www.douyin.com/hot/2449610",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 15时24分]"
-        },
-        {
           "title": "凌晨3点上班,AI卷疯打工人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
             2,
             3,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 15时24分]"
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 17时07分]"
         },
         {
           "title": "国行版苹果AI",
@@ -104,11 +105,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 15时24分]"
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 17时07分]"
         },
         {
           "title": "AI 会让年轻人的机会变多还是变少？",
@@ -175,7 +177,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -208,7 +210,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -277,6 +279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "红果回应普通人形象被AI短剧盗脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9C%E5%9B%9E%E5%BA%94%E6%99%AE%E9%80%9A%E4%BA%BA%E5%BD%A2%E8%B1%A1%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E7%9B%97%E8%84%B8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
         }
       ]
     },
