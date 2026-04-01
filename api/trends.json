@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T17:13:22.511299+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2026-04-01T19:03:49.847657+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -16,11 +16,12 @@
             15,
             18,
             20,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时04分 ~ 17时13分]"
+          "appearance_count": 13,
+          "time_info": "[01时04分 ~ 19时03分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -46,6 +47,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "12家企业宣布无限Token计划，支持深度使用飞书AI产品",
+          "url": "https://wallstreetcn.com/livenews/3080861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "澳大利亚与Anthropic围绕国别人工智能（National AI）计划签署备忘录（MOU）。",
@@ -107,6 +119,18 @@
           "time_info": "[11时17分 ~ 13时58分]"
         },
         {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 19时03分]"
+        },
+        {
           "title": "重仓“隐藏款”浮出水面，基金经理沿AI主线布局",
           "url": "https://wallstreetcn.com/livenews/3080408",
           "source": "华尔街见闻-快讯",
@@ -117,18 +141,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时39分]"
-        },
-        {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 17时13分]"
         },
         {
           "title": "英伟达再度动用“钞能力” 入股迈威尔科技并开展AI互联、硅光子合作",
@@ -164,6 +176,28 @@
           "time_info": "04时50分"
         },
         {
+          "title": "英国央行称AI应用或构成金融稳定威胁 伊朗冲突带来重大负面供给冲击",
+          "url": "https://wallstreetcn.com/livenews/3080859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "最没人味的AI制作出最有人味的短片",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E6%B2%A1%E4%BA%BA%E5%91%B3%E7%9A%84AI%E5%88%B6%E4%BD%9C%E5%87%BA%E6%9C%80%E6%9C%89%E4%BA%BA%E5%91%B3%E7%9A%84%E7%9F%AD%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "市场消息：OpenAI完成1220亿美元融资，估值达8520亿美元。",
           "url": "https://flash.jin10.com/detail/20260401041014408800",
           "source": "金十数据",
@@ -181,7 +215,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -203,9 +237,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
+        },
+        {
+          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
+          "url": "https://www.cls.cn/detail/2332176",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "币圈“量子末日”恐加速到来？谷歌预警逃生时间表：2029年！",
@@ -214,7 +259,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -236,7 +281,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -296,6 +341,17 @@
           "time_info": "15时47分"
         },
         {
+          "title": "周深新歌禁止用于AI训练",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%96%B0%E6%AD%8C%E7%A6%81%E6%AD%A2%E7%94%A8%E4%BA%8EAI%E8%AE%AD%E7%BB%83%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "谷歌发布论文，在2029年期限前就量子风险向加密行业发出警告",
           "url": "https://wallstreetcn.com/livenews/3080310",
           "source": "华尔街见闻-快讯",
@@ -313,9 +369,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
+        },
+        {
+          "title": "AI清明短片《纸手机》爆火",
+          "url": "https://www.baidu.com/s?wd=AI%E6%B8%85%E6%98%8E%E7%9F%AD%E7%89%87%E3%80%8A%E7%BA%B8%E6%89%8B%E6%9C%BA%E3%80%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "港股人工智能板块午后冲高，智谱(02513.HK)涨近30%，MINIMAX-W(00100.HK)涨超16%，兆易创新(03986.HK)涨超8%，哔哩哔哩(09626.HK)涨超7%，百度(09888.HK)涨超5%。",
