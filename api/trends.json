@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-02T04:52:42.045423+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-04-02T05:49:48.237772+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2022254775757009403",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时49分]"
+        },
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
           "url": "https://www.cls.cn/detail/2332176",
@@ -15,20 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时52分]"
-        },
-        {
-          "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2022254775757009403",
-          "source": "知乎",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时49分]"
         },
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -38,8 +39,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时49分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -76,6 +77,28 @@
           "time_info": "03时10分"
         },
         {
+          "title": "如何把 AI 训练成自己的「第二大脑」？",
+          "url": "https://www.zhihu.com/question/2017266017961736190",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？",
+          "url": "https://www.zhihu.com/question/2020209448975607009",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
           "title": "消息人士称，SpaceX邀请分析师于4月23日参观在田纳西州孟菲斯市的XAI数据中心。",
           "url": "https://flash.jin10.com/detail/20260402002058725800",
           "source": "金十数据",
@@ -93,7 +116,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         }
