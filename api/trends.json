@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T07:41:02.203931+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-04-03T10:46:56.735803+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -13,22 +13,46 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时41分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 10时46分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时41分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 10时46分]"
+        },
+        {
+          "title": "谷歌最新模型Gemma4发布",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "上海交大与蚂蚁健康全面合作，共建AI联合实验室",
+          "url": "https://wallstreetcn.com/livenews/3081922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
@@ -48,7 +72,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -87,6 +111,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时04分 ~ 03时07分]"
+        },
+        {
+          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
+          "url": "https://www.zhihu.com/question/2023204569811828949",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "市场消息：OpenAI收购TBPN。",
@@ -142,6 +177,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 有色金属 铜",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股锂电池板块震荡下挫，圣阳股份、闽东电力双双跌停，石大胜华、常铝股份跌超8%，华盛锂电、乐凯胶片跟跌，宁德时代跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260403101139363800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "A股三大指数集体翻绿，全市场下跌个股超4700只。猪肉、粮食、电力板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260403101010440800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "A股绿电概念股早盘调整，闽东电力触及跌停，广西能源、深南电A、明星电力、宁波能源、西昌电力跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3081893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         }
       ]
     },
