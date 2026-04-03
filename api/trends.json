@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T13:10:32.756359+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-04-03T15:17:30.182996+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 13时10分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 15时17分]"
+        },
+        {
+          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
+          "url": "https://www.zhihu.com/question/2023204569811828949",
+          "source": "知乎",
+          "ranks": [
+            10,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 15时17分]"
         },
         {
           "title": "上海交大与蚂蚁健康全面合作，共建AI联合实验室",
@@ -73,18 +86,6 @@
           "ranks": [
             2,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 13时10分]"
-        },
-        {
-          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
-          "url": "https://www.zhihu.com/question/2023204569811828949",
-          "source": "知乎",
-          "ranks": [
-            10,
-            3
           ],
           "is_new": false,
           "appearance_count": 2,
