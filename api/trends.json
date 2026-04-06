@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T19:04:08.754534+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-04-06T21:21:40.081329+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "腾讯AI闯祸,拿唐山地震玩梗",
@@ -78,6 +78,48 @@
           "time_info": "[00时42分 ~ 13时31分]"
         },
         {
+          "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
+          "url": "https://wallstreetcn.com/articles/3769308",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时52分 ~ 21时21分]"
+        },
+        {
+          "title": "母亲不知儿子去世跟AI儿子聊了1年",
+          "url": "https://www.toutiao.com/trending/7625239644062023743/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            17,
+            16,
+            26,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时56分 ~ 21时21分]"
+        },
+        {
+          "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
+          "url": "https://www.zhihu.com/question/2024413032667772670",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时52分 ~ 21时21分]"
+        },
+        {
           "title": "微软谷歌争相与SK海力士洽谈DRAM“三年长约”，“打破惯例”引入底价保障及预付定金机制",
           "url": "https://wallstreetcn.com/articles/3769294",
           "source": "华尔街见闻",
@@ -102,30 +144,15 @@
           "time_info": "[00时42分 ~ 04时40分]"
         },
         {
-          "title": "母亲不知儿子去世跟AI儿子聊了1年",
-          "url": "https://www.toutiao.com/trending/7625239644062023743/",
-          "source": "今日头条",
+          "title": "如何看软著申请严查AI新规",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E8%BD%AF%E8%91%97%E7%94%B3%E8%AF%B7%E4%B8%A5%E6%9F%A5AI%E6%96%B0%E8%A7%84",
+          "source": "bilibili 热搜",
           "ranks": [
-            14,
-            17,
-            16,
-            26
+            4
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时56分 ~ 19时04分]"
-        },
-        {
-          "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
-          "url": "https://wallstreetcn.com/articles/3769308",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时52分 ~ 19时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "OpenAI发布文章 提出AI时代产业政策建议",
@@ -134,22 +161,23 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
         {
-          "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
-          "url": "https://www.zhihu.com/question/2024413032667772670",
-          "source": "知乎",
+          "title": "澎湃AI晚新闻丨2026年4月5日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32909915",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            9,
-            5
+            18,
+            19,
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时52分 ~ 19时04分]"
+          "appearance_count": 5,
+          "time_info": "[15时52分 ~ 21时21分]"
         },
         {
           "title": "OpenAI首席执行官和首席财务官据称在IPO时机问题上意见分歧。（The Information）",
@@ -177,19 +205,6 @@
           "time_info": "[10时56分 ~ 13时31分]"
         },
         {
-          "title": "澎湃AI晚新闻丨2026年4月5日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32909915",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时52分 ~ 19时04分]"
-        },
-        {
           "title": "男子用AI写歌仅版权赚了5位数",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8AI%E5%86%99%E6%AD%8C%E4%BB%85%E7%89%88%E6%9D%83%E8%B5%9A%E4%BA%865%E4%BD%8D%E6%95%B0%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -207,7 +222,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -232,6 +247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "易烊千玺被“换脸”？红果短剧：坚决打击AI短剧素材违规使用、无授权盗用等行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32911737",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "AirAsia X创始人：燃油成本基本上已翻了一倍多。",
