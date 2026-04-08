@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T13:16:47.396639+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2026-04-08T15:42:49.536768+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             8,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 13时16分]"
+          "appearance_count": 11,
+          "time_info": "[01时06分 ~ 15时42分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -27,11 +28,12 @@
           "ranks": [
             13,
             14,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 13时16分]"
+          "appearance_count": 11,
+          "time_info": "[01时06分 ~ 15时42分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：为庆祝每周使用Codex的用户达到300万，我们将重置使用限制。",
@@ -49,11 +51,12 @@
           "url": "https://www.zhihu.com/question/2023389785188745917",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 15时42分]"
         },
         {
           "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
@@ -97,7 +100,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -122,6 +125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "国内大厂 Trae 、 Qoder 、 CodeBuddy AI 编辑器哪个好用？",
+          "url": "https://www.zhihu.com/question/1951273247036380422",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         }
       ]
     }
