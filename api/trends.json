@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T19:03:36.063478+08:00",
-  "total_titles_processed": 1491,
+  "generated_at": "2026-04-08T21:29:17.788947+08:00",
+  "total_titles_processed": 1646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -17,11 +17,12 @@
             18,
             21,
             23,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时06分 ~ 19时03分]"
+          "appearance_count": 14,
+          "time_info": "[01时06分 ~ 21时29分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -67,11 +68,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时09分 ~ 19时03分]"
+          "appearance_count": 3,
+          "time_info": "[17时09分 ~ 21时29分]"
         },
         {
           "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
@@ -92,11 +94,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时09分 ~ 19时03分]"
+          "appearance_count": 3,
+          "time_info": "[17时09分 ~ 21时29分]"
         },
         {
           "title": "宁波高二女生将 AI『豆包』视为灵魂伴侣并为之休学，青少年过度沉迷 AI 会带来哪些风险？",
@@ -133,6 +136,17 @@
           "time_info": "[04时54分 ~ 04时55分]"
         },
         {
+          "title": "Publicis集团宣布扩大与微软的合作伙伴关系。Publicis Sapient的AI工具将运行在微软Azure云平台，并集成到微软Copilot中。",
+          "url": "https://wallstreetcn.com/livenews/3084374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "美团李树斌：当AI生成内容越来越多，大众点评上的“真人真评价”就更有价值",
           "url": "https://wallstreetcn.com/livenews/3083987",
           "source": "华尔街见闻-快讯",
@@ -142,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
+        },
+        {
+          "title": "【每日收评】沪指百点长阳逼近4000点，全市场近5200股收红，AI产业链再迎爆发",
+          "url": "https://www.cls.cn/detail/2337967",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "Anthropic正创建一个名为Project Glasswing的倡议，允许苹果、亚马逊测试更加强大的AI模型Mythos。",
@@ -155,13 +180,24 @@
           "time_info": "03时12分"
         },
         {
+          "title": "刘耀文流口水 AI生成",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E8%80%80%E6%96%87%E6%B5%81%E5%8F%A3%E6%B0%B4%20AI%E7%94%9F%E6%88%90&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "现在 AI 发展这么快，作为大学生，我们到底该重点培养哪些「AI 抢不走」的能力？",
           "url": "https://www.zhihu.com/question/2018378114875482573",
           "source": "知乎",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
