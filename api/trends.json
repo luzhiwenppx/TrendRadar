@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T17:09:22.889987+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-04-08T19:03:36.063478+08:00",
+  "total_titles_processed": 1491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -16,11 +16,12 @@
             8,
             18,
             21,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时06分 ~ 17时09分]"
+          "appearance_count": 13,
+          "time_info": "[01时06分 ~ 19时03分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -61,6 +62,18 @@
           "time_info": "[13时16分 ~ 17时09分]"
         },
         {
+          "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
+          "url": "https://www.zhihu.com/question/2024823845052269102",
+          "source": "知乎",
+          "ranks": [
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 19时03分]"
+        },
+        {
           "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
           "url": "https://www.cls.cn/detail/2336990",
           "source": "财联社热门",
@@ -74,6 +87,18 @@
           "time_info": "[06时43分 ~ 10时51分]"
         },
         {
+          "title": "员工离职变AI,上班不能停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 19时03分]"
+        },
+        {
           "title": "宁波高二女生将 AI『豆包』视为灵魂伴侣并为之休学，青少年过度沉迷 AI 会带来哪些风险？",
           "url": "https://www.zhihu.com/question/2023389785188745917",
           "source": "知乎",
@@ -85,6 +110,18 @@
           "time_info": "[10时50分 ~ 10时51分]"
         },
         {
+          "title": "美国 AI 三巨头围剿模型蒸馏，对全球主要大模型公司将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2025148296822351316",
+          "source": "知乎",
+          "ranks": [
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 19时03分]"
+        },
+        {
           "title": "芭比大战AI偶像",
           "url": "https://search.bilibili.com/all?keyword=%E8%8A%AD%E6%AF%94%E5%A4%A7%E6%88%98AI%E5%81%B6%E5%83%8F",
           "source": "bilibili 热搜",
@@ -94,17 +131,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时54分 ~ 04时55分]"
-        },
-        {
-          "title": "员工离职变AI,上班不能停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
         },
         {
           "title": "美团李树斌：当AI生成内容越来越多，大众点评上的“真人真评价”就更有价值",
@@ -129,15 +155,15 @@
           "time_info": "03时12分"
         },
         {
-          "title": "美国 AI 三巨头围剿模型蒸馏，对全球主要大模型公司将产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2025148296822351316",
+          "title": "现在 AI 发展这么快，作为大学生，我们到底该重点培养哪些「AI 抢不走」的能力？",
+          "url": "https://www.zhihu.com/question/2018378114875482573",
           "source": "知乎",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时09分"
+          "time_info": "19时03分"
         },
         {
           "title": "A股AI应用概念股持续走强，蓝色光标20cm封板涨停，浙文互联、粤传媒、达实智能、天地在线此前涨停。",
@@ -160,17 +186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
-        },
-        {
-          "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
-          "url": "https://www.zhihu.com/question/2024823845052269102",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
         }
       ]
     }
