@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T15:50:24.024770+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-04-10T17:17:07.018020+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "AI红利和普通人有何关系",
@@ -137,6 +137,18 @@
           "time_info": "[03时31分 ~ 06时49分]"
         },
         {
+          "title": "AI换脸偷声侵权，那么大模型训练呢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 17时17分]"
+        },
+        {
           "title": "OpenAI声称其算力比Anthropic更有优势",
           "url": "https://flash.jin10.com/detail/20260410043705456800",
           "source": "金十数据",
@@ -173,6 +185,18 @@
           "time_info": "[06时49分 ~ 07时41分]"
         },
         {
+          "title": "人工智能将纳入教师资格考试和认证内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 17时17分]"
+        },
+        {
           "title": "AI写作年赚200万夫妻被封号",
           "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7",
           "source": "百度热搜",
@@ -185,28 +209,28 @@
           "time_info": "[13时31分 ~ 15时50分]"
         },
         {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
+          "title": "人工智能将纳入教师资格考试",
+          "url": "https://www.douyin.com/hot/2461467",
+          "source": "抖音",
           "ranks": [
-            7,
-            6
+            17,
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 15时50分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 17时17分]"
         },
         {
-          "title": "人工智能将纳入教师资格考试和认证内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
-          "source": "澎湃新闻",
+          "title": "神秘AI视频模型 “欢乐马”屠榜！背后团队来自阿里 预计一周后发布",
+          "url": "https://www.cls.cn/detail/2340102",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时31分 ~ 15时50分]"
+          "time_info": "[17时16分 ~ 17时17分]"
         },
         {
           "title": "最高涨价463% 你的AI员工变贵了",
@@ -244,16 +268,26 @@
           "time_info": "[13时31分 ~ 15时50分]"
         },
         {
-          "title": "人工智能将纳入教师资格考试",
-          "url": "https://www.douyin.com/hot/2461467",
-          "source": "抖音",
+          "title": "人工智能将纳入教师资格考试和认证内容，会对未来的教育生态产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2025880248273618520",
+          "source": "知乎",
           "ranks": [
-            17,
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时31分 ~ 15时50分]"
+          "time_info": "[17时16分 ~ 17时17分]"
+        },
+        {
+          "title": "穆迪报告指出 AI 行业存在循环融资风险，五大巨头承诺资本开支高达 6800 亿美元，你怎么看？",
+          "url": "https://www.zhihu.com/question/2025517870495392629",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
         },
         {
           "title": "HappyHorse登顶AI视频测评榜首",
@@ -460,7 +494,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
