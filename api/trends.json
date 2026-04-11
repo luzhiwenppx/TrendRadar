@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T19:35:50.202606+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-04-11T21:09:36.790059+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时41分 ~ 19时35分]"
+          "appearance_count": 11,
+          "time_info": "[10时41分 ~ 21时09分]"
         },
         {
           "title": "人工智能将纳入教师资格考试",
@@ -84,8 +84,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时08分 ~ 19时35分]"
+          "appearance_count": 8,
+          "time_info": "[14时08分 ~ 21时09分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
@@ -95,8 +95,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 19时35分]"
+          "appearance_count": 4,
+          "time_info": "[17时47分 ~ 21时09分]"
         },
         {
           "title": "我也来试一下这个wait",
@@ -105,11 +105,12 @@
           "ranks": [
             20,
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时53分 ~ 19时35分]"
+          "appearance_count": 7,
+          "time_info": "[15时53分 ~ 21时09分]"
         },
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
@@ -186,6 +187,19 @@
           "time_info": "[13时00分 ~ 14时08分]"
         },
         {
+          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
+          "url": "https://wallstreetcn.com/articles/3769738",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时47分 ~ 21时09分]"
+        },
+        {
           "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
           "url": "https://flash.jin10.com/detail/20260411094848579800",
           "source": "金十数据",
@@ -210,19 +224,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时54分 ~ 18时40分]"
-        },
-        {
-          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
-          "url": "https://wallstreetcn.com/articles/3769738",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 19时35分]"
         },
         {
           "title": "工业和信息化部将发布一批“人工智能+”高价值场景",
@@ -311,6 +312,18 @@
           "time_info": "[15时54分 ~ 16时52分]"
         },
         {
+          "title": "AI让新闻变成“流体”：液态内容生产开始成为现实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32940819",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 21时09分]"
+        },
+        {
           "title": "美国财长贝森特与副总统万斯向科技行业CEO们询问AI安全问题。 这发生在Anthropic发布Mythos之前。",
           "url": "https://wallstreetcn.com/livenews/3086083",
           "source": "华尔街见闻-快讯",
@@ -331,17 +344,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
-        },
-        {
-          "title": "AI让新闻变成“流体”：液态内容生产开始成为现实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32940819",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
         },
         {
           "title": "中国AI芯片格局反转",
