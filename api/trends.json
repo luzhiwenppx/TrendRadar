@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T16:52:34.495815+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2026-04-11T17:47:45.193946+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "人工智能将纳入教师资格考试和认证内容",
@@ -65,11 +65,12 @@
             14,
             2,
             12,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时41分 ~ 16时52分]"
+          "appearance_count": 8,
+          "time_info": "[10时41分 ~ 17时47分]"
         },
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
@@ -96,6 +97,17 @@
           "time_info": "[03时04分 ~ 07时41分]"
         },
         {
+          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/2026136705757902456",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
           "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
           "url": "https://wallstreetcn.com/livenews/3086054",
           "source": "华尔街见闻-快讯",
@@ -105,6 +117,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时08分 ~ 17时47分]"
         },
         {
           "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
@@ -146,18 +171,6 @@
           "time_info": "[13时00分 ~ 14时08分]"
         },
         {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时08分 ~ 16时52分]"
-        },
-        {
           "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
           "url": "https://flash.jin10.com/detail/20260411094848579800",
           "source": "金十数据",
@@ -175,11 +188,38 @@
           "source": "抖音",
           "ranks": [
             20,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时53分 ~ 17时47分]"
+        },
+        {
+          "title": "普京：俄罗斯须自主研发有竞争力的人工智能模型",
+          "url": "https://wallstreetcn.com/livenews/3086174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            10,
             17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时53分 ~ 16时52分]"
+          "time_info": "[15时54分 ~ 17时47分]"
+        },
+        {
+          "title": "普京呼吁发展具有全球竞争力且最大限度自主的国产AI模型",
+          "url": "https://flash.jin10.com/detail/20260411142532640800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 17时47分]"
         },
         {
           "title": "OpenAI：事件的根本原因是GitHub Actions工作流中的配置错误，已予以解决。",
@@ -206,18 +246,6 @@
           "time_info": "[10时41分 ~ 13时00分]"
         },
         {
-          "title": "普京：俄罗斯须自主研发有竞争力的人工智能模型",
-          "url": "https://wallstreetcn.com/livenews/3086174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 16时52分]"
-        },
-        {
           "title": "OpenAI就第三方库安全事件发布公告：未发现用户数据泄露或系统遭入侵",
           "url": "https://flash.jin10.com/detail/20260411094510379800",
           "source": "金十数据",
@@ -230,18 +258,6 @@
           "time_info": "[10时41分 ~ 13时00分]"
         },
         {
-          "title": "普京呼吁发展具有全球竞争力且最大限度自主的国产AI模型",
-          "url": "https://flash.jin10.com/detail/20260411142532640800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 16时52分]"
-        },
-        {
           "title": "日本批准6315亿日元追加补贴 助力Rapidus进军AI芯片制造",
           "url": "https://flash.jin10.com/detail/20260411141004111800",
           "source": "金十数据",
@@ -252,6 +268,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时54分 ~ 16时52分]"
+        },
+        {
+          "title": "工业和信息化部将发布一批“人工智能+”高价值场景",
+          "url": "https://wallstreetcn.com/livenews/3086184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
+          "url": "https://wallstreetcn.com/articles/3769738",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "工业和信息化部将发布一批“人工智能+”高价值场景",
+          "url": "https://flash.jin10.com/detail/20260411165101237800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "美国财长贝森特与副总统万斯向科技行业CEO们询问AI安全问题。 这发生在Anthropic发布Mythos之前。",
@@ -296,6 +345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "普京：俄须自主研发有竞争力的AI模型",
+          "url": "https://www.toutiao.com/trending/7627072537363677227/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/L0FUuQ9wjv5TrILFaKkYG.jpg/lite\" height=\"120\"/></a>",
