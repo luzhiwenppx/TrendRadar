@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T15:25:59.080565+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-04-12T16:56:31.998110+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 15时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 16时56分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -56,11 +56,12 @@
             27,
             21,
             28,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 15时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 16时56分]"
         },
         {
           "title": "我也来试一下这个wait",
@@ -85,11 +86,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 15时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 16时56分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/D4supSq6s7-gSzJkAz87N.jpg/lite\" height=\"120\"/></a>",
@@ -164,6 +166,17 @@
           "time_info": "[13时57分 ~ 15时25分]"
         },
         {
+          "title": "OpenAI CEO住所遭袭",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%20CEO%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "孩子用 AI 写作文，我该夸他会用新科技，还是得拆穿他是在「作弊」？",
           "url": "https://www.zhihu.com/question/2002055091918697271",
           "source": "知乎",
@@ -187,7 +200,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         }
