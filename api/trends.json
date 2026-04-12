@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T16:56:31.998110+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-04-12T17:52:01.840780+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 16时56分]"
+          "appearance_count": 17,
+          "time_info": "[00时42分 ~ 17时52分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -60,8 +60,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 16时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 17时52分]"
         },
         {
           "title": "我也来试一下这个wait",
@@ -87,11 +87,12 @@
           "ranks": [
             4,
             7,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时19分 ~ 16时56分]"
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 17时52分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/D4supSq6s7-gSzJkAz87N.jpg/lite\" height=\"120\"/></a>",
@@ -117,6 +118,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时43分 ~ 02时54分]"
+        },
+        {
+          "title": "国产AI模型为何大多免费",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7AI%E6%A8%A1%E5%9E%8B%E4%B8%BA%E4%BD%95%E5%A4%A7%E5%A4%9A%E5%85%8D%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 17时52分]"
         },
         {
           "title": "五部门发文普及中小学 AI 教育，纳入地方课程体系，下一步，AI 会不会进中考、高考？农村孩子怎么办？",
@@ -172,7 +184,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
