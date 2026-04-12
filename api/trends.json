@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T03:43:55.019338+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-04-13T04:42:59.833940+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 04时42分]"
         },
         {
           "title": "国产AI模型为何大多免费",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 04时42分]"
         },
         {
           "title": "境外涉黄AI软件绕过监管流入国内",
@@ -36,11 +36,12 @@
           "ranks": [
             18,
             10,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 04时42分]"
         },
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -51,8 +52,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 04时42分]"
         },
         {
           "title": "央视曝光AI造黄产业链",
@@ -63,8 +64,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 04时42分]"
+        },
+        {
+          "title": "AI 会有情绪吗？",
+          "url": "https://www.zhihu.com/question/583568899",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 04时42分]"
         },
         {
           "title": "多款AI应用存在涉黄生成漏洞",
@@ -88,17 +101,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 01时40分]"
-        },
-        {
-          "title": "AI 会有情绪吗？",
-          "url": "https://www.zhihu.com/question/583568899",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
         }
       ]
     }
