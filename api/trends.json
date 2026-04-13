@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T06:56:54.051817+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-04-14T07:52:22.733911+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 07时52分]"
         },
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 07时52分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -38,19 +38,43 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 07时52分]"
         },
         {
-          "title": "美联储理事米兰：AI可能会迅速摧毁就业，而要创造就业岗位则需数年。",
-          "url": "https://wallstreetcn.com/livenews/3087209",
+          "title": "韩国AI初创公司Wrtn2025年销售额升至471亿韩元",
+          "url": "https://wallstreetcn.com/livenews/3087225",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时56分"
+          "time_info": "07时52分"
+        },
+        {
+          "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
+          "url": "https://www.cls.cn/detail/2342373",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时20分 ~ 07时52分]"
+        },
+        {
+          "title": "美联储理事米兰：AI可能会迅速摧毁就业，而要创造就业岗位则需数年。",
+          "url": "https://wallstreetcn.com/livenews/3087209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时52分]"
         },
         {
           "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
@@ -74,18 +98,6 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时20分 ~ 06时56分]"
-        },
-        {
-          "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
-          "url": "https://www.cls.cn/detail/2342373",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
           "time_info": "[03时20分 ~ 06时56分]"
         },
         {
@@ -139,7 +151,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         }
@@ -154,11 +166,12 @@
           "url": "https://wallstreetcn.com/articles/3769793",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 07时52分]"
         },
         {
           "title": "马斯克旗下X独立通讯应用XChat即将上线",
