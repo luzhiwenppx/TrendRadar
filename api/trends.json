@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T19:54:44.714773+08:00",
-  "total_titles_processed": 1469,
+  "generated_at": "2026-04-14T21:56:52.422937+08:00",
+  "total_titles_processed": 1619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -30,11 +30,12 @@
             16,
             18,
             19,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时09分 ~ 19时54分]"
+          "appearance_count": 15,
+          "time_info": "[01时09分 ~ 21时56分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -46,11 +47,12 @@
             17,
             19,
             20,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时09分 ~ 19时54分]"
+          "appearance_count": 15,
+          "time_info": "[01时09分 ~ 21时56分]"
         },
         {
           "title": "OpenAI伦敦设立永久办公室",
@@ -75,28 +77,51 @@
           "time_info": "07时52分"
         },
         {
-          "title": "甲骨文将Agentic AI平台扩展至企业银行业务。",
-          "url": "https://wallstreetcn.com/livenews/3087702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
           "title": "UP主揭秘AI短剧制作流程",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
           "source": "bilibili 热搜",
           "ranks": [
             5,
             10,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时55分 ~ 19时54分]"
+          "appearance_count": 5,
+          "time_info": "[15时55分 ~ 21时56分]"
+        },
+        {
+          "title": "市场消息：美国财政部首席信息官指示网络团队制定应对人工智能威胁的计划。",
+          "url": "https://flash.jin10.com/detail/20260414214836513800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "甲骨文将Agentic AI平台扩展至企业银行业务。",
+          "url": "https://wallstreetcn.com/livenews/3087702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "Meta高管Dina Powell McCormick：Meta计算部门正在慎重考虑公司在未来几年将投入的近6000亿美元资金的投资问题。 扎克伯格已经把他的办公桌搬进了人工智能实验室，直接与Alex Wang和Nat Friedman一起工作，并且整天都在编写代码。",
+          "url": "https://wallstreetcn.com/livenews/3087754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "AI突袭短剧 “霸总爹”失业",
@@ -171,6 +196,17 @@
           "time_info": "[15时55分 ~ 17时25分]"
         },
         {
+          "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
+          "url": "https://www.cls.cn/detail/2343603",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 21时56分]"
+        },
+        {
           "title": "北京最火饺子馆开始喂AI龙虾",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%80%E7%81%AB%E9%A5%BA%E5%AD%90%E9%A6%86%E5%BC%80%E5%A7%8B%E5%96%82AI%E9%BE%99%E8%99%BE%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -188,7 +224,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -202,17 +238,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
-          "url": "https://www.cls.cn/detail/2343603",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
         },
         {
           "title": "美国清洁能源公司Bloom Energy：与甲骨文(ORCL.N)扩大战略合作伙伴关系，计划部署高达2.8GW的装机容量，以加速人工智能基础设施的建设。首批1.2GW项目已签约，部署正在进行，并将持续至明年。",
@@ -232,7 +257,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -254,7 +279,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
