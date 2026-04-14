@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T10:58:03.065592+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2026-04-14T13:41:32.774105+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -26,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 10时58分]"
+          "appearance_count": 10,
+          "time_info": "[01时09分 ~ 13时41分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -38,11 +39,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 10时58分]"
+          "appearance_count": 10,
+          "time_info": "[01时09分 ~ 13时41分]"
         },
         {
           "title": "韩国AI初创公司Wrtn2025年销售额升至471亿韩元",
@@ -54,6 +56,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "OpenAI伦敦设立永久办公室",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BC%A6%E6%95%A6%E8%AE%BE%E7%AB%8B%E6%B0%B8%E4%B9%85%E5%8A%9E%E5%85%AC%E5%AE%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -148,6 +161,39 @@
           "time_info": "01时10分"
         },
         {
+          "title": "韩国人工智能芯片初创公司DeepX准备在韩国进行IPO，其也对通过ADR在美国上市持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3087406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "随着OpenAI战略转型，投资者对其8520亿美元的估值提出质疑，部分投资者称，这些变化可能使OpenAI容易受到Anthropic和谷歌的冲击。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3087405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "OpenAI估值8520亿美元遭质疑：押注企业市场，投资人直言“失焦”",
+          "url": "https://flash.jin10.com/detail/20260414124747645800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "甲骨文同意，为了AI数据中心而从Bloom Energy Corp.购买电力供应。",
           "url": "https://wallstreetcn.com/livenews/3087180",
           "source": "华尔街见闻-快讯",
@@ -162,7 +208,7 @@
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“马斯克版微信”真的来了！",
@@ -183,7 +229,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -197,6 +243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "马斯克版微信支持阅后即焚、防截图",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%89%88%E5%BE%AE%E4%BF%A1%E6%94%AF%E6%8C%81%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A%E3%80%81%E9%98%B2%E6%88%AA%E5%9B%BE",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         }
       ]
     }
