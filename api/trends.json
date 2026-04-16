@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T20:55:53.304665+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2026-04-16T22:59:58.618381+08:00",
+  "total_titles_processed": 1595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -20,8 +20,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时11分 ~ 20时55分]"
+          "appearance_count": 15,
+          "time_info": "[01时11分 ~ 22时59分]"
         },
         {
           "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
@@ -38,6 +38,18 @@
           "time_info": "[11时23分 ~ 20时55分]"
         },
         {
+          "title": "番茄作者AI代笔,读者白追",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 22时59分]"
+        },
+        {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
           "url": "https://www.zhihu.com/question/2027689506711630551",
           "source": "知乎",
@@ -52,29 +64,33 @@
           "time_info": "[01时11分 ~ 06时54分]"
         },
         {
-          "title": "番茄作者AI代笔,读者白追",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时47分 ~ 20时55分]"
-        },
-        {
           "title": "警惕人工智能让人类陷入“自恋”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32976727",
           "source": "澎湃新闻",
           "ranks": [
             11,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时23分 ~ 20时55分]"
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 22时59分]"
+        },
+        {
+          "title": "玩家AI生图捧洛克,网友一秒戳穿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            14,
+            19,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 22时59分]"
         },
         {
           "title": "中信建投：Anthropic最强模型Mythos推出，重点推荐谷歌链",
@@ -99,19 +115,15 @@
           "time_info": "11时23分"
         },
         {
-          "title": "玩家AI生图捧洛克,网友一秒戳穿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
-          "source": "贴吧",
+          "title": "据行业组织American Securities Association：Anthropic的Mythos模型对美国证券交易委员会（SEC）市场追踪数据库构成风险。 这款新型AI模型可能会让交易员和金融系统面临风险。",
+          "url": "https://wallstreetcn.com/livenews/3089434",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            14,
-            19,
-            21,
-            24
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时23分 ~ 20时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "港股AI应用板块走高，滴普科技(01384.HK)涨超21%，迈富时(02556.HK)涨超13%，小马智行-W(02026.HK)涨超10%，金蝶国际(00268.HK)、百度(09888.HK)涨6.8%。",
@@ -216,7 +228,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -243,6 +255,17 @@
           "time_info": "11时23分"
         },
         {
+          "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
+          "url": "https://www.cls.cn/detail/2346308",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "OpenAI：正加速构建网络防御生态体系，以守护所有人。",
           "url": "https://flash.jin10.com/detail/20260416180925765800",
           "source": "金十数据",
@@ -252,6 +275,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "告别高危人工作业，云深处“AI防汛勇士”机器狗首次亮相",
+          "url": "https://wallstreetcn.com/livenews/3089423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2346625",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "报道：美国航司Spirit Airlines最早可能在本周开始清算",
@@ -304,7 +349,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -381,7 +426,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         }
