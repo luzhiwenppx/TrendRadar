@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T06:42:08.278038+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-04-20T07:43:00.964474+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时43分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -26,8 +26,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时43分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -37,8 +37,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时43分]"
         },
         {
           "title": "我们要不要向AI说谢谢？",
@@ -46,11 +46,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时47分 ~ 06时42分]"
+          "appearance_count": 7,
+          "time_info": "[03时47分 ~ 07时43分]"
         },
         {
           "title": "在战锤 40k 里，机械神甫那些跳大神操作真的对人工智能有用吗?",
@@ -95,7 +96,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
         },
