@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T22:46:22.404011+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2026-04-19T23:42:21.841668+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
@@ -46,8 +46,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时50分 ~ 22时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时50分 ~ 23时42分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -63,8 +63,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时50分 ~ 22时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时50分 ~ 23时42分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -78,8 +78,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时50分 ~ 22时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时50分 ~ 23时42分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -103,11 +103,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时12分 ~ 22时46分]"
+          "appearance_count": 3,
+          "time_info": "[21时12分 ~ 23时42分]"
         },
         {
           "title": "CPO量产引爆AI算力底层革命，硅光与互连成最大赢家？",
@@ -158,6 +159,18 @@
           "time_info": "[11时24分 ~ 14时02分]"
         },
         {
+          "title": "据The Information：谷歌正在与迈威尔科技集团(MRVL.O)进行洽谈，计划开发用于推理的新型人工智能芯片。",
+          "url": "https://flash.jin10.com/detail/20260419210244122800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 23时42分]"
+        },
+        {
           "title": "力源信息：第一季度净利润同比增长241% AI业务如光模块、液冷等因下游需求持续爆发而大幅增加",
           "url": "https://flash.jin10.com/detail/20260419155228082800",
           "source": "金十数据",
@@ -170,15 +183,15 @@
           "time_info": "[17时53分 ~ 18时45分]"
         },
         {
-          "title": "据The Information：谷歌正在与迈威尔科技集团(MRVL.O)进行洽谈，计划开发用于推理的新型人工智能芯片。",
-          "url": "https://flash.jin10.com/detail/20260419210244122800",
+          "title": "国投智能：公司已构建全链条AI安全能力体系",
+          "url": "https://flash.jin10.com/detail/20260419221748740800",
           "source": "金十数据",
           "ranks": [
-            13
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时46分"
+          "time_info": "23时42分"
         },
         {
           "title": "AI让人越来越累",
