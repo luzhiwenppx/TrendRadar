@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T19:48:03.838324+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2026-04-25T21:16:02.668539+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
@@ -74,8 +74,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时18分 ~ 19时48分]"
+          "appearance_count": 12,
+          "time_info": "[13时18分 ~ 21时16分]"
+        },
+        {
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时00分 ~ 21时16分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -85,11 +97,12 @@
             1,
             8,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时03分 ~ 19时48分]"
+          "appearance_count": 21,
+          "time_info": "[01时03分 ~ 21时16分]"
         },
         {
           "title": "戛纳电影宫的中国AI时刻",
@@ -115,8 +128,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时18分 ~ 19时48分]"
+          "appearance_count": 12,
+          "time_info": "[13时18分 ~ 21时16分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -158,23 +171,24 @@
             15,
             20,
             22,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时03分 ~ 19时48分]"
+          "appearance_count": 21,
+          "time_info": "[01时03分 ~ 21时16分]"
         },
         {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
-          "source": "华尔街见闻",
+          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
+          "url": "https://www.cls.cn/detail/2355592",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            4
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时00分 ~ 19时48分]"
+          "appearance_count": 9,
+          "time_info": "[17时00分 ~ 21时16分]"
         },
         {
           "title": "英特尔第一季财季营收再超预期，盘后大涨18%，陈立武：CPU正重新确立其人工智能基础的地位",
@@ -190,16 +204,18 @@
           "time_info": "[01时03分 ~ 07时45分]"
         },
         {
-          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
-          "url": "https://www.cls.cn/detail/2355592",
-          "source": "财联社热门",
+          "title": "研究称 7 款顶级 AI 模型为保护同伴，集体出现撒谎、篡研文件等行为，这种抱团欺骗会带来多大风险？",
+          "url": "https://www.zhihu.com/question/2031087393374041169",
+          "source": "知乎",
           "ranks": [
-            12,
-            13
+            8,
+            7,
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时00分 ~ 19时48分]"
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 21时16分]"
         },
         {
           "title": "软银准备为AI数据中心制造电池",
@@ -251,19 +267,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时01分 ~ 19时48分]"
-        },
-        {
-          "title": "研究称 7 款顶级 AI 模型为保护同伴，集体出现撒谎、篡研文件等行为，这种抱团欺骗会带来多大风险？",
-          "url": "https://www.zhihu.com/question/2031087393374041169",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 17时01分]"
         },
         {
           "title": "微软向「工龄与年龄之和达到 70 或以上」员工提供自愿退休方案，裁员能对冲巨头的长期 AI 资本支出问题么？",
