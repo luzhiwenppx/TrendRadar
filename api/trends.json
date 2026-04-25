@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T22:50:13.631206+08:00",
-  "total_titles_processed": 1388,
+  "generated_at": "2026-04-25T23:44:55.217562+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时00分 ~ 22时50分]"
+          "appearance_count": 12,
+          "time_info": "[17时00分 ~ 23时44分]"
         },
         {
           "title": "第一次对AI感到恐惧",
@@ -86,8 +86,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时18分 ~ 22时50分]"
+          "appearance_count": 15,
+          "time_info": "[13时18分 ~ 23时44分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -102,8 +102,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时03分 ~ 22时50分]"
+          "appearance_count": 24,
+          "time_info": "[01时03分 ~ 23时44分]"
         },
         {
           "title": "戛纳电影宫的中国AI时刻",
@@ -129,8 +129,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时18分 ~ 22时50分]"
+          "appearance_count": 15,
+          "time_info": "[13时18分 ~ 23时44分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -177,8 +177,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时03分 ~ 22时50分]"
+          "appearance_count": 24,
+          "time_info": "[01时03分 ~ 23时44分]"
         },
         {
           "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
@@ -255,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
+          "url": "https://wallstreetcn.com/livenews/3094410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "OpenAI创始人就未向警方举报枪击案嫌疑人一事致歉",
@@ -408,6 +419,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33051014",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "谷歌计划向Anthropic投资高达400亿美元",
