@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T02:07:34.997296+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-04-28T04:12:25.103923+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
@@ -16,8 +16,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时12分]"
+        },
+        {
+          "title": "美国财长贝森特：美国汇聚了全球最具才华的人工智能研究人员。然而，桑德斯参议员非但不利用美国的创新力量，反而邀请外国人士来指导美国应如何监管人工智能。",
+          "url": "https://flash.jin10.com/detail/20260428035318565800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "谷歌DeepMind将与韩国合作推进“登月”级AI项目",
@@ -26,9 +37,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
+        },
+        {
+          "title": "美国财长贝森特对参议院Sanders的AI监管立场颇多微词。",
+          "url": "https://wallstreetcn.com/livenews/3095210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "谷歌就专利局“既定预期”规则向美国最高法院提起上诉",
+          "url": "https://wallstreetcn.com/livenews/3095208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "欧盟要求谷歌向AI竞争对手开放安卓系统",
@@ -37,7 +70,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
         },
@@ -73,30 +106,55 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时12分]"
         },
         {
           "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
           "url": "https://wallstreetcn.com/articles/3770976",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时12分]"
         },
         {
           "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
           "url": "https://www.cls.cn/detail/2357129",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时12分]"
+        },
+        {
+          "title": "被AI骗去毒蛇窝徒步",
+          "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时12分]"
+        },
+        {
+          "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
+          "url": "https://www.cls.cn/detail/2357012",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 04时12分]"
         },
         {
           "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：对于中央银行而言，地缘政治压力的缓解意味着欧洲和英国的政策制定者在加息方面可能会不及市场预期的幅度。 其中一个风险是，宽松的金融环境可能会加剧通胀，尤其是在美国，人工智能支出、财政刺激和劳动力供应紧张已经为物价提供了支撑。",
@@ -135,35 +193,12 @@
           "time_info": "[00时45分 ~ 02时07分]"
         },
         {
-          "title": "被AI骗去毒蛇窝徒步",
-          "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时07分]"
-        },
-        {
           "title": "谷歌公司（至少）数百名员工要求CEO Pichai拒绝涉足美国国防部机密的军事AI工作。 该公司员工们称，他们不希望接触Lethal AI。 （一名）研究员称，谷歌尚未讨论关于AI使用的红线。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3095139",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 02时07分]"
-        },
-        {
-          "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
-          "url": "https://www.cls.cn/detail/2357012",
-          "source": "财联社热门",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -220,9 +255,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
+        },
+        {
+          "title": "伊拉克议员们表示：总统Nizar Amedi任命Ali al-Zaidi为总理。",
+          "url": "https://wallstreetcn.com/livenews/3095194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "日媒称美军AI计划深度参与对伊打击",
@@ -234,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "伊拉克什叶派联盟提名Ali al-Zaidi为总理。（伊拉克国家新闻机构）",
+          "url": "https://wallstreetcn.com/livenews/3095185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "AI短剧 融脸",
