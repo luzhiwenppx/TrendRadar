@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T15:34:11.827050+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-04-28T18:21:15.244329+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
@@ -15,11 +15,12 @@
             2,
             4,
             12,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 15时34分]"
+          "appearance_count": 13,
+          "time_info": "[00时45分 ~ 18时21分]"
         },
         {
           "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
@@ -46,6 +47,31 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时45分 ~ 12时36分]"
+        },
+        {
+          "title": "中央政治局会议重磅定调！事关扩大内需、人工智能、房地产市场",
+          "url": "https://www.cls.cn/detail/2357874",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 18时21分]"
+        },
+        {
+          "title": "广东发布十五五规划纲要，事关AI、商业航天、光伏等",
+          "url": "https://www.cls.cn/detail/2357658",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时36分 ~ 18时21分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
@@ -75,6 +101,19 @@
           "time_info": "[00时45分 ~ 08时02分]"
         },
         {
+          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
+          "url": "https://www.zhihu.com/question/2032163714355263384",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时36分 ~ 18时21分]"
+        },
+        {
           "title": "“AI光算力第一股”来了！上海曦智科技今登陆港交所 全球知名机构争做基石投资者",
           "url": "https://www.cls.cn/detail/2357540",
           "source": "财联社热门",
@@ -85,17 +124,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时36分 ~ 15时34分]"
-        },
-        {
-          "title": "中央政治局会议重磅定调！事关扩大内需、人工智能、房地产市场",
-          "url": "https://www.cls.cn/detail/2357874",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时33分 ~ 15时34分]"
         },
         {
           "title": "被AI骗去毒蛇窝徒步",
@@ -145,30 +173,6 @@
           "time_info": "12时36分"
         },
         {
-          "title": "广东发布十五五规划纲要，事关AI、商业航天、光伏等",
-          "url": "https://www.cls.cn/detail/2357658",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 15时34分]"
-        },
-        {
-          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
-          "url": "https://www.zhihu.com/question/2032163714355263384",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 15时34分]"
-        },
-        {
           "title": "欧盟要求谷歌向AI竞争对手开放安卓系统",
           "url": "https://flash.jin10.com/detail/20260428013540130800",
           "source": "金十数据",
@@ -186,7 +190,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -275,6 +279,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 05时57分]"
+        },
+        {
+          "title": "工信部：将开展“人工智能+软件”专项行动，加快智能编程研发应用",
+          "url": "https://www.cls.cn/detail/2358127",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
+        },
+        {
+          "title": "大摩：中国AI芯片供应商，谁将胜出？",
+          "url": "https://wallstreetcn.com/articles/3771031",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
+        },
+        {
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：对于中央银行而言，地缘政治压力的缓解意味着欧洲和英国的政策制定者在加息方面可能会不及市场预期的幅度。 其中一个风险是，宽松的金融环境可能会加剧通胀，尤其是在美国，人工智能支出、财政刺激和劳动力供应紧张已经为物价提供了支撑。",
@@ -553,7 +590,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         }
