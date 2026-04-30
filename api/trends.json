@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-30T08:04:57.282346+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-04-30T12:35:34.025074+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 31,
+      "match_count": 40,
       "titles": [
-        {
-          "title": "AI魔改黑袍,星光姐被玩坏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 08时04分]"
-        },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
           "url": "https://wallstreetcn.com/articles/3771095",
@@ -28,6 +17,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时43分 ~ 07时01分]"
+        },
+        {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 12时35分]"
         },
         {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
@@ -90,6 +91,17 @@
           "time_info": "[01时43分 ~ 08时04分]"
         },
         {
+          "title": "AI驱动多项业务增长！Alphabet创四年最强季度营收增速，云业务飙升63%",
+          "url": "https://www.cls.cn/detail/2360312",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
           "title": "Meta Platforms(META.O)CEO：相信用户会为“高端或高算力版本”的目标导向AI功能付费。",
           "url": "https://flash.jin10.com/detail/20260430062037400800",
           "source": "金十数据",
@@ -107,9 +119,23 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
+          "url": "https://www.zhihu.com/question/2031783702569726072",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14,
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时11分 ~ 12时35分]"
         },
         {
           "title": "Anthropic估值或升至逾9000亿美元超过OpenAI",
@@ -134,17 +160,16 @@
           "time_info": "[01时43分 ~ 07时01分]"
         },
         {
-          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
-          "url": "https://www.zhihu.com/question/2031783702569726072",
-          "source": "知乎",
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
           "ranks": [
-            18,
             14,
-            7
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时11分 ~ 08时04分]"
+          "time_info": "[07时01分 ~ 12时35分]"
         },
         {
           "title": "中美AI竞争的本质差距在哪",
@@ -159,16 +184,26 @@
           "time_info": "[03时43分 ~ 08时04分]"
         },
         {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
+          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
+          "url": "https://wallstreetcn.com/articles/3771319",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            15
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850517&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/M81HE4es14MxjHYisSNTw.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260430120045418800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         },
         {
           "title": "苹果公司计划在iOS 27提供一款Siri摄像头模型和升级款视觉AI。",
@@ -180,6 +215,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "大猩猩狠拽女游客头发视频系AI",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%8C%A9%E7%8C%A9%E7%8B%A0%E6%8B%BD%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%A4%B4%E5%8F%91%E8%A7%86%E9%A2%91%E7%B3%BBAI",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         },
         {
           "title": "OpenAI：开发者大会9月29日在旧金山举行。",
@@ -204,6 +261,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "美股燃料电池龙头暴涨超27% SOFC或成AI数据中心供电首选",
+          "url": "https://www.cls.cn/detail/2360333",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
           "title": "Alphabet(GOOGL.O)CEO：谷歌云业务正迎来强劲的交易势头。",
           "url": "https://flash.jin10.com/detail/20260430044408891800",
           "source": "金十数据",
@@ -224,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-04-30）",
+          "url": "https://flash.jin10.com/detail/20260430115052739800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         },
         {
           "title": "谷歌母公司Alphabet一季度营收1099亿美元，分析师预期1071亿美元。 一季度Rev ex-TAC（剔除流量获取成本的收入）为946.7亿美元，分析师预期915.7亿美元。 一季度谷歌搜索与其他营收604亿美元，分析师预期590.8亿美元。 一季度谷歌服务营收896.4亿美元，分析师预期881.1亿美元。 一季度谷歌云营收200.3亿美元，分析师预期184.1亿美元。 一季度谷歌广告营收772.5亿美元，分析师预期762.1亿美元。 一季度YouTube广告营收98.8亿美元，分析师预期99.7亿美元。 一季度Alphabet Gemini Enterprise月活用户数（MAU）季环比增长40%。 一季度（Alphabet）运营利润397亿美元，分析师预期361.9亿美元。 一季度（Alphabet）资本开支356.7亿美元，分析师预期363.9亿美元。 谷歌A（GOOGL）美股盘后涨超1.3%。",
@@ -259,6 +338,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "港股AI股局部走强，智谱(02513.HK)涨超6%，此前盘中涨超9%，MINIMAX-W(00100.HK)、群核科技(00068.HK)、澜起科技(06809.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260430115030095800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
           "title": "亚马逊一季度净销售1815.2亿美元，分析师预期1772.3亿美元。 一季度AWS净销售375.9亿美元，分析师预期366.8亿美元。 一季度北美净销售1041.4亿美元，分析师预期1020.8亿美元。 一季度实体店净销售57.9亿美元，分析师预期58.1亿美元。 一季度运营利润238.5亿美元，分析师预期207.5亿美元。 一季度每股收益（EPS）为2.78美元，分析师预期1.62美元。 对物业与设备的购买同比增长593亿美元，体现出对AI的投资。 预计二季度净销售1940亿-1990亿美元，分析师预期1891.5亿美元。 预计二季度运营利润200亿-240亿美元，分析师预期228.6亿美元。 亚马逊（AMZN）盘后跌4.8%。",
           "url": "https://wallstreetcn.com/livenews/3096930",
           "source": "华尔街见闻-快讯",
@@ -268,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "小红书发内部信：加大 AI 投入，柯南出任总裁",
+          "url": "https://wallstreetcn.com/livenews/3097165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         },
         {
           "title": "《灵魂摆渡》电影全 AI 生成，原班幕后坐镇，演员全换 AI 建模，能延续过往的情怀吗？你还会去看吗？",
