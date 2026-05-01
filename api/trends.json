@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T17:51:24.710213+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-05-01T19:11:53.202616+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时57分 ~ 17时51分]"
+          "appearance_count": 8,
+          "time_info": "[06时57分 ~ 19时11分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时57分 ~ 19时11分]"
         },
         {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
@@ -43,21 +56,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时26分 ~ 17时51分]"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时57分 ~ 17时51分]"
+          "appearance_count": 12,
+          "time_info": "[01时26分 ~ 19时11分]"
         },
         {
           "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
@@ -84,6 +84,20 @@
           "time_info": "[01时26分 ~ 07时57分]"
         },
         {
+          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
+          "url": "https://www.cls.cn/detail/2361533",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时57分 ~ 19时11分]"
+        },
+        {
           "title": "假如AI能模拟去世亲人",
           "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82AI%E8%83%BD%E6%A8%A1%E6%8B%9F%E5%8E%BB%E4%B8%96%E4%BA%B2%E4%BA%BA",
           "source": "bilibili 热搜",
@@ -97,20 +111,6 @@
           "time_info": "[01时26分 ~ 07时57分]"
         },
         {
-          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
-          "url": "https://www.cls.cn/detail/2361533",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时57分 ~ 17时51分]"
-        },
-        {
           "title": "AI古代铠甲勇士完结篇",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
           "source": "bilibili 热搜",
@@ -120,8 +120,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 17时51分]"
+          "appearance_count": 6,
+          "time_info": "[12时05分 ~ 19时11分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -134,17 +134,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时26分 ~ 07时57分]"
-        },
-        {
-          "title": "女子被AI误导闯入响尾蛇窝：无比后怕",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E5%93%8D%E5%B0%BE%E8%9B%87%E7%AA%9D%EF%BC%9A%E6%97%A0%E6%AF%94%E5%90%8E%E6%80%95",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
         },
         {
           "title": "深圳14岁男孩用AI备考押中奥赛题",
@@ -185,6 +174,18 @@
           "time_info": "[05时07分 ~ 06时57分]"
         },
         {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时11分]"
+        },
+        {
           "title": "人民日报：不能让AI生成内容误导公众",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E4%B8%8D%E8%83%BD%E8%AE%A9AI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E8%AF%AF%E5%AF%BC%E5%85%AC%E4%BC%97",
           "source": "百度热搜",
@@ -195,6 +196,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时05分 ~ 15时28分]"
+        },
+        {
+          "title": "女子被AI误导闯入响尾蛇窝：无比后怕",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E5%93%8D%E5%B0%BE%E8%9B%87%E7%AA%9D%EF%BC%9A%E6%97%A0%E6%AF%94%E5%90%8E%E6%80%95",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时11分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -276,17 +289,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时05分 ~ 12时06分]"
-        },
-        {
-          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
-          "url": "https://wallstreetcn.com/articles/3771450",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
         },
         {
           "title": "美防长斥责Anthropic首席执行官 为五角大楼使用AI辩护",
