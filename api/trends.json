@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T17:28:20.933808+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-05-06T19:52:44.947327+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 07时53分]"
+        },
+        {
+          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
+          "url": "https://wallstreetcn.com/articles/3771608",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 19时52分]"
         },
         {
           "title": "奥斯卡新规明确禁用 AI 演员、限制 AI 剧本，究竟是守护创作本质，还是在开时代倒车？",
@@ -57,17 +69,6 @@
           "time_info": "[00时32分 ~ 11时37分]"
         },
         {
-          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
-          "url": "https://wallstreetcn.com/articles/3771608",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 17时28分]"
-        },
-        {
           "title": "从猫狗到水果 AI短剧还能火多久",
           "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E7%8C%AB%E7%8B%97%E5%88%B0%E6%B0%B4%E6%9E%9C+AI%E7%9F%AD%E5%89%A7%E8%BF%98%E8%83%BD%E7%81%AB%E5%A4%9A%E4%B9%85",
           "source": "百度热搜",
@@ -93,6 +94,32 @@
           "time_info": "[00时32分 ~ 07时53分]"
         },
         {
+          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
+          "url": "https://www.cls.cn/detail/2363503",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 19时52分]"
+        },
+        {
+          "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33099232",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时37分 ~ 19时52分]"
+        },
+        {
           "title": "知情人士透露，谷歌(GOOG.O)正在为Gemini打造一个7x24小时全天候运行的人工智能“个人代理”。",
           "url": "https://flash.jin10.com/detail/20260506014918064800",
           "source": "金十数据",
@@ -102,18 +129,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
-        },
-        {
-          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
-          "url": "https://www.cls.cn/detail/2363503",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 17时28分]"
         },
         {
           "title": "中方呼吁防止AI成为少数富国的游戏",
@@ -151,19 +166,6 @@
           "time_info": "[00时32分 ~ 04时13分]"
         },
         {
-          "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099232",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 17时28分]"
-        },
-        {
           "title": "谷歌正在测试AI代理“Remy”，或对标OpenClaw",
           "url": "https://wallstreetcn.com/livenews/3098891",
           "source": "华尔街见闻-快讯",
@@ -197,8 +199,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 17时28分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 19时52分]"
         },
         {
           "title": "OpenAI推出GPT-5.5 Instant",
@@ -254,6 +256,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
+          "url": "https://www.cls.cn/detail/2363932",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "墨西哥政府：已同意将AIFA机场纳入2015年航空运输协议。",
@@ -331,6 +344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "英伟达与康宁宣布建立长期合作伙伴关系，旨在加强美国人工智能基础设施的制造能力。",
+          "url": "https://flash.jin10.com/detail/20260506193132034800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "澳大利亚4月AIG建筑业表现指数 -19.3，前值-31.4。",
@@ -520,6 +544,28 @@
           "time_info": "02时15分"
         },
         {
+          "title": "中方呼吁推动人工智能向善发展",
+          "url": "https://wallstreetcn.com/livenews/3099325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：行政命令将提供关于人工智能的'清晰路线图'。",
+          "url": "https://flash.jin10.com/detail/20260506191411841800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "Anthropic面向金融服务行业发布新款AI智能体",
           "url": "https://wallstreetcn.com/livenews/3098828",
           "source": "华尔街见闻-快讯",
@@ -529,6 +575,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：正在研究可能针对人工智能和商业的行政命令。",
+          "url": "https://flash.jin10.com/detail/20260506191353302800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "据The Information：Meta Platforms(META.O)正在开发一款名为“Hatch”的人工智能代理，并在Instagram上打造一款基于代理的购物工具。",
