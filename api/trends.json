@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T07:57:47.622443+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-05-08T11:43:08.507615+08:00",
+  "total_titles_processed": 830,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 07时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 11时43分]"
         },
         {
           "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
@@ -30,28 +30,30 @@
           "time_info": "[00时56分 ~ 04时18分]"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
-          "url": "https://www.cls.cn/detail/2365503",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
           "url": "https://wallstreetcn.com/articles/3771759",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时29分 ~ 07时57分]"
+          "appearance_count": 7,
+          "time_info": "[02时29分 ~ 11时43分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
+          "url": "https://www.cls.cn/detail/2365503",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 11时43分]"
         },
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -63,8 +65,63 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时29分 ~ 07时57分]"
+          "appearance_count": 7,
+          "time_info": "[02时29分 ~ 11时43分]"
+        },
+        {
+          "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
+          "url": "https://www.cls.cn/detail/2365476",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
+          "url": "https://www.cls.cn/detail/2365554",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "如何评价马斯克宣布 xAI 将解散，并入 SpaceX，只成为旗下一款 AI 产品？",
+          "url": "https://www.zhihu.com/question/2035662942067225907",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "OpenAI发布三款实时音频模型",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E4%B8%89%E6%AC%BE%E5%AE%9E%E6%97%B6%E9%9F%B3%E9%A2%91%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
           "title": "德国财政部长克林拜尔：希望（德国与加拿大）在供应链韧性、关键原材料、国防和人工智能领域开展更紧密的合作。",
@@ -95,7 +152,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -106,7 +163,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -172,7 +229,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -222,7 +279,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         }
