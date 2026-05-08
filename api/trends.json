@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T22:02:59.970017+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2026-05-08T23:47:56.060764+08:00",
+  "total_titles_processed": 1679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -49,6 +49,21 @@
           "time_info": "[02时29分 ~ 15时56分]"
         },
         {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            11,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 23时47分]"
+        },
+        {
           "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
           "url": "https://www.cls.cn/detail/2364810",
           "source": "财联社热门",
@@ -72,27 +87,13 @@
           "time_info": "[07时57分 ~ 14时02分]"
         },
         {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时42分 ~ 22时02分]"
-        },
-        {
           "title": "GAI新歌星梦MV",
           "url": "https://search.bilibili.com/all?keyword=GAI%E6%96%B0%E6%AD%8C%E6%98%9F%E6%A2%A6MV",
           "source": "bilibili 热搜",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -115,11 +116,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 23时47分]"
         },
         {
           "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
@@ -130,8 +132,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 23时47分]"
         },
         {
           "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
@@ -286,7 +288,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -346,6 +348,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "私募和AI合体意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A7%81%E5%8B%9F%E5%92%8CAI%E5%90%88%E4%BD%93%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "铂科新材：公司芯片电感主要与MPS、伟创力等半导体电源厂商合作为终端芯片及云厂商等供货，公司没有与谷歌合作。",
           "url": "https://flash.jin10.com/detail/20260508151456505800",
           "source": "金十数据",
@@ -390,6 +403,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "美联储古尔斯比：担忧市场试图在人工智能（AI）生产力提升尚未兑现之前，便将其提前计入资产定价。",
+          "url": "https://flash.jin10.com/detail/20260508231456512800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "软银将OpenAI保证金贷款目标削减40%，至60亿美元。",
           "url": "https://wallstreetcn.com/livenews/3100476",
           "source": "华尔街见闻-快讯",
@@ -407,7 +431,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -429,7 +453,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -454,6 +478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "报道：因担忧人工智能，TCI将微软持仓降至投资组合的1%",
+          "url": "https://wallstreetcn.com/livenews/3100790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "英伟达与IREN宣布达成战略合作，以加速部署高达5吉瓦的人工智能基础设施。",
