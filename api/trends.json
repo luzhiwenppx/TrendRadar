@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T06:54:34.784606+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-05-11T07:57:42.838632+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 07时57分]"
         },
         {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 07时57分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -38,11 +38,12 @@
             3,
             9,
             10,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 07时57分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
@@ -50,25 +51,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 06时54分]"
-        },
-        {
-          "title": "妈妈的AI在岁月里具象",
-          "url": "https://www.douyin.com/hot/2494006",
-          "source": "抖音",
-          "ranks": [
-            15,
-            10,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 07时57分]"
         },
         {
           "title": "GAI新歌太费口红",
@@ -80,7 +68,22 @@
             14,
             17,
             18,
-            19
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 07时57分]"
+        },
+        {
+          "title": "妈妈的AI在岁月里具象",
+          "url": "https://www.douyin.com/hot/2494006",
+          "source": "抖音",
+          "ranks": [
+            15,
+            10,
+            7,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -104,11 +107,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            22
+            22,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 07时57分]"
         },
         {
           "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
@@ -162,7 +166,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         },
