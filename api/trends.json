@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T15:53:47.470430+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2026-05-13T18:34:45.812255+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 37,
+      "match_count": 44,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -121,6 +121,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "AI续写轻音少女第三季",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "据华尔街日报：YouTube借助人工智能帮助，正向各类广告主承诺全方位服务。",
           "url": "https://flash.jin10.com/detail/20260513060227809800",
           "source": "金十数据",
@@ -154,6 +165,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "封神2特效 不如AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E2%E7%89%B9%E6%95%88%20%E4%B8%8D%E5%A6%82AI&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "韩国AI红利：闪崩之后，悬念才刚开始",
           "url": "https://wallstreetcn.com/articles/3772076",
           "source": "华尔街见闻",
@@ -179,6 +201,18 @@
           "time_info": "[08时04分 ~ 15时53分]"
         },
         {
+          "title": "AI超节点放量元年？国内大厂相继押注 OEM环节或成下一受益方向",
+          "url": "https://www.cls.cn/detail/2369967",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 18时34分]"
+        },
+        {
           "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
           "url": "https://www.zhihu.com/question/2037128887558207003",
           "source": "知乎",
@@ -200,6 +234,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 04时49分]"
+        },
+        {
+          "title": "功率半导体密集涨价！AI数据中心成最大推手 业内预计供需紧张短期难解",
+          "url": "https://www.cls.cn/detail/2369925",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 18时34分]"
         },
         {
           "title": "科技巨头竞逐太空算力新赛道！谷歌据悉接洽SpaceX发射轨道数据中心",
@@ -224,15 +269,16 @@
           "time_info": "[12时51分 ~ 12时52分]"
         },
         {
-          "title": "功率半导体密集涨价！AI数据中心成最大推手 业内预计供需紧张短期难解",
-          "url": "https://www.cls.cn/detail/2369925",
-          "source": "财联社热门",
+          "title": "A股收盘：沪指涨0.67% AI算力走高",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.67%25+AI%E7%AE%97%E5%8A%9B%E8%B5%B0%E9%AB%98",
+          "source": "百度热搜",
           "ranks": [
-            6
+            16,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 18时34分]"
         },
         {
           "title": "SpaceX与谷歌洽谈太空轨道的数据中心合作事宜，谷歌还与其他火箭发射公司接触。（华尔街日报）",
@@ -246,6 +292,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "高校硬查AI率,复旦教授怒了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "据The Information：谷歌将招聘数百名工程师，助力客户落地采用其人工智能技术。",
           "url": "https://flash.jin10.com/detail/20260513022035588800",
           "source": "金十数据",
@@ -255,6 +312,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "马化腾回应腾讯AI是否落后",
+          "url": "https://www.toutiao.com/trending/7639279967072518180/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "马化腾：以为上了AI的船却发现漏水了",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%8C%96%E8%85%BE%EF%BC%9A%E4%BB%A5%E4%B8%BA%E4%B8%8A%E4%BA%86AI%E7%9A%84%E8%88%B9%E5%8D%B4%E5%8F%91%E7%8E%B0%E6%BC%8F%E6%B0%B4%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "据华尔街日报：SpaceX与谷歌正就探索在轨数据中心进行洽谈。",
@@ -290,15 +369,15 @@
           "time_info": "12时52分"
         },
         {
-          "title": "AI超节点放量元年？国内大厂相继押注 OEM环节或成下一受益方向",
-          "url": "https://www.cls.cn/detail/2369967",
-          "source": "财联社热门",
+          "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
+          "url": "https://tech.ifeng.com/c/8t5w0wxVfbb",
+          "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时53分"
+          "time_info": "18时34分"
         },
         {
           "title": "据The Information：微软在OpenAI上130亿美元的投资，已收回超过两倍的营收回报。",
@@ -312,15 +391,15 @@
           "time_info": "03时01分"
         },
         {
-          "title": "A股收盘：沪指涨0.67% AI算力走高",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.67%25+AI%E7%AE%97%E5%8A%9B%E8%B5%B0%E9%AB%98",
-          "source": "百度热搜",
+          "title": "阿里巴巴Q4财报：AI相关产品收入连续十一个季度实现三位数增长 ARR突破358亿元",
+          "url": "https://wallstreetcn.com/livenews/3102910",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时53分"
+          "time_info": "18时34分"
         },
         {
           "title": "据The Information：OpenAI仅通过承诺向供应商采购就赚取了数十亿美元。",
@@ -340,7 +419,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -351,7 +430,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -395,7 +474,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -406,7 +485,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
