@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T12:52:15.754959+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2026-05-13T15:53:47.470430+08:00",
+  "total_titles_processed": 1064,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 30,
+      "match_count": 37,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 12时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 15时53分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -154,27 +154,29 @@
           "time_info": "06时16分"
         },
         {
+          "title": "韩国AI红利：闪崩之后，悬念才刚开始",
+          "url": "https://wallstreetcn.com/articles/3772076",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时04分 ~ 15时53分]"
+        },
+        {
           "title": "从海力士奖金、三星罢工到全民红利，飙升的韩股吓懵了，这是AI时代的预演吗？",
           "url": "https://wallstreetcn.com/articles/3772082",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时04分 ~ 12时52分]"
-        },
-        {
-          "title": "韩国AI红利：闪崩之后，悬念才刚开始",
-          "url": "https://wallstreetcn.com/articles/3772076",
-          "source": "华尔街见闻",
-          "ranks": [
+            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时04分 ~ 12时52分]"
+          "appearance_count": 5,
+          "time_info": "[08时04分 ~ 15时53分]"
         },
         {
           "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
@@ -220,6 +222,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时51分 ~ 12时52分]"
+        },
+        {
+          "title": "功率半导体密集涨价！AI数据中心成最大推手 业内预计供需紧张短期难解",
+          "url": "https://www.cls.cn/detail/2369925",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "SpaceX与谷歌洽谈太空轨道的数据中心合作事宜，谷歌还与其他火箭发射公司接触。（华尔街日报）",
@@ -272,9 +285,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "AI超节点放量元年？国内大厂相继押注 OEM环节或成下一受益方向",
+          "url": "https://www.cls.cn/detail/2369967",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "据The Information：微软在OpenAI上130亿美元的投资，已收回超过两倍的营收回报。",
@@ -288,6 +312,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "A股收盘：沪指涨0.67% AI算力走高",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.67%25+AI%E7%AE%97%E5%8A%9B%E8%B5%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
           "title": "据The Information：OpenAI仅通过承诺向供应商采购就赚取了数十亿美元。",
           "url": "https://flash.jin10.com/detail/20260513021041332800",
           "source": "金十数据",
@@ -299,13 +334,35 @@
           "time_info": "03时01分"
         },
         {
+          "title": "中国驻美大使谢锋：中美在人工智能领域应良性竞争，先装好刹车再上路",
+          "url": "https://wallstreetcn.com/livenews/3102800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "阿里健康发布医学AI氢离子，与英国BMJ集团达成期刊内容独家合作",
+          "url": "https://wallstreetcn.com/livenews/3102798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-05-13）",
           "url": "https://flash.jin10.com/detail/20260513120124433800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -316,7 +373,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -330,6 +387,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "软银利润意外飙升，孙正义的人工智能投资大获成功",
+          "url": "https://flash.jin10.com/detail/20260513150716408800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "软银集团：截至3月底，对OpenAI的投资累计录得450亿美元投资收益。 2026年4月共动用200亿美元借款，主要用于投资OpenAI，其中25亿美元已于当月偿还。 在2025/26财年出售了价值162.5亿美元的T-Mobile股份。",
+          "url": "https://wallstreetcn.com/livenews/3102788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "AI巨头面临严峻的“芯片通货膨胀”",
@@ -381,8 +460,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时04分 ~ 12时52分]"
+          "appearance_count": 5,
+          "time_info": "[08时04分 ~ 15时53分]"
         },
         {
           "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
@@ -397,22 +476,23 @@
           "time_info": "[04时48分 ~ 08时05分]"
         },
         {
+          "title": "马斯克点赞宇树载人机甲：很酷",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%AE%87%E6%A0%91%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2%EF%BC%9A%E5%BE%88%E9%85%B7",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 15时53分]"
+        },
+        {
           "title": "马斯克点赞宇树载人机甲",
           "url": "https://www.toutiao.com/trending/7638867621416386614/",
           "source": "今日头条",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 12时52分]"
-        },
-        {
-          "title": "马斯克点赞宇树载人机甲：很酷",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%AE%87%E6%A0%91%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2%EF%BC%9A%E5%BE%88%E9%85%B7",
-          "source": "百度热搜",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 2,
