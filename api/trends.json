@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T01:45:12.866158+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-05-16T03:45:14.542119+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时45分]"
         },
         {
           "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
@@ -26,19 +26,31 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时45分]"
         },
         {
           "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
           "url": "https://www.zhihu.com/question/2035685308566610183",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时45分]"
+        },
+        {
+          "title": "云南小伙用AI制作短片爆红",
+          "url": "https://www.douyin.com/hot/2499805",
+          "source": "抖音",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
+          "time_info": "[03时44分 ~ 03时45分]"
         },
         {
           "title": "OpenAI联手Plaid，为大众提供量身定制的财务咨询",
@@ -47,7 +59,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
         },
@@ -58,7 +70,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
         },
@@ -69,7 +81,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
         }
