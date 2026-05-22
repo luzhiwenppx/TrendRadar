@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T05:20:22.918392+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-05-23T07:06:10.867700+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时20分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 07时06分]"
         },
         {
           "title": "苹果谷歌英伟达，集体松了口气",
@@ -27,8 +27,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时20分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 07时06分]"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
+          "url": "https://www.cls.cn/detail/2379110",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 07时06分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -36,22 +48,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时20分]"
-        },
-        {
-          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
-          "url": "https://www.cls.cn/detail/2379110",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时20分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 07时06分]"
         },
         {
           "title": "郝哥李广奇回应AI买瓜",
@@ -59,22 +61,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时20分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 07时06分]"
         },
         {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
           "url": "https://www.zhihu.com/question/2040809853350831319",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时20分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 07时06分]"
         },
         {
           "title": "夏奇拉来批daidai作业啦",
@@ -82,22 +86,24 @@
           "source": "抖音",
           "ranks": [
             24,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 05时20分]"
+          "appearance_count": 4,
+          "time_info": "[03时59分 ~ 07时06分]"
         },
         {
           "title": "ai漫剧硬通货 泡面火腿纯净水",
           "url": "https://s.weibo.com/weibo?q=ai%E6%BC%AB%E5%89%A7%E7%A1%AC%E9%80%9A%E8%B4%A7%20%E6%B3%A1%E9%9D%A2%E7%81%AB%E8%85%BF%E7%BA%AF%E5%87%80%E6%B0%B4&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时06分]"
         },
         {
           "title": "印度成AI时代最大输家了吗",
@@ -109,6 +115,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "美国批准向多个间谍部门的90亿美元拨款，用于利用人工智能（AI）技术。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3108254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Dan Koe Elon Musk 马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SpaceX成功发射星舰，马斯克IPO帝国版图迎来关键大考",
+          "url": "https://wallstreetcn.com/livenews/3108267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         }
       ]
     }
