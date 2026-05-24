@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T05:02:26.600686+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-05-25T07:01:47.726242+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 07时01分]"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
@@ -26,11 +26,12 @@
           "ranks": [
             28,
             26,
-            27
+            27,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 07时01分]"
         },
         {
           "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
@@ -50,11 +51,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 05时02分]"
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 07时01分]"
         },
         {
           "title": "欧洲央行将在周二的会议上敦促银行加快保护其信息技术系统的工作，讨论最新人工智能模型所暴露的网络安全风险。",
@@ -91,6 +93,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时04分 ~ 02时02分]"
+        },
+        {
+          "title": "训练AI取代自己？纺织工和外卖骑手正收集“第一人称视角数据”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33219435",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     }
