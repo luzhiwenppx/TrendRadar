@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T06:02:21.779455+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-05-24T08:02:06.276348+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 06时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 08时02分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -26,11 +27,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 06时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 08时02分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -42,6 +44,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时05分 ~ 06时02分]"
+        },
+        {
+          "title": "摩根大通一线调研：中国AI“赚钱时刻”来了，工作流层的价值开始超越基础模型",
+          "url": "https://wallstreetcn.com/articles/3772976",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "你觉得 ai 会完全替代人类吗？",
