@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T01:14:12.553381+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-31T03:24:48.102942+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "全国首个绿色算力全栈AI平台上线",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时24分]"
         },
         {
           "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
           "url": "https://wallstreetcn.com/articles/3773482",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时24分]"
         },
         {
           "title": "面向超大规模药物发现的人工智能虚拟筛选平台——GalaxyVS正式发布",
@@ -36,20 +37,43 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 03时24分]"
+        },
+        {
+          "title": "软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施",
+          "url": "https://flash.jin10.com/detail/20260531031045565800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时14分"
+          "time_info": "03时24分"
+        },
+        {
+          "title": "据英国金融时报：软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施。",
+          "url": "https://flash.jin10.com/detail/20260531024909031800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
           "url": "https://wallstreetcn.com/articles/3773496",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时24分]"
         },
         {
           "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
@@ -59,8 +83,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时24分]"
         },
         {
           "title": "官方出手,AI吸附遭刑事打击",
@@ -70,30 +94,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时24分]"
         },
         {
           "title": "用AI整理会议记录导致泄密",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8AI%E6%95%B4%E7%90%86%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95%E5%AF%BC%E8%87%B4%E6%B3%84%E5%AF%86%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
-        },
-        {
-          "title": "撬动创新药开发 人工智能虚拟筛选平台在天津发布",
-          "url": "https://flash.jin10.com/detail/20260530215645145800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时24分]"
         },
         {
           "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
@@ -102,7 +116,18 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 03时24分]"
+        },
+        {
+          "title": "撬动创新药开发 人工智能虚拟筛选平台在天津发布",
+          "url": "https://flash.jin10.com/detail/20260530215645145800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
         }
@@ -117,11 +142,12 @@
           "url": "https://wallstreetcn.com/articles/3773436",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时24分]"
         }
       ]
     }
