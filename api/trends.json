@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T16:17:52.401752+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2026-05-31T19:02:53.019274+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "全国首个绿色算力全栈AI平台上线",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时13分 ~ 16时17分]"
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 19时02分]"
         },
         {
           "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
@@ -74,11 +74,23 @@
           "url": "https://wallstreetcn.com/articles/3773513",
           "source": "华尔街见闻",
           "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 19时02分]"
+        },
+        {
+          "title": "高盛加入“AI瓶颈交易”：MLCC是新存储，已成AI服务器“第三大成本项”",
+          "url": "https://wallstreetcn.com/articles/3773499",
+          "source": "华尔街见闻",
+          "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时17分"
+          "time_info": "19时02分"
         },
         {
           "title": "AI军备竞赛下一个爆发点！高盛：电容就是“新内存”",
@@ -175,22 +187,46 @@
           "url": "https://wallstreetcn.com/articles/3773512",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 19时02分]"
         },
         {
           "title": "北京推动“人工智能+文旅”发展，长城等将试点应用具身智能设备",
           "url": "https://wallstreetcn.com/livenews/3111877",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 19时02分]"
+        },
+        {
+          "title": "方正证券：AI主线继续演绎，同时兼顾HALO资产左侧的布局机会",
+          "url": "https://flash.jin10.com/detail/20260531180851720800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
+          "url": "https://www.cls.cn/detail/2386314",
+          "source": "财联社热门",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时17分"
+          "time_info": "19时02分"
         },
         {
           "title": "撬动创新药开发 人工智能虚拟筛选平台在天津发布",
@@ -210,7 +246,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         }
