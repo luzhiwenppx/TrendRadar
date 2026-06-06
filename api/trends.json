@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-06T20:09:15.596561+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-06-06T22:45:54.944634+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
           "url": "https://www.cls.cn/detail/2392497",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时12分 ~ 20时09分]"
+          "appearance_count": 8,
+          "time_info": "[08时12分 ~ 22时45分]"
         },
         {
           "title": "严防作弊!高考期间AI搜题关停",
@@ -28,11 +29,12 @@
             18,
             20,
             21,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时04分 ~ 20时09分]"
+          "appearance_count": 12,
+          "time_info": "[02时04分 ~ 22时45分]"
         },
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
@@ -44,6 +46,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时04分 ~ 08时12分]"
+        },
+        {
+          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
+          "url": "https://wallstreetcn.com/articles/3774007",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时57分 ~ 22时45分]"
         },
         {
           "title": "马上评｜该对AI外呼骚扰电话出手了",
@@ -62,18 +76,6 @@
           "time_info": "[02时04分 ~ 15时50分]"
         },
         {
-          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
-          "url": "https://wallstreetcn.com/articles/3774007",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时57分 ~ 20时09分]"
-        },
-        {
           "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
           "url": "https://wallstreetcn.com/articles/3773843",
           "source": "华尔街见闻",
@@ -86,29 +88,6 @@
           "time_info": "[02时04分 ~ 06时19分]"
         },
         {
-          "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
-          "url": "https://wallstreetcn.com/articles/3773946",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 02时05分]"
-        },
-        {
-          "title": "AI文风太好认",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%96%87%E9%A3%8E%E5%A4%AA%E5%A5%BD%E8%AE%A4&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时09分 ~ 20时09分]"
-        },
-        {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
           "url": "https://www.cls.cn/detail/2392488",
           "source": "财联社热门",
@@ -119,8 +98,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时57分 ~ 20时09分]"
+          "appearance_count": 7,
+          "time_info": "[12时57分 ~ 22时45分]"
+        },
+        {
+          "title": "AI文风太好认",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%96%87%E9%A3%8E%E5%A4%AA%E5%A5%BD%E8%AE%A4&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时09分 ~ 22时45分]"
+        },
+        {
+          "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 02时05分]"
         },
         {
           "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
@@ -441,7 +444,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -455,6 +458,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
+        },
+        {
+          "title": "施一公在人民日报发文《人工智能时代，教育何为》，如何理解他的这篇文章？",
+          "url": "https://www.zhihu.com/question/2046182456277956497",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "以色列国防军：针对敌方飞行器侵入泽拉伊特（Zerait）地区发出警报后，监测到一架无人机在以色列国防军于黎巴嫩南部开展行动的区域附近坠落。该飞行器未进入以色列领土，未造成人员伤亡。",
@@ -510,6 +524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "ai广告",
+          "url": "https://s.weibo.com/weibo?q=ai%E5%B9%BF%E5%91%8A&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         }
       ]
     },
@@ -522,11 +547,12 @@
           "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时09分 ~ 20时09分]"
+          "appearance_count": 5,
+          "time_info": "[18时09分 ~ 22时45分]"
         },
         {
           "title": "美国总统特朗普：马斯克80%的时候很聪明，20%的时候很糟糕。",
@@ -551,6 +577,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 08时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金饰价格跌去约21% 黄金还能买吗",
+          "url": "https://www.toutiao.com/trending/7648263144199949867/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         }
       ]
     }
