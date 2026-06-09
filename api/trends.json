@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-09T07:15:15.985624+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-06-09T11:57:23.734036+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 37,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
+          "url": "https://wallstreetcn.com/articles/3774087",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 11时57分]"
+        },
         {
           "title": "国家层面首次系统性部署 高质量数据集成物理AI时代“新石油”",
           "url": "https://www.cls.cn/detail/2393919",
@@ -20,15 +32,18 @@
           "time_info": "[00时02分 ~ 07时15分]"
         },
         {
-          "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
-          "url": "https://wallstreetcn.com/articles/3774087",
-          "source": "华尔街见闻",
+          "title": "马上评｜人们厌恶AI脸，又是在期盼什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33334384",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            10,
+            9,
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 07时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 11时57分]"
         },
         {
           "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
@@ -79,19 +94,6 @@
           "time_info": "[03时23分 ~ 07时15分]"
         },
         {
-          "title": "马上评｜人们厌恶AI脸，又是在期盼什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33334384",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 07时15分]"
-        },
-        {
           "title": "当我把今年高考语文作文题喂给AI",
           "url": "https://www.baidu.com/s?wd=%E5%BD%93%E6%88%91%E6%8A%8A%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E4%BD%9C%E6%96%87%E9%A2%98%E5%96%82%E7%BB%99AI",
           "source": "百度热搜",
@@ -119,6 +121,17 @@
           "time_info": "[00时02分 ~ 07时15分]"
         },
         {
+          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
+          "url": "https://www.cls.cn/detail/2394196",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
           "title": "OpenAI就IPO事宜向美国SEC秘密递交S-1文件",
           "url": "https://wallstreetcn.com/livenews/3116359",
           "source": "华尔街见闻-快讯",
@@ -130,13 +143,24 @@
           "time_info": "05时53分"
         },
         {
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
           "title": "苹果：中国大陆暂不提供最新Siri AI",
           "url": "https://flash.jin10.com/detail/20260609064804765800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -158,9 +182,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
+          "url": "https://www.zhihu.com/question/2047324900080051711",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "OpenAI自曝已秘密提交IPO申请",
@@ -222,6 +257,17 @@
           "time_info": "[00时02分 ~ 05时53分]"
         },
         {
+          "title": "6月9日投资避雷针：天娱数科、中望软件等公司密集澄清 没有物理AI业务",
+          "url": "https://www.cls.cn/detail/2394258",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
           "title": "OpenAI：尚未决定首次公开募股的时间。",
           "url": "https://flash.jin10.com/detail/20260609051515095800",
           "source": "金十数据",
@@ -231,6 +277,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
+          "url": "https://www.cls.cn/detail/2394212",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "OpenAI已提交IPO申请",
@@ -255,6 +323,28 @@
           "time_info": "05时53分"
         },
         {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2394236",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
           "title": "苹果跌幅扩大至1.2%，该公司称Siri AI一开始不会投放到欧盟市场",
           "url": "https://wallstreetcn.com/livenews/3116308",
           "source": "华尔街见闻-快讯",
@@ -264,6 +354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "Siri AI补课两年终交卷 市场等待折叠iPhone“上桌”",
+          "url": "https://www.cls.cn/detail/2394424",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "美国科技记者古尔曼：尽管这次发布并没有带来颠覆性的创新，但苹果(AAPL.O)刚刚通过实用的人工智能功能、真正能够发挥作用的Siri以及性能提升，重新构建了其各大平台的基础架构。考虑到未来三年将有一系列重磅新设备搭载这些操作系统，这一点至关重要。这是一个正确的决定。",
@@ -316,7 +417,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -338,7 +439,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -434,7 +535,7 @@
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“真正的瓶颈在于芯片制造能力”，马斯克唱多美光：目前产能远不及芯片实际需求",
@@ -442,22 +543,35 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 07时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 11时57分]"
         },
         {
           "title": "马斯克SpaceX拒绝中国投资者",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354956&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%8B%92%E7%BB%9D%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 07时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 11时57分]"
+        },
+        {
+          "title": "洛杉矶市长选情逆转，特朗普、马斯克发声质疑",
+          "url": "https://news.ifeng.com/c/8toKe0HelhI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         }
       ]
     },
