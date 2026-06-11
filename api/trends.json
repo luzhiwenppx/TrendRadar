@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T06:08:04.485830+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-06-11T08:21:14.807666+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 06时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 08时21分]"
         },
         {
           "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
           "url": "https://www.cls.cn/detail/2396017",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 06时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 08时21分]"
         },
         {
           "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
@@ -36,11 +37,51 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 06时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 08时21分]"
+        },
+        {
+          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
+          "url": "https://wallstreetcn.com/articles/3774282",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 08时21分]"
+        },
+        {
+          "title": "于娜看到已故老公AI形象崩溃大哭",
+          "url": "https://www.toutiao.com/trending/7649760127175904777/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 08时21分]"
+        },
+        {
+          "title": "于娜看到已故丈夫AI形象崩溃大哭",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%A8%9C%E7%9C%8B%E5%88%B0%E5%B7%B2%E6%95%85%E4%B8%88%E5%A4%ABAI%E5%BD%A2%E8%B1%A1%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 08时21分]"
         },
         {
           "title": "凯雷集团CFO：我们需要招聘初级员工，人工智能无法完成所有工作。",
@@ -65,41 +106,15 @@
           "time_info": "03时37分"
         },
         {
-          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
-          "url": "https://wallstreetcn.com/articles/3774282",
-          "source": "华尔街见闻",
+          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
+          "url": "https://www.zhihu.com/question/2047598353421170561",
+          "source": "知乎",
           "ranks": [
-            10,
-            9,
-            8
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 06时08分]"
-        },
-        {
-          "title": "于娜看到已故老公AI形象崩溃大哭",
-          "url": "https://www.toutiao.com/trending/7649760127175904777/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 06时08分]"
-        },
-        {
-          "title": "于娜看到已故丈夫AI形象崩溃大哭",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%A8%9C%E7%9C%8B%E5%88%B0%E5%B7%B2%E6%95%85%E4%B8%88%E5%A4%ABAI%E5%BD%A2%E8%B1%A1%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 06时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 08时21分]"
         },
         {
           "title": "没有物理AI业务且与2026年世界杯不存在业务合作关系！四连板AI应用概念股发布异动公告|盘后公告集锦",
@@ -202,17 +217,6 @@
           "time_info": "03时37分"
         },
         {
-          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
-          "url": "https://www.zhihu.com/question/2047598353421170561",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
           "title": "谷歌(GOOG.O)：Apache Spark托管服务的Lightning Engine现已同时支持无服务器和托管集群两种部署模式。",
           "url": "https://flash.jin10.com/detail/20260611022100658800",
           "source": "金十数据",
@@ -274,7 +278,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -296,7 +300,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
