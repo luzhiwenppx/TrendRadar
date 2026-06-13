@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T02:12:51.914844+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2026-06-14T04:19:51.458120+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时19分]"
         },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时19分]"
         },
         {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
@@ -39,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时19分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -48,11 +49,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时19分]"
         },
         {
           "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
@@ -62,19 +64,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时12分]"
-        },
-        {
-          "title": "欧洲理事会主席科斯塔：刚刚与苹果公司CEO蒂姆·库克就儿童网络安全、人工智能及创新议题进行了富有成效的交谈。",
-          "url": "https://flash.jin10.com/detail/20260614004325694800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时12分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时19分]"
         },
         {
           "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
@@ -83,7 +74,18 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时12分 ~ 04时19分]"
+        },
+        {
+          "title": "欧洲理事会主席科斯塔：刚刚与苹果公司CEO蒂姆·库克就儿童网络安全、人工智能及创新议题进行了富有成效的交谈。",
+          "url": "https://flash.jin10.com/detail/20260614004325694800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
         },
@@ -94,7 +96,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
         },
@@ -123,8 +125,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时19分]"
         },
         {
           "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
@@ -146,8 +148,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时19分]"
         },
         {
           "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
@@ -158,19 +160,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时19分]"
         },
         {
           "title": "马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税",
           "url": "https://m.thepaper.cn/newsDetail_forward_33374147",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时19分]"
         },
         {
           "title": "很难赌马斯克会输！散户一边骂贵一边疯抢SpaceX，但绝大多数不打算长期持股",
