@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-14T13:54:19.077852+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-06-14T17:43:02.118998+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
+          "url": "https://www.cls.cn/detail/2398996",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 17时43分]"
+        },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
           "url": "https://wallstreetcn.com/articles/3774577",
@@ -24,18 +37,6 @@
           "time_info": "[00时18分 ~ 13时54分]"
         },
         {
-          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
-          "url": "https://www.cls.cn/detail/2398996",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 13时54分]"
-        },
-        {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
           "url": "https://www.cls.cn/detail/2399104",
           "source": "财联社热门",
@@ -43,11 +44,12 @@
             13,
             8,
             7,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 13时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 17时43分]"
         },
         {
           "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
@@ -56,9 +58,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 17时43分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -71,8 +73,53 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 13时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 17时43分]"
+        },
+        {
+          "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
+          "url": "https://wallstreetcn.com/articles/3774601",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 17时43分]"
+        },
+        {
+          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
+          "url": "https://wallstreetcn.com/articles/3774595",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时13分 ~ 17时43分]"
+        },
+        {
+          "title": "天风证券：电子布年内第五轮涨价落地 AI链拉动玻纤景气延续",
+          "url": "https://flash.jin10.com/detail/20260614171030729800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "蚂蚁集团正秘密测试AI版支付宝",
+          "url": "https://flash.jin10.com/detail/20260614170709289800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
@@ -84,18 +131,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时18分 ~ 08时13分]"
-        },
-        {
-          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
-          "url": "https://wallstreetcn.com/articles/3774595",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时13分 ~ 13时54分]"
         },
         {
           "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
@@ -134,6 +169,17 @@
           "time_info": "[06时09分 ~ 08时13分]"
         },
         {
+          "title": "特朗普发布 AI 视频，变身火影忍者，引发日本民众抗议，日本官员称已多次提醒美方注意版权，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2049169967136953360",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 17时43分]"
+        },
+        {
           "title": "欧洲理事会主席科斯塔：刚刚与苹果公司CEO蒂姆·库克就儿童网络安全、人工智能及创新议题进行了富有成效的交谈。",
           "url": "https://flash.jin10.com/detail/20260614004325694800",
           "source": "金十数据",
@@ -151,7 +197,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -196,19 +242,6 @@
           "time_info": "[00时18分 ~ 08时13分]"
         },
         {
-          "title": "马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33374147",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 13时54分]"
-        },
-        {
           "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
           "url": "https://www.cls.cn/detail/2398924",
           "source": "财联社热门",
@@ -216,7 +249,21 @@
             5,
             6,
             8,
-            11
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 17时43分]"
+        },
+        {
+          "title": "马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33374147",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            4
           ],
           "is_new": false,
           "appearance_count": 6,
