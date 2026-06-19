@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T02:59:29.632660+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-06-20T04:42:31.141922+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 04时42分]"
         },
         {
           "title": "Faker拍谷歌广告血赚7个亿",
@@ -27,8 +27,19 @@
             30
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 04时42分]"
+        },
+        {
+          "title": "美参议员桑德斯：对美国大型AI公司一次性征收50%股权税，设立主权财富基金",
+          "url": "https://wallstreetcn.com/articles/3775053",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时09分 ~ 02时59分]"
+          "time_info": "[02时59分 ~ 04时42分]"
         },
         {
           "title": "挪威首相周五表示，挪威将近乎全面禁止小学生使用生成式人工智能工具，同时限制其在年龄较大的儿童教育中的使用，以防止对学习产生负面影响。",
@@ -53,21 +64,32 @@
           "time_info": "00时09分"
         },
         {
-          "title": "美参议员桑德斯：对美国大型AI公司一次性征收50%股权税，设立主权财富基金",
-          "url": "https://wallstreetcn.com/articles/3775053",
+          "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
+          "url": "https://wallstreetcn.com/articles/3775091",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时59分"
+          "time_info": "04时42分"
+        },
+        {
+          "title": "谷歌旗下Deepmind高级研究科学家John Jumper决定离开公司，加入Anthropic。",
+          "url": "https://flash.jin10.com/detail/20260620030401727800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         }
       ]
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
@@ -78,8 +100,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 04时42分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -89,19 +111,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 04时42分]"
         },
         {
           "title": "中国大模型何时达「fable 级别」？马斯克与智谱 CEO 预测不同，你更认同谁？",
           "url": "https://www.zhihu.com/question/2051267421386937558",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时42分]"
+        },
+        {
+          "title": "马斯克：到那时，衡量事物的标准将不再是美元，而是质量与能量。",
+          "url": "https://flash.jin10.com/detail/20260620024815870800",
+          "source": "金十数据",
+          "ranks": [
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时59分"
+          "time_info": "04时42分"
         }
       ]
     }
