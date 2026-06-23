@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T08:12:08.783269+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-06-23T13:06:22.983490+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时36分 ~ 08时12分]"
+          "appearance_count": 6,
+          "time_info": "[03时36分 ~ 13时06分]"
         },
         {
           "title": "郭明錤：联发科赢得谷歌升级版TPU芯片订单",
@@ -50,31 +50,44 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
         },
         {
-          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
-          "url": "https://www.cls.cn/detail/2406127",
-          "source": "财联社热门",
+          "title": "字节跳动正式发布Seed2.1，深入AI生产力",
+          "url": "https://flash.jin10.com/detail/20260623123140387800",
+          "source": "金十数据",
           "ranks": [
-            11
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 08时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
         },
         {
           "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
           "url": "https://www.cls.cn/detail/2406155",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 08时12分]"
+          "appearance_count": 3,
+          "time_info": "[08时11分 ~ 13时06分]"
+        },
+        {
+          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
+          "url": "https://www.cls.cn/detail/2406127",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时11分 ~ 13时06分]"
         },
         {
           "title": "物理AI第一股上市首日高开302%",
@@ -108,6 +121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "AI算力新变局：谁能动英伟达奶酪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
         },
         {
           "title": "报道：高通接近收购AI芯片初创公司Modular",
@@ -149,9 +173,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
+        },
+        {
+          "title": "国际超算大会聚焦AI、量子计算",
+          "url": "https://www.toutiao.com/trending/7654411692633227270/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
         },
         {
           "title": "科技链从“数字”升级为“数智”，第四届链博会折射AI产业重心跃迁",
@@ -160,7 +195,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
         },
@@ -182,9 +217,37 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "德意志银行：如果美联储加息，黄金价格可能会跌至3800美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260623121000175800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
+          "title": "德意志银行：预计第三季度黄金价格将达到4300美元/盎司，第四季度将达4800美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260623120926115800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
         }
       ]
     }
