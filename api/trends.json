@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T15:52:06.099405+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2026-06-24T18:55:50.768314+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时02分 ~ 15时52分]"
+          "appearance_count": 9,
+          "time_info": "[02时02分 ~ 18时55分]"
         },
         {
           "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
@@ -52,11 +53,12 @@
             13,
             14,
             20,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时02分 ~ 15时52分]"
+          "appearance_count": 9,
+          "time_info": "[02时02分 ~ 18时55分]"
         },
         {
           "title": "用AI小卡应援世界杯",
@@ -70,8 +72,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时02分 ~ 15时52分]"
+          "appearance_count": 9,
+          "time_info": "[02时02分 ~ 18时55分]"
         },
         {
           "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
@@ -105,8 +107,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时51分 ~ 15时52分]"
+          "appearance_count": 3,
+          "time_info": "[15时51分 ~ 18时55分]"
         },
         {
           "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
@@ -129,6 +131,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时02分 ~ 07时12分]"
+        },
+        {
+          "title": "低估了AI全球泡沫，宁泉杨东发声“不敢再参与”，私募圈AI分歧推到前台",
+          "url": "https://www.cls.cn/detail/2407855",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
@@ -180,6 +193,18 @@
           "time_info": "[05时02分 ~ 07时12分]"
         },
         {
+          "title": "用AI制作一部玄幻短片",
+          "url": "https://www.douyin.com/hot/2545425",
+          "source": "抖音",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 18时55分]"
+        },
+        {
           "title": "AI时代计算机专业还能学吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%BF%98%E8%83%BD%E5%AD%A6%E5%90%97",
           "source": "bilibili 热搜",
@@ -204,15 +229,15 @@
           "time_info": "[11时59分 ~ 15时52分]"
         },
         {
-          "title": "用AI制作一部玄幻短片",
-          "url": "https://www.douyin.com/hot/2545425",
-          "source": "抖音",
+          "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
+          "url": "https://www.cls.cn/detail/2408054",
+          "source": "财联社热门",
           "ranks": [
-            11
+            6
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 15时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "Grok融资6.5亿美元，旨在扩大数据中心算力，并成为一家AI计算供应商。",
@@ -246,6 +271,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
+        },
+        {
+          "title": "美财长大放厥词：AI的最大风险是中国超越美国",
+          "url": "https://news.ifeng.com/c/8uDioiTwhfp",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "为什么豆包 AI 老是会被调侃成糖包？取这个名字，是不是从一开始就没打算走专业 AI 路线？",
+          "url": "https://www.zhihu.com/question/2035742574737143093",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "周二（6月23日），美股AI软件先驱指数跌0.20%，报103.52点，成分股中，甲骨文收跌5.66%，铿腾电子跌2.57%，Palantir跌2.34%跌幅第三大，Salesforce、ServiceNOW、GitLab涨2.20%-4.53%领跑。",
@@ -290,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
+          "url": "https://www.cls.cn/detail/2408036",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "Meta Platforms(META.O)：（关于美国政府人工智能审查）在我们处理细节的同时，希望尽快签署协议。",
@@ -397,7 +455,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -416,7 +474,7 @@
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马斯克已不是万亿富豪",
@@ -439,6 +497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "孙正义说马斯克太空数据中心没价值",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%AD%A3%E4%B9%89%E8%AF%B4%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A4%AA%E7%A9%BA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%B2%A1%E4%BB%B7%E5%80%BC%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         }
       ]
     }
