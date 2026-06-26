@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T17:35:49.875318+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2026-06-26T20:15:44.511259+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 48,
+      "match_count": 55,
       "titles": [
         {
           "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
@@ -28,11 +28,12 @@
             8,
             9,
             15,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时14分 ~ 17时35分]"
+          "appearance_count": 9,
+          "time_info": "[02时14分 ~ 20时15分]"
         },
         {
           "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
@@ -90,7 +91,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -169,6 +170,19 @@
           "time_info": "[05时02分 ~ 06时42分]"
         },
         {
+          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
+          "url": "https://wallstreetcn.com/articles/3775558",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时12分 ~ 20时15分]"
+        },
+        {
           "title": "报道：美国政府要求OpenAI分阶段发布最新模型GPT 5.6",
           "url": "https://wallstreetcn.com/livenews/3124869",
           "source": "华尔街见闻-快讯",
@@ -219,18 +233,6 @@
           "time_info": "[02时14分 ~ 06时42分]"
         },
         {
-          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
-          "url": "https://wallstreetcn.com/articles/3775558",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时12分 ~ 17时35分]"
-        },
-        {
           "title": "主流AI Coding开发鹅腿识别",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%BB%E6%B5%81AICoding%E5%BC%80%E5%8F%91%E9%B9%85%E8%85%BF%E8%AF%86%E5%88%AB",
           "source": "bilibili 热搜",
@@ -253,6 +255,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时14分 ~ 13时13分]"
+        },
+        {
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 20时15分]"
         },
         {
           "title": "据纽约时报：OpenAI倾向于等到明年再进行IPO。",
@@ -279,6 +293,18 @@
           "time_info": "[05时02分 ~ 06时42分]"
         },
         {
+          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
+          "url": "https://www.cls.cn/detail/2410276",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 20时15分]"
+        },
+        {
           "title": "据The Information：特朗普政府要求OpenAI出于安全考虑分批发布新模型。",
           "url": "https://flash.jin10.com/detail/20260626041922109800",
           "source": "金十数据",
@@ -302,6 +328,18 @@
           "time_info": "[02时14分 ~ 05时02分]"
         },
         {
+          "title": "短剧男主被AI抢工作 返乡卖豆芽菜",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%A2%ABAI%E6%8A%A2%E5%B7%A5%E4%BD%9C+%E8%BF%94%E4%B9%A1%E5%8D%96%E8%B1%86%E8%8A%BD%E8%8F%9C",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 20时15分]"
+        },
+        {
           "title": "短剧霸总刚当上男主就被AI抢角色",
           "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%80%BB%E5%88%9A%E5%BD%93%E4%B8%8A%E7%94%B7%E4%B8%BB%E5%B0%B1%E8%A2%ABAI%E6%8A%A2%E8%A7%92%E8%89%B2",
           "source": "百度热搜",
@@ -311,17 +349,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时12分 ~ 13时13分]"
-        },
-        {
-          "title": "纯中二?美官员把AI当英雄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
         },
         {
           "title": "据传三星十年内拟投1000万亿韩元，韩国存储双雄或联手掀起AI基建浪潮",
@@ -335,13 +362,24 @@
           "time_info": "13时13分"
         },
         {
+          "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
+          "url": "https://wallstreetcn.com/articles/3775599",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "中泰证券王芳：大模型的快速发展和供应链短缺 有利于AI行业高资本开支的持续",
           "url": "https://wallstreetcn.com/livenews/3125184",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -352,9 +390,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850560&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/zowhLxJ1oGWg2qc8N-V44.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260626193725009800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "美国银行将2026年中国出口增长预测上调至15%，受AI领域推动。",
@@ -374,7 +423,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -385,7 +434,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -412,17 +461,6 @@
           "time_info": "06时42分"
         },
         {
-          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
-          "url": "https://www.cls.cn/detail/2410276",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
           "title": "据The Information：谷歌的人工智能项目推动出版商允许内容用于人工智能模型训练。",
           "url": "https://flash.jin10.com/detail/20260626040729452800",
           "source": "金十数据",
@@ -440,7 +478,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -454,6 +492,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "市场消息：赛峰集团正研究收购法国海上无人机制造商Exail的交易。",
+          "url": "https://flash.jin10.com/detail/20260626192823521800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "AI时代如何选专业",
+          "url": "https://www.douyin.com/hot/2548080",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至1%，美股早盘呈现出V形反转，成分股闪迪目前涨18.1%，美光涨16.1%，应用材料涨10.1%，西部数据涨8.1%，高通涨7.9%，阿斯麦ADR涨4.5%，谷歌A跌0.8%，英伟达跌幅收窄至1.1%，Meta跌1.7%，亚马逊跌2.2%，微软跌3.4%，苹果仍然重挫超5.6%，Strategy跌6.9%。 半导体指数涨超4.1%。",
@@ -473,9 +533,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "AI时代劳动价值论过时了吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%8A%B3%E5%8A%A8%E4%BB%B7%E5%80%BC%E8%AE%BA%E8%BF%87%E6%97%B6%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "欧盟就Anthropic的AI模型访问权限与白宫进行讨论",
@@ -506,7 +577,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -517,9 +588,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "2025年至今我国已经研制发布40余项人工智能国家标准",
+          "url": "https://wallstreetcn.com/livenews/3125266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "谷歌公司为安卓系统推出新款谷歌理财（Google Finance）APP。",
@@ -544,15 +626,15 @@
           "time_info": "05时02分"
         },
         {
-          "title": "短剧男主被AI抢工作 返乡卖豆芽菜",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%A2%ABAI%E6%8A%A2%E5%B7%A5%E4%BD%9C+%E8%BF%94%E4%B9%A1%E5%8D%96%E8%B1%86%E8%8A%BD%E8%8F%9C",
-          "source": "百度热搜",
+          "title": "当AI超越人类我们该如何存在",
+          "url": "https://www.toutiao.com/trending/7654570633377185798/",
+          "source": "今日头条",
           "ranks": [
-            29
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "20时15分"
         },
         {
           "title": "于正这部AI剧夯爆了",
@@ -561,7 +643,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         }
