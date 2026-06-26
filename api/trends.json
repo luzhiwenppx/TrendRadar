@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T01:53:37.812090+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-27T03:57:08.731256+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时57分]"
+        },
+        {
+          "title": "报道：苹果负责Vision Pro和智能眼镜业务的负责人将跳槽至OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3125443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时53分"
+          "time_info": "03时57分"
         },
         {
           "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
@@ -26,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时57分]"
         },
         {
           "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
@@ -37,30 +48,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时57分]"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时57分]"
         },
         {
           "title": "AI时代如何选专业",
           "url": "https://www.douyin.com/hot/2548080",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时57分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -70,8 +83,53 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时57分]"
+        },
+        {
+          "title": "绿色幻象之下：谁在为万亿AI芯片繁荣买单？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33451501",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时57分]"
+        },
+        {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时57分]"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)公司负责Vision Pro和智能眼镜业务的负责人将离职加入OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260627032342952800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时53分"
+          "time_info": "03时57分"
+        },
+        {
+          "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强",
+          "url": "https://wallstreetcn.com/livenews/3125429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
         },
         {
           "title": "市场消息：OpenAI开启GPT-5.6系列有限预览版测试。",
@@ -83,28 +141,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Dan Koe Elon Musk 马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克获准收购Mesh，加码数据中心光通信布局",
+          "url": "https://wallstreetcn.com/livenews/3125444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
         },
         {
-          "title": "绿色幻象之下：谁在为万亿AI芯片繁荣买单？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33451501",
-          "source": "澎湃新闻",
+          "title": "马斯克获准收购Mesh 加码数据中心光通信布局",
+          "url": "https://flash.jin10.com/detail/20260627032301137800",
+          "source": "金十数据",
           "ranks": [
-            20
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时53分"
+          "time_info": "03时57分"
         },
         {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
+          "title": "市场消息：马斯克获联邦贸易委员会批准收购SpaceX前员工创立的公司Mesh。",
+          "url": "https://flash.jin10.com/detail/20260627031651332800",
+          "source": "金十数据",
           "ranks": [
-            25
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时53分"
+          "time_info": "03时57分"
         }
       ]
     }
