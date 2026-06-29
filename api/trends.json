@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T17:52:07.055097+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-06-29T22:09:42.831079+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
@@ -95,7 +95,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -117,7 +117,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -132,6 +132,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时28分 ~ 07时08分]"
+        },
+        {
+          "title": "国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设",
+          "url": "https://www.cls.cn/detail/2412070",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-06-29）",
@@ -186,11 +197,12 @@
           "url": "https://www.cls.cn/detail/2411748",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 22时09分]"
         },
         {
           "title": "大家用 grill-me(拷问我) 这个 AI Agent Skill 的体验如何？",
@@ -222,9 +234,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        },
+        {
+          "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33472508",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
+          "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
+          "url": "https://www.cls.cn/detail/2411865",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
+          "title": "AI泡沫担忧再度成为市场“主旋律”？华尔街又“炸开了锅”……",
+          "url": "https://www.cls.cn/detail/2411644",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "AI初创公司Firmus将与英伟达合作建设印尼数据中心",
