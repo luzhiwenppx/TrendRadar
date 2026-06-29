@@ -1,242 +1,33 @@
 {
-  "generated_at": "2026-06-29T22:09:42.831079+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2026-06-30T01:43:18.039770+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 25,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 12时21分]"
-        },
-        {
-          "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
-          "url": "https://wallstreetcn.com/articles/3775694",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 12时21分]"
-        },
-        {
-          "title": "人民日报评“AI脸看腻了”",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9CAI%E8%84%B8%E7%9C%8B%E8%85%BB%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 07时08分]"
-        },
-        {
-          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
-          "url": "https://www.cls.cn/detail/2410894",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 07时08分]"
-        },
-        {
-          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
-          "url": "https://wallstreetcn.com/articles/3775685",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 07时08分]"
-        },
-        {
-          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
-          "url": "https://wallstreetcn.com/articles/3775696",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 12时21分]"
-        },
-        {
-          "title": "清华姚班UP主详解AI专业就业",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%ADUP%E4%B8%BB%E8%AF%A6%E8%A7%A3AI%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 17时52分]"
-        },
-        {
-          "title": "据知情人士称，由黑石集团支持的数据中心运营商AirTrunk接近在新加坡秘密提交房地产投资信托基金首次公开募股申请。此前由报道称，AirTrunk寻求通过此次发行筹资约15亿美元，这将使其成为新加坡自2017年以来规模最大的IPO。",
-          "url": "https://flash.jin10.com/detail/20260629173232059800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "全球科技股同步回调，券商研报：AI主线地位不改但再平衡需求上升",
-          "url": "https://wallstreetcn.com/livenews/3125724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "国务院：推进人工智能全学段教育 提升学生人工智能素养",
-          "url": "https://wallstreetcn.com/livenews/3126041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "轻量化AI设备需求激增，分析师：AI眼镜正加速迎来规模化拐点",
-          "url": "https://wallstreetcn.com/livenews/3125707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时28分 ~ 07时08分]"
-        },
         {
           "title": "国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设",
           "url": "https://www.cls.cn/detail/2412070",
           "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-06-29）",
-          "url": "https://flash.jin10.com/detail/20260629115639400800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "特朗普发扛地球AI照，伊以都不服！",
-          "url": "https://news.ifeng.com/c/8uKW9oaTnDA",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 07时08分]"
-        },
-        {
-          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
-          "url": "https://wallstreetcn.com/articles/3775705",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时08分 ~ 17时52分]"
-        },
-        {
-          "title": "AI初创公司Firmus携手英伟达在印尼建设数据中心",
-          "url": "https://wallstreetcn.com/livenews/3125692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 07时08分]"
+          "time_info": "01时43分"
         },
         {
           "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
           "url": "https://www.cls.cn/detail/2411748",
           "source": "财联社热门",
           "ranks": [
-            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 22时09分]"
-        },
-        {
-          "title": "大家用 grill-me(拷问我) 这个 AI Agent Skill 的体验如何？",
-          "url": "https://www.zhihu.com/question/2054005413406946147",
-          "source": "知乎",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时28分]"
-        },
-        {
-          "title": "当一个人的创造力加上 AI 杠杆，这代年轻人能做出多有趣的事来？",
-          "url": "https://www.zhihu.com/roundtable/opc",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 17时52分]"
-        },
-        {
-          "title": "国务院：推进人工智能全学段教育，提升学生人工智能素养",
-          "url": "https://wallstreetcn.com/livenews/3126032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时52分"
+          "time_info": "01时43分"
         },
         {
           "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
@@ -245,9 +36,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时09分"
+          "time_info": "01时43分"
         },
         {
           "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
@@ -256,9 +47,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时09分"
+          "time_info": "01时43分"
         },
         {
           "title": "AI泡沫担忧再度成为市场“主旋律”？华尔街又“炸开了锅”……",
@@ -267,48 +58,42 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时09分"
+          "time_info": "01时43分"
         },
         {
-          "title": "AI初创公司Firmus将与英伟达合作建设印尼数据中心",
-          "url": "https://flash.jin10.com/detail/20260629000635210800",
-          "source": "金十数据",
+          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah警告称：人工智能（AI）日益成为政治议题。",
+          "url": "https://wallstreetcn.com/livenews/3126270",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时18分"
+          "time_info": "01时43分"
         },
         {
-          "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
-          "url": "https://flash.jin10.com/detail/20260628213314042800",
-          "source": "金十数据",
+          "title": "AI手机进入Agent时代",
+          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E8%BF%9B%E5%85%A5Agent%E6%97%B6%E4%BB%A3",
+          "source": "百度热搜",
           "ranks": [
-            27
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 1,
-      "titles": [
+          "time_info": "01时43分"
+        },
         {
-          "title": "马斯克：Grok 4.5内测已比肩Opus，今年每月都发布一个全新大模型！",
-          "url": "https://www.cls.cn/detail/2411430",
-          "source": "财联社热门",
+          "title": "吴启华自曝卖肖像权拍AI电影",
+          "url": "https://www.douyin.com/hot/2552172",
+          "source": "抖音",
           "ranks": [
-            9
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 17时52分]"
+          "appearance_count": 1,
+          "time_info": "01时43分"
         }
       ]
     }
