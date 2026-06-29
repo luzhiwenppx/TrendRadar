@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T12:21:38.740695+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-06-29T17:52:07.055097+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
@@ -78,6 +78,28 @@
           "time_info": "[01时18分 ~ 12时21分]"
         },
         {
+          "title": "清华姚班UP主详解AI专业就业",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%ADUP%E4%B8%BB%E8%AF%A6%E8%A7%A3AI%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 17时52分]"
+        },
+        {
+          "title": "据知情人士称，由黑石集团支持的数据中心运营商AirTrunk接近在新加坡秘密提交房地产投资信托基金首次公开募股申请。此前由报道称，AirTrunk寻求通过此次发行筹资约15亿美元，这将使其成为新加坡自2017年以来规模最大的IPO。",
+          "url": "https://flash.jin10.com/detail/20260629173232059800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
           "title": "全球科技股同步回调，券商研报：AI主线地位不改但再平衡需求上升",
           "url": "https://wallstreetcn.com/livenews/3125724",
           "source": "华尔街见闻-快讯",
@@ -87,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "国务院：推进人工智能全学段教育 提升学生人工智能素养",
+          "url": "https://wallstreetcn.com/livenews/3126041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "轻量化AI设备需求激增，分析师：AI眼镜正加速迎来规模化拐点",
@@ -107,7 +140,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -123,6 +156,19 @@
           "time_info": "[01时18分 ~ 07时08分]"
         },
         {
+          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
+          "url": "https://wallstreetcn.com/articles/3775705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时08分 ~ 17时52分]"
+        },
+        {
           "title": "AI初创公司Firmus携手英伟达在印尼建设数据中心",
           "url": "https://wallstreetcn.com/livenews/3125692",
           "source": "华尔街见闻-快讯",
@@ -136,16 +182,15 @@
           "time_info": "[01时18分 ~ 07时08分]"
         },
         {
-          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
-          "url": "https://wallstreetcn.com/articles/3775705",
-          "source": "华尔街见闻",
+          "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2411748",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时08分 ~ 12时21分]"
+          "time_info": "[17时51分 ~ 17时52分]"
         },
         {
           "title": "大家用 grill-me(拷问我) 这个 AI Agent Skill 的体验如何？",
@@ -158,6 +203,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 03时28分]"
+        },
+        {
+          "title": "当一个人的创造力加上 AI 杠杆，这代年轻人能做出多有趣的事来？",
+          "url": "https://www.zhihu.com/roundtable/opc",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 17时52分]"
+        },
+        {
+          "title": "国务院：推进人工智能全学段教育，提升学生人工智能素养",
+          "url": "https://wallstreetcn.com/livenews/3126032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "AI初创公司Firmus将与英伟达合作建设印尼数据中心",
@@ -180,6 +247,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Dan Koe Elon Musk 马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：Grok 4.5内测已比肩Opus，今年每月都发布一个全新大模型！",
+          "url": "https://www.cls.cn/detail/2411430",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 17时52分]"
         }
       ]
     }
