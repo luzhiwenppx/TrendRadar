@@ -1,142 +1,33 @@
 {
-  "generated_at": "2026-07-07T22:47:14.517527+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2026-07-08T01:21:34.952669+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 34,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
+          "url": "https://wallstreetcn.com/livenews/3130107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
         {
           "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
           "url": "https://wallstreetcn.com/articles/3776319",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时56分 ~ 22时47分]"
-        },
-        {
-          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
-          "url": "https://www.cls.cn/detail/2418586",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时13分 ~ 16时28分]"
-        },
-        {
-          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
-          "url": "https://www.cls.cn/detail/2418780",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 19时55分]"
-        },
-        {
-          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
-          "url": "https://wallstreetcn.com/articles/3776245",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时47分 ~ 08时13分]"
-        },
-        {
-          "title": "国家发改委：目前我国人工智能原生办公智能体月访问量超2000万次",
-          "url": "https://wallstreetcn.com/livenews/3129761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "英国监管机构审查凸显金融服务AI风险",
-          "url": "https://wallstreetcn.com/livenews/3129510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
-          "url": "https://www.cls.cn/detail/2418905",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 19时55分]"
-        },
-        {
-          "title": "智能体下线,AI女友凉了？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时47分 ~ 08时13分]"
-        },
-        {
-          "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P",
-          "url": "https://wallstreetcn.com/articles/3776296",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 16时28分]"
-        },
-        {
-          "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
-          "url": "https://wallstreetcn.com/articles/3776266",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时13分 ~ 12时57分]"
-        },
-        {
-          "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 04时04分]"
+          "appearance_count": 1,
+          "time_info": "01时21分"
         },
         {
           "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
@@ -146,289 +37,41 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时46分 ~ 22时47分]"
-        },
-        {
-          "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
-          "url": "https://www.cls.cn/detail/2418217",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 08时13分]"
-        },
-        {
-          "title": "AI预测葡萄牙vs西班牙赛果",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E8%91%A1%E8%90%84%E7%89%99vs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "01时21分"
         },
         {
-          "title": "国家发改委：初步预测今年人工智能相关产业规模还会有30%以上增速",
-          "url": "https://flash.jin10.com/detail/20260707122516969800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "国家发改委：预计今年AI手机、AI电脑的销量将首次超过非AI产品",
-          "url": "https://wallstreetcn.com/livenews/3129750",
+          "title": "微软在部分应用中以自研AI模型替代OpenAI和Anthropic",
+          "url": "https://wallstreetcn.com/livenews/3130102",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时57分"
+          "time_info": "01时21分"
         },
         {
-          "title": "“物质科学智能研发工厂”在上海落地，AI4S实现科研全流程无人干预",
-          "url": "https://wallstreetcn.com/livenews/3130047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "招商证券国际：腾讯混元Hy3跻身第一梯队 AI产品生态加速",
-          "url": "https://flash.jin10.com/detail/20260707121237234800",
+          "title": "微软部分应用改用自研AI 替代OpenAI和Anthropic",
+          "url": "https://flash.jin10.com/detail/20260708003008011800",
           "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "国家发展改革委披露人工智能产业“十五五”五大工作思路 强化模型、算力、数据等关键技术攻关",
-          "url": "https://wallstreetcn.com/livenews/3129745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "【腾讯正式发布升级版人工智能模型混元Hy3】腾讯在微信公众号发布声明，正式发布混元模型Hy3。声明称，Hy3是在今年4月发布的预览版基础上的升级版本。",
-          "url": "https://wallstreetcn.com/livenews/3129495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "初步预测今年我国人工智能相关产业规模将有30%以上增速",
-          "url": "https://wallstreetcn.com/livenews/3129741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "上海市消保委：今年上半年共享租赁和AI相关投诉频发",
-          "url": "https://wallstreetcn.com/livenews/3130042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850566&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/1kpbDlnwLmXOUl-HjThIH.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260707121115593800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "前苹果员工创办的中国AI眼镜公司获腾讯、美团投资，估值达10亿美元",
-          "url": "https://wallstreetcn.com/livenews/3129608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "黑石出售 3 处数据中心，又叫停全球最大数据中心建设，这对「AI 经济」影响几何？",
-          "url": "https://www.zhihu.com/question/2057382041294054519",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "报道：智谱考虑自研AI芯片",
-          "url": "https://wallstreetcn.com/livenews/3130039",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "英伟达回应AI服务器架构延后的报道，称：公司路线图保持不变",
-          "url": "https://wallstreetcn.com/livenews/3129491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "01时21分"
         },
         {
-          "title": "据英国金融时报：前OpenAI研究员管理的对冲基金Situational Awareness与英国投资机构Baillie Gifford等机构拟认购约70亿美元SK海力士纳斯达克IPO股份。",
-          "url": "https://flash.jin10.com/detail/20260707024555773800",
+          "title": "市场消息：微软(MSFT.O)在部分应用中以自研AI模型取代OpenAI和Anthropic的模型。<br/>",
+          "url": "https://flash.jin10.com/detail/20260708002232140800",
           "source": "金十数据",
           "ranks": [
-            24
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "Alphabet旗下谷歌公司宣布，已向总部位于德国的Proxima Fusion提供4.11亿欧元（约合4.68亿美元）的融资，支持其建造欧洲首座商业聚变发电厂。",
-          "url": "https://wallstreetcn.com/livenews/3130034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "国家发展改革委披露人工智能产业“十五五”五大工作思路",
-          "url": "https://flash.jin10.com/detail/20260707115944634800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "三星二季度运营利润同比激增超1800%，AI需求继续提振存储芯片价格",
-          "url": "https://wallstreetcn.com/livenews/3129593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "【央视网评：斩断“低俗赌约” 莫把股市当赌场】“央视网评”公众号发文称，近日，中公教育、共进股份等股票因股吧平台内的“低俗赌约”，引发股民的网络狂欢，前者4天内2个涨停，后者亦有1个涨停，接连上演了荒诞的股价异动戏码。这场靠“低俗赌约”撬动的股价异动，在监管的果断介入下被及时按下“暂停键”。 此类“低俗赌约”具有极强的夸大性与误导性：“一年20倍”等纯属夸张，低俗的“钩子”在传播过程中更被强行关联“有色”、AI硬件等热点概念，严重干扰投资者决策。这种流量炒作比股市“小作文”更为隐蔽：甚至无需捏造具体的利好谎言，只要足够低俗猎奇，猎奇心理和算法推荐机制就会替其将“误导性”放大。 投资者也要更清醒：在拿股吧赌约当买入逻辑之前，应先审视自身交易行为是否理性，是否会触碰红线。价格发现是资本市场的核心功能，容不下半点低俗流量的绑架。摒弃博傻心理，回归理性投资，才是长久之道。",
-          "url": "https://wallstreetcn.com/livenews/3129789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "李开复：AI迈入决策时代，一号位主导推进AI将改善经营业绩表现",
-          "url": "https://wallstreetcn.com/livenews/3130028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "高盛：AI投资重心迈向实体产业，未来6年资本开支或达7.6万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3129433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "马斯克旗下太空探索公司SpaceX跌幅扩大至5%。",
-          "url": "https://wallstreetcn.com/livenews/3130049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "马斯克：Grok Imagine更新。",
-          "url": "https://wallstreetcn.com/livenews/3129788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "马斯克部分推翻“推特机器人案”陪审团裁决。（彭博法律Blaw）",
-          "url": "https://wallstreetcn.com/livenews/3129479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "01时21分"
         }
       ]
     }
