@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T12:17:40.137501+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-07-08T15:32:34.279530+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
@@ -18,8 +18,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 12时17分]"
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 15时32分]"
+        },
+        {
+          "title": "2026人工智能大会将启幕",
+          "url": "https://www.douyin.com/hot/2562850",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 15时32分]"
+        },
+        {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 15时32分]"
         },
         {
           "title": "谷歌发布会定档8月12日，将发布Pixel 11系列手机",
@@ -28,7 +51,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -39,20 +62,33 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
         {
-          "title": "2026人工智能大会将启幕",
-          "url": "https://www.douyin.com/hot/2562850",
-          "source": "抖音",
+          "title": "人社部：到2030年人社行业大模型成熟完备，人工智能应用体系基本健全",
+          "url": "https://wallstreetcn.com/livenews/3130471",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时17分"
+          "time_info": "15时32分"
+        },
+        {
+          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
+          "url": "https://www.cls.cn/detail/2419782",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 15时32分]"
         },
         {
           "title": "SpaceX申请部署10万颗卫星 建立面向AI时代的空基通信底座",
@@ -61,7 +97,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -72,18 +108,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -100,25 +125,13 @@
           "time_info": "[06时14分 ~ 08时02分]"
         },
         {
-          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
-          "url": "https://www.cls.cn/detail/2419782",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 12时17分]"
-        },
-        {
           "title": "港股午评：科指半日涨4.3%重回4700点上方 人工智能板块领涨",
           "url": "https://flash.jin10.com/detail/20260708120242763800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -132,6 +145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "人社部：建立人社行业领域人工智能应用协调机制，积极拓宽资金支持渠道",
+          "url": "https://wallstreetcn.com/livenews/3130465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
@@ -162,9 +186,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        },
+        {
+          "title": "人社部：加快建立人工智能就业影响评估体系，引导创新资源向创造就业潜力大的方向倾斜",
+          "url": "https://wallstreetcn.com/livenews/3130464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "人社部：搭建人工智能应用平台，建设行业高质量数据集和人工智能语料库",
+          "url": "https://wallstreetcn.com/livenews/3130463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "微软在部分应用中以自研AI模型替代OpenAI和Anthropic",
@@ -228,7 +274,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -275,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "三星电子支持的韩国AI芯片创企Rebellions计划明年在韩IPO",
+          "url": "https://wallstreetcn.com/livenews/3130444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         }
       ]
     }
