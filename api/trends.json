@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T15:51:55.076660+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-07-09T19:08:53.705434+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "我国人工智能产业加速发展壮大",
@@ -19,6 +19,20 @@
           "time_info": "[01时43分 ~ 07时12分]"
         },
         {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            22,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 19时08分]"
+        },
+        {
           "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
           "url": "https://wallstreetcn.com/articles/3776428",
           "source": "华尔街见闻",
@@ -27,19 +41,6 @@
             9,
             8,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 15时51分]"
-        },
-        {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            22,
-            26
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -59,6 +60,31 @@
           "time_info": "[01时43分 ~ 15时51分]"
         },
         {
+          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
+          "url": "https://wallstreetcn.com/articles/3776500",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 19时08分]"
+        },
+        {
+          "title": "高盛重磅发声：做多中国AI价值链",
+          "url": "https://www.cls.cn/detail/2421215",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 19时08分]"
+        },
+        {
           "title": "AI芯片公司Positron洽谈约7.5亿美元融资 估值最高或达50亿美元",
           "url": "https://flash.jin10.com/detail/20260709070516668800",
           "source": "金十数据",
@@ -68,17 +94,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "高盛重磅发声：做多中国AI价值链",
-          "url": "https://www.cls.cn/detail/2421215",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
         },
         {
           "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
@@ -93,16 +108,15 @@
           "time_info": "[01时43分 ~ 07时12分]"
         },
         {
-          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
-          "url": "https://wallstreetcn.com/articles/3776500",
+          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
+          "url": "https://wallstreetcn.com/articles/3776526",
           "source": "华尔街见闻",
           "ranks": [
-            7,
             5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 15时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "据CNBC：贝莱德全球固定收益首席投资官里德表示，已降低并重新调整对与人工智能直接相关公司的投资敞口。",
@@ -125,6 +139,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "首次！美联储将AI投资列为三大通胀主要风险之一",
+          "url": "https://www.cls.cn/detail/2421292",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 19时08分]"
         },
         {
           "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
@@ -173,6 +199,18 @@
           "time_info": "[11时41分 ~ 15时51分]"
         },
         {
+          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
+          "url": "https://wallstreetcn.com/articles/3776515",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 19时08分]"
+        },
+        {
           "title": "英伟达估值跌回AI热潮前 华尔街看多热情未减",
           "url": "https://www.cls.cn/detail/2420934",
           "source": "财联社热门",
@@ -182,17 +220,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 11时42分]"
-        },
-        {
-          "title": "首次！美联储将AI投资列为三大通胀主要风险之一",
-          "url": "https://www.cls.cn/detail/2421292",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
         },
         {
           "title": "OpenAI：将扩大与美国政府及盟友在关键防御领域的合作。",
@@ -206,15 +233,15 @@
           "time_info": "05时13分"
         },
         {
-          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
-          "url": "https://wallstreetcn.com/articles/3776515",
-          "source": "华尔街见闻",
+          "title": "文件显示：谷歌正寻求推翻一项印度法院关于其广告平台运营方式的裁决。谷歌辩称印度法院的这项裁决将赋予商标所有者对广告位的垄断权，从而损害消费者权益。",
+          "url": "https://flash.jin10.com/detail/20260709183227356800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时51分"
+          "time_info": "19时08分"
         },
         {
           "title": "外交部：愿以2026世界人工智能大会为契机推动人工智能普惠向善",
@@ -223,7 +250,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -234,7 +261,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -250,15 +277,48 @@
           "time_info": "05时13分"
         },
         {
+          "title": "星巴克借助AI减少对微软和IBM软件的依赖",
+          "url": "https://flash.jin10.com/detail/20260709183036556800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "外交部：愿以2026世界人工智能大会为契机，推动人工智能普惠向善",
           "url": "https://flash.jin10.com/detail/20260709152936797800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
+        },
+        {
+          "title": "科技股暴跌只是“健康回调”？美知名投行：AI主题拥有“绝对主导地位”！",
+          "url": "https://www.cls.cn/detail/2421277",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "工业富联：2026年上半年云服务商AI服务器营业收入同比增长超过230%",
+          "url": "https://wallstreetcn.com/livenews/3131285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "英伟达市值不到两个月蒸发 1 万亿美元，估值回落至人工智能热潮掀起之前的水平，算力龙头为何遭抛售？",
@@ -267,7 +327,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -325,6 +385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "星巴克(SBUX.O)借助人工智能减少对微软(MSFT.O)和IBM(IBM.N)软件的依赖。",
+          "url": "https://flash.jin10.com/detail/20260709181619065800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "华纳兄弟探索（WBD）与亚马逊旗下AWS开发Agentic AI广告体验。",
