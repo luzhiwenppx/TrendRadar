@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T11:42:01.577366+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-07-09T15:51:55.076660+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
           "title": "我国人工智能产业加速发展壮大",
@@ -25,11 +25,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 11时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 15时51分]"
         },
         {
           "title": "日本高中生携AI爆破被捕",
@@ -37,11 +38,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 11时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 15时51分]"
         },
         {
           "title": "日本合体搞AI试图突围中美",
@@ -49,11 +51,12 @@
           "source": "贴吧",
           "ranks": [
             19,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 11时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 15时51分]"
         },
         {
           "title": "AI芯片公司Positron洽谈约7.5亿美元融资 估值最高或达50亿美元",
@@ -67,6 +70,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "高盛重磅发声：做多中国AI价值链",
+          "url": "https://www.cls.cn/detail/2421215",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
           "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
           "url": "https://www.cls.cn/detail/2420504",
           "source": "财联社热门",
@@ -77,6 +91,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时43分 ~ 07时12分]"
+        },
+        {
+          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
+          "url": "https://wallstreetcn.com/articles/3776500",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 15时51分]"
         },
         {
           "title": "据CNBC：贝莱德全球固定收益首席投资官里德表示，已降低并重新调整对与人工智能直接相关公司的投资敞口。",
@@ -125,15 +151,26 @@
           "time_info": "[01时43分 ~ 05时13分]"
         },
         {
-          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
-          "url": "https://wallstreetcn.com/articles/3776500",
-          "source": "华尔街见闻",
+          "title": "美股AI牛市熄火？逾六成科技股“入熊”：较近期高点暴跌逾20%",
+          "url": "https://www.cls.cn/detail/2421094",
+          "source": "财联社热门",
           "ranks": [
-            7
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 15时51分]"
+        },
+        {
+          "title": "AI预测八强准确率近九成",
+          "url": "https://s.weibo.com/weibo?q=AI%E9%A2%84%E6%B5%8B%E5%85%AB%E5%BC%BA%E5%87%86%E7%A1%AE%E7%8E%87%E8%BF%91%E4%B9%9D%E6%88%90&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 15时51分]"
         },
         {
           "title": "英伟达估值跌回AI热潮前 华尔街看多热情未减",
@@ -147,26 +184,15 @@
           "time_info": "[11时41分 ~ 11时42分]"
         },
         {
-          "title": "美股AI牛市熄火？逾六成科技股“入熊”：较近期高点暴跌逾20%",
-          "url": "https://www.cls.cn/detail/2421094",
+          "title": "首次！美联储将AI投资列为三大通胀主要风险之一",
+          "url": "https://www.cls.cn/detail/2421292",
           "source": "财联社热门",
           "ranks": [
-            13
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
-        },
-        {
-          "title": "AI预测八强准确率近九成",
-          "url": "https://s.weibo.com/weibo?q=AI%E9%A2%84%E6%B5%8B%E5%85%AB%E5%BC%BA%E5%87%86%E7%A1%AE%E7%8E%87%E8%BF%91%E4%B9%9D%E6%88%90&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "OpenAI：将扩大与美国政府及盟友在关键防御领域的合作。",
@@ -180,6 +206,39 @@
           "time_info": "05时13分"
         },
         {
+          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
+          "url": "https://wallstreetcn.com/articles/3776515",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
+          "title": "外交部：愿以2026世界人工智能大会为契机推动人工智能普惠向善",
+          "url": "https://wallstreetcn.com/livenews/3131172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
+          "title": "创业板涨超4%，科创50狂飙7%，中芯国际市值超贵州茅台，AI大模型双雄分化，智谱涨5%、MINIMAX大跌20%",
+          "url": "https://wallstreetcn.com/articles/3776526",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
           "title": "OpenAI：发布国家安全原则文件。",
           "url": "https://flash.jin10.com/detail/20260709043809283800",
           "source": "金十数据",
@@ -189,6 +248,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "外交部：愿以2026世界人工智能大会为契机，推动人工智能普惠向善",
+          "url": "https://flash.jin10.com/detail/20260709152936797800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
+          "title": "英伟达市值不到两个月蒸发 1 万亿美元，估值回落至人工智能热潮掀起之前的水平，算力龙头为何遭抛售？",
+          "url": "https://www.zhihu.com/question/2058280043265143682",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "SpaceXAI与Cursor联合发布Grok AI模型，主打法律与金融任务",
@@ -219,7 +300,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
