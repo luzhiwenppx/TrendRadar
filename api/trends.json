@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-13T06:56:37.067045+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-07-13T08:01:50.206986+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "人口第一大国，被AI做空了",
           "url": "https://wallstreetcn.com/articles/3776722",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 08时01分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -27,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 08时01分]"
         },
         {
           "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
@@ -38,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 08时01分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -61,8 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 08时01分]"
         },
         {
           "title": "AI是如何“杀死”印度IT行业的",
@@ -73,8 +74,19 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 06时56分]"
+          "appearance_count": 3,
+          "time_info": "[04时56分 ~ 08时01分]"
+        },
+        {
+          "title": "OpenAI宣称攻克CDC猜想",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E7%A7%B0%E6%94%BB%E5%85%8BCDC%E7%8C%9C%E6%83%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         }
       ]
     }
