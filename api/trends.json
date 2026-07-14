@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T17:08:05.346993+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-07-14T19:28:09.594878+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
         {
           "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -92,11 +92,74 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%96%91AI%E7%85%A7%E7%89%87%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时07分 ~ 19时28分]"
+        },
+        {
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时15分 ~ 19时28分]"
+        },
+        {
+          "title": "AI生成环卫工照片获摄影比赛一等奖",
+          "url": "https://www.toutiao.com/trending/7662295509886697491/",
+          "source": "今日头条",
+          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时07分 ~ 17时08分]"
+          "time_info": "[19时27分 ~ 19时28分]"
+        },
+        {
+          "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时07分 ~ 19时28分]"
+        },
+        {
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 19时28分]"
+        },
+        {
+          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 19时28分]"
         },
         {
           "title": "韩国政府拟对几家参与政府AI项目的企业发放英伟达GPU",
@@ -108,18 +171,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
-        },
-        {
-          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
-          "url": "https://www.zhihu.com/question/2059349642496710015",
-          "source": "知乎",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时15分 ~ 17时08分]"
         },
         {
           "title": "美国总统特朗普：将摧毁“镐头山”（Pickaxe Mountain），并警告伊朗做好准备。",
@@ -158,19 +209,6 @@
           "time_info": "[05时01分 ~ 06时04分]"
         },
         {
-          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 17时08分]"
-        },
-        {
           "title": "台风淹水致商铺狼藉图片为AI合成",
           "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%B7%B9%E6%B0%B4%E8%87%B4%E5%95%86%E9%93%BA%E7%8B%BC%E8%97%89%E5%9B%BE%E7%89%87%E4%B8%BAAI%E5%90%88%E6%88%90",
           "source": "百度热搜",
@@ -182,16 +220,16 @@
           "time_info": "[11时16分 ~ 17时08分]"
         },
         {
-          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
-          "source": "澎湃新闻",
+          "title": "AI短剧为何共用一张脸",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E4%B8%BA%E4%BD%95%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8",
+          "source": "百度热搜",
           "ranks": [
-            17,
-            14
+            20,
+            30
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时16分 ~ 17时08分]"
+          "time_info": "[17时07分 ~ 19时28分]"
         },
         {
           "title": "AI脸 恐怖谷效应",
@@ -206,15 +244,26 @@
           "time_info": "[14时15分 ~ 17时08分]"
         },
         {
-          "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
-          "url": "https://wallstreetcn.com/articles/3776859",
+          "title": "AI生成图片被评摄影一等奖 官方通报",
+          "url": "https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E8%A2%AB%E8%AF%84%E6%91%84%E5%BD%B1%E4%B8%80%E7%AD%89%E5%A5%96+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时28分]"
+        },
+        {
+          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
+          "url": "https://wallstreetcn.com/articles/3776903",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时07分 ~ 17时08分]"
+          "time_info": "[19时27分 ~ 19时28分]"
         },
         {
           "title": "AI杀死时尚行业",
@@ -226,6 +275,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时07分 ~ 17时08分]"
+        },
+        {
+          "title": "孙正义：核聚变是人工智能未来的关键 15年后将取代天然气",
+          "url": "https://www.cls.cn/detail/2425710",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时28分]"
         },
         {
           "title": "中国自研AI芯片取得架构突破",
@@ -262,17 +322,6 @@
           "time_info": "[17时07分 ~ 17时08分]"
         },
         {
-          "title": "AI短剧为何共用一张脸",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E4%B8%BA%E4%BD%95%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 17时08分]"
-        },
-        {
           "title": "疑AI生成环卫工照片获摄影比赛一等奖",
           "url": "https://www.baidu.com/s?wd=%E7%96%91AI%E7%94%9F%E6%88%90%E7%8E%AF%E5%8D%AB%E5%B7%A5%E7%85%A7%E7%89%87%E8%8E%B7%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96",
           "source": "百度热搜",
@@ -282,6 +331,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时07分 ~ 17时08分]"
+        },
+        {
+          "title": "AI预测法国vs西班牙赛果",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时28分]"
         },
         {
           "title": "AI时代CPU为何翻红",
@@ -389,7 +449,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -433,7 +493,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -447,6 +507,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "Plus图示：AI需求推高美通胀，但影响或接近触顶",
+          "url": "https://flash.jin10.com/detail/20260714184820271800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         }
       ]
     },
