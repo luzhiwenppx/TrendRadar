@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T15:25:50.257190+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-07-16T18:14:03.220104+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 51,
+      "match_count": 58,
       "titles": [
         {
           "title": "5张图看懂中国人工智能进化之路",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时21分 ~ 15时25分]"
+          "appearance_count": 11,
+          "time_info": "[01时21分 ~ 18时14分]"
         },
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -29,6 +29,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时21分 ~ 08时07分]"
+        },
+        {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时01分 ~ 18时14分]"
         },
         {
           "title": "国行苹果AI完成备案",
@@ -61,36 +75,37 @@
           "time_info": "[01时21分 ~ 15时25分]"
         },
         {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
+          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
+          "url": "https://wallstreetcn.com/articles/3777063",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            5,
-            4
+            4,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时01分 ~ 15时25分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 18时14分]"
+        },
+        {
+          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时01分 ~ 18时14分]"
         },
         {
           "title": "全球人工智能 进入“上海时间”",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%E8%BF%9B%E5%85%A5%E2%80%9C%E4%B8%8A%E6%B5%B7%E6%97%B6%E9%97%B4%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 15时25分]"
-        },
-        {
-          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
-          "url": "https://wallstreetcn.com/articles/3777063",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
             3
           ],
           "is_new": false,
@@ -108,6 +123,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时12分 ~ 15时25分]"
+        },
+        {
+          "title": "据英国金融时报：中国人工智能初创公司月之暗面计划在未来几天内发布Kimi K3，该模型参数规模达2万亿至3万亿，将成为中国迄今最大的AI模型。",
+          "url": "https://flash.jin10.com/detail/20260716175440934800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "美联储理事库克：AI建设与供应冲击都在驱动通胀风险。",
@@ -132,6 +158,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时21分 ~ 07时02分]"
+        },
+        {
+          "title": "据英国金融时报：中国人工智能初创公司月之暗面将推出新模型，挑战Anthropic的领先地位。",
+          "url": "https://flash.jin10.com/detail/20260716175410630800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "SPACEXAI：开源Grok Build，SPACEXAI的编码代理和TUI。",
@@ -175,22 +212,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
-        },
-        {
-          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时01分 ~ 15时25分]"
         },
         {
           "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
@@ -203,6 +227,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时05分 ~ 07时02分]"
+        },
+        {
+          "title": "花钱就看这?功夫女足公开用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 18时14分]"
+        },
+        {
+          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 18时14分]"
         },
         {
           "title": "周三（7月15日），美股超大规模云服务商（Hyperscalers）涨3.10%，报96.09点。 成分股普遍收涨，甲骨文、谷歌A、Meta、亚马逊涨3.56%-3.02%，微软涨2.78%。",
@@ -228,18 +277,6 @@
           "time_info": "[12时12分 ~ 15时25分]"
         },
         {
-          "title": "花钱就看这?功夫女足公开用AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 15时25分]"
-        },
-        {
           "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
           "url": "https://www.cls.cn/detail/2427717",
           "source": "财联社热门",
@@ -250,6 +287,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时12分 ~ 15时25分]"
+        },
+        {
+          "title": "披着AI外衣的现实短片",
+          "url": "https://www.douyin.com/hot/2573340",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
+        },
+        {
+          "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590679",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
         },
         {
           "title": "据The Information：为推动公司安全体系和人工智能转型，微软(MSFT.O)新任安全负责人海耶特·加洛特已替换至少8名曾向前任安全负责人查理·贝尔汇报的高管。",
@@ -291,7 +350,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -401,7 +460,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -412,7 +471,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -423,18 +482,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -516,6 +564,17 @@
           "time_info": "12时12分"
         },
         {
+          "title": "外交部：愿同各方提升全球人工智能创新发展水平",
+          "url": "https://wallstreetcn.com/livenews/3134963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "英伟达(NVDA.O)：日本公司正在使用英伟达的Nemotron以构建人工智能模型。",
           "url": "https://flash.jin10.com/detail/20260716070209815800",
           "source": "金十数据",
@@ -558,6 +617,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "上海市新增4款已完成登记的生成式人工智能服务",
+          "url": "https://wallstreetcn.com/livenews/3134956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "百度文库、网盘将亮相WAIC2026GenFlow将面向专业人群升级上线独立AI产品",
+          "url": "https://flash.jin10.com/detail/20260716173116060800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "报告：阿里领跑中国AI编程市场，份额超第二至第五名总和",
