@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T20:23:34.340074+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-07-16T23:07:29.998974+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 70,
+      "match_count": 77,
       "titles": [
         {
           "title": "5张图看懂中国人工智能进化之路",
@@ -38,11 +38,12 @@
             10,
             9,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时01分 ~ 20时23分]"
+          "appearance_count": 9,
+          "time_info": "[07时01分 ~ 23时07分]"
         },
         {
           "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
@@ -55,8 +56,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时12分 ~ 20时23分]"
+          "appearance_count": 6,
+          "time_info": "[12时12分 ~ 23时07分]"
         },
         {
           "title": "国行苹果AI完成备案",
@@ -114,6 +115,17 @@
           "time_info": "[12时12分 ~ 15时25分]"
         },
         {
+          "title": "世界人工智能合作组织协定签署",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E5%8D%8F%E5%AE%9A%E7%AD%BE%E7%BD%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "据英国金融时报：中国人工智能初创公司月之暗面计划在未来几天内发布Kimi K3，该模型参数规模达2万亿至3万亿，将成为中国迄今最大的AI模型。",
           "url": "https://flash.jin10.com/detail/20260716175440934800",
           "source": "金十数据",
@@ -162,6 +174,31 @@
           "time_info": "[12时12分 ~ 20时23分]"
         },
         {
+          "title": "花钱就看这?功夫女足公开用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            13,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时12分 ~ 23时07分]"
+        },
+        {
+          "title": "世界人工智能合作组织协定签署仪式举行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33599928",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "据英国金融时报：中国人工智能初创公司月之暗面将推出新模型，挑战Anthropic的领先地位。",
           "url": "https://flash.jin10.com/detail/20260716175410630800",
           "source": "金十数据",
@@ -179,9 +216,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
+          "url": "https://www.cls.cn/detail/2428746",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "报告称AI收入已达临界点 开始证明数据中心投资的经济合理性",
@@ -190,7 +238,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -241,18 +289,18 @@
           "time_info": "15时25分"
         },
         {
-          "title": "花钱就看这?功夫女足公开用AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
-          "source": "贴吧",
+          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            13,
-            18,
-            22
+            20,
+            16,
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时12分 ~ 20时23分]"
+          "time_info": "[15时25分 ~ 23时07分]"
         },
         {
           "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
@@ -267,19 +315,6 @@
           "time_info": "[05时05分 ~ 07时02分]"
         },
         {
-          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 20时23分]"
-        },
-        {
           "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
           "url": "https://m.thepaper.cn/newsDetail_forward_33590679",
           "source": "澎湃新闻",
@@ -288,8 +323,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 20时23分]"
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 23时07分]"
         },
         {
           "title": "披着AI外衣的现实短片",
@@ -378,9 +413,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "玉渊谭天丨中国AI的发展逻辑",
+          "url": "https://wallstreetcn.com/livenews/3135148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "台积电上调销售和支出展望 再添AI需求持续迹象",
@@ -400,9 +446,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "选民炸锅！AI数据中心从地方争端升级成政治火药桶",
+          "url": "https://flash.jin10.com/detail/20260716222937201800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "xAI：Grok Build现在开源",
@@ -433,7 +490,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -466,9 +523,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "美银CEO加入警告“Mythos”AI风险的银行高管行列",
+          "url": "https://flash.jin10.com/detail/20260716222023330800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "AI 时代，更稀缺的是「提出好问题」还是「判断好答案」?",
@@ -510,9 +578,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "经纬度：在上海，WAIC见证人工智能改变未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583299",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "FuriosaAI CEO：2030年AI推理芯片市场规模有望达数千万亿韩元",
@@ -587,7 +666,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -642,7 +721,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -708,7 +787,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -719,7 +798,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -785,7 +864,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -824,7 +903,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         }
