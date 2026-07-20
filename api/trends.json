@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T02:56:41.302764+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-07-21T04:25:10.493677+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时25分]"
         },
         {
           "title": "今天为什么需要世界人工智能大会",
@@ -26,19 +26,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时25分]"
         },
         {
           "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
           "url": "https://wallstreetcn.com/articles/3777388",
           "source": "华尔街见闻",
           "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时25分]"
+        },
+        {
+          "title": "清华姚班 全球AI半壁江山",
+          "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%20%E5%85%A8%E7%90%83AI%E5%8D%8A%E5%A3%81%E6%B1%9F%E5%B1%B1&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时25分]"
         },
         {
           "title": "SpaceXAI：Grok for Excel是一款免费的Microsoft 365插件。",
@@ -52,18 +65,6 @@
           "time_info": "00时27分"
         },
         {
-          "title": "清华姚班 全球AI半壁江山",
-          "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%20%E5%85%A8%E7%90%83AI%E5%8D%8A%E5%A3%81%E6%B1%9F%E5%B1%B1&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时56分]"
-        },
-        {
           "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
           "source": "澎湃新闻",
@@ -72,8 +73,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时25分]"
         },
         {
           "title": "AI不准用,日本漫画家被迫停更",
@@ -84,19 +85,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时56分]"
-        },
-        {
-          "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
-          "url": "https://wallstreetcn.com/articles/3777377",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时25分]"
         },
         {
           "title": "王祖贤肖像授权网易AI",
@@ -107,8 +97,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时25分]"
         },
         {
           "title": "建议普通人都尽早用上AI",
@@ -116,7 +106,19 @@
           "source": "微博",
           "ranks": [
             28,
-            23
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时25分]"
+        },
+        {
+          "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
+          "url": "https://wallstreetcn.com/articles/3777377",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -151,7 +153,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -192,8 +194,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时25分]"
         }
       ]
     }
