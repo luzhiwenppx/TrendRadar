@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T11:35:55.091586+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2026-07-21T14:33:27.561922+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 28,
+      "match_count": 34,
       "titles": [
         {
           "title": "今天为什么需要世界人工智能大会",
@@ -27,8 +27,36 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 11时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 14时33分]"
+        },
+        {
+          "title": "AI不准用,日本漫画家被迫停更",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 14时33分]"
+        },
+        {
+          "title": "王祖贤肖像授权网易AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 14时33分]"
         },
         {
           "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
@@ -56,32 +84,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 08时01分]"
-        },
-        {
-          "title": "AI不准用,日本漫画家被迫停更",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 11时35分]"
-        },
-        {
-          "title": "王祖贤肖像授权网易AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 11时35分]"
         },
         {
           "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
@@ -121,26 +123,15 @@
           "time_info": "[07时59分 ~ 08时01分]"
         },
         {
-          "title": "OpenAI高管炮轰Kimi",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%AB%98%E7%AE%A1%E7%82%AE%E8%BD%B0Kimi",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
           "title": "超节点、超集群、TPU方案涌现 算力“拼系统”时代产业最关心Token性价比|WAIC观察",
           "url": "https://www.cls.cn/detail/2432010",
           "source": "财联社热门",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 14时33分]"
         },
         {
           "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
@@ -149,9 +140,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 14时33分]"
+        },
+        {
+          "title": "OpenAI高管炮轰Kimi",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%AB%98%E7%AE%A1%E7%82%AE%E8%BD%B0Kimi",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
+        },
+        {
+          "title": "Rain喊话NiKo大表哥对决",
+          "url": "https://search.bilibili.com/all?keyword=Rain%E5%96%8A%E8%AF%9DNiKo%E5%A4%A7%E8%A1%A8%E5%93%A5%E5%AF%B9%E5%86%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "SpaceXAI：Grok for Excel是一款免费的Microsoft 365插件。",
@@ -165,15 +178,27 @@
           "time_info": "00时27分"
         },
         {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
+          "title": "AI前沿日报-7月21日",
+          "url": "https://flash.jin10.com/detail/20260721141955695800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时35分"
+          "time_info": "14时33分"
+        },
+        {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 14时33分]"
         },
         {
           "title": "WAIC机器人格斗拳拳到铁",
@@ -185,6 +210,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时56分 ~ 08时01分]"
+        },
+        {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 14时33分]"
+        },
+        {
+          "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
+          "url": "https://www.zhihu.com/question/2062575282591209175",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 14时33分]"
         },
         {
           "title": "“七巨头”时代终结？分析师：这一概念已不再适用 AI投资逻辑正在重构",
@@ -210,6 +258,17 @@
           "time_info": "[00时27分 ~ 02时56分]"
         },
         {
+          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 14时33分]"
+        },
+        {
           "title": "SpaceXAI：正在将Grok引入Microsoft Excel。Grok现已可用于Word和PowerPoint。",
           "url": "https://flash.jin10.com/detail/20260720235011775800",
           "source": "金十数据",
@@ -221,26 +280,15 @@
           "time_info": "00时27分"
         },
         {
-          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
-          "url": "https://wallstreetcn.com/articles/3777467",
-          "source": "华尔街见闻",
+          "title": "抛售已近尾声？瑞银喊话：逢低买入AI与半导体股时机已到",
+          "url": "https://www.cls.cn/detail/2432258",
+          "source": "财联社热门",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
-          "url": "https://www.zhihu.com/question/2062575282591209175",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
+          "time_info": "14时33分"
         },
         {
           "title": "xAI为微软Excel推出Grok插件",
@@ -252,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
+          "url": "https://wallstreetcn.com/articles/3777491",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
@@ -276,15 +335,15 @@
           "time_info": "06时05分"
         },
         {
-          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
-          "source": "澎湃新闻",
+          "title": "AI 的「最后一公里」，还要走多久？",
+          "url": "https://www.zhihu.com/question/2058520434031555606",
+          "source": "知乎",
           "ranks": [
-            18
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时35分"
+          "time_info": "14时33分"
         },
         {
           "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
@@ -296,6 +355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "对话︱图灵奖得主萨顿：智慧并不等于知识的堆砌，AI迈向“经验时代”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33620327",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "美国总统特朗普的AI安全部门主管离职。（Axios）",
@@ -315,7 +385,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -334,7 +404,7 @@
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "机器人断头反杀看乐马斯克",
@@ -343,11 +413,12 @@
           "ranks": [
             18,
             20,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 11时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 14时33分]"
         },
         {
           "title": "Kimi称欢迎马斯克加入",
@@ -356,9 +427,37 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
+        },
+        {
+          "title": "月之暗面回应马斯克：欢迎掰手腕",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E5%9B%9E%E5%BA%94%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E6%AC%A2%E8%BF%8E%E6%8E%B0%E6%89%8B%E8%85%95",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 有色金属 铜",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股电力板块探底回升，华银电力3连板，金开新能、京能电力、华电辽能、晋控电力、华能蒙电跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3137333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         }
       ]
     }
