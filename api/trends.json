@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-07-23T06:08:39.403466+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-07-23T08:04:07.945883+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 27,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
+          "url": "https://www.cls.cn/detail/2434359",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 08时04分]"
+        },
+        {
+          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
+          "url": "https://wallstreetcn.com/articles/3777699",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 08时04分]"
+        },
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
           "url": "https://wallstreetcn.com/articles/3777614",
@@ -19,40 +44,30 @@
           "time_info": "[00时22分 ~ 06时08分]"
         },
         {
-          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
-          "url": "https://www.cls.cn/detail/2434359",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时08分]"
-        },
-        {
-          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
-          "url": "https://wallstreetcn.com/articles/3777699",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时08分]"
-        },
-        {
           "title": "为什么要说尽量少跟AI倾诉聊天",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
             8,
             4,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 08时04分]"
+        },
+        {
+          "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777680",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 08时04分]"
         },
         {
           "title": "用AI通关高难度跑步游戏",
@@ -63,8 +78,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 08时04分]"
+        },
+        {
+          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
+          "url": "https://www.zhihu.com/question/2063264614834336987",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 08时04分]"
         },
         {
           "title": "别再给AI乱传文件了",
@@ -74,46 +103,114 @@
             1,
             6,
             9,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时08分]"
-        },
-        {
-          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
-          "url": "https://www.zhihu.com/question/2063264614834336987",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时08分]"
-        },
-        {
-          "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777680",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 08时04分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
           "url": "https://wallstreetcn.com/articles/3777627",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 08时04分]"
+        },
+        {
+          "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
+          "url": "https://www.cls.cn/detail/2434259",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 08时04分]"
+        },
+        {
+          "title": "OpenAI遭遇史上首次评测失控事故",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E9%81%AD%E9%81%87%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%A1%E8%AF%84%E6%B5%8B%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 08时04分]"
+        },
+        {
+          "title": "OpenAI现安全事故中国大模型救场",
+          "url": "https://www.toutiao.com/trending/7664873281528512575/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
+        },
+        {
+          "title": "OpenAI模型失控闯祸 中国大模型救场",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E9%97%AF%E7%A5%B8+%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%95%91%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
+        },
+        {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
+        },
+        {
+          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
+          "url": "https://www.cls.cn/detail/2434518",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
+        },
+        {
+          "title": "谷歌财报",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E8%B4%A2%E6%8A%A5&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
+        },
+        {
+          "title": "谷歌二季度自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777718",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
         },
         {
           "title": "谷歌母公司Alphabet：Gemini APP月活用户数（Maus）达到9.5亿。",
@@ -140,34 +237,11 @@
           "time_info": "[00时22分 ~ 06时08分]"
         },
         {
-          "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
-          "url": "https://www.cls.cn/detail/2434259",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时08分]"
-        },
-        {
           "title": "前所未有的人工智能失控事故！中方救场",
           "url": "https://news.ifeng.com/c/8uyRMC8mtQh",
           "source": "凤凰网",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时08分]"
-        },
-        {
-          "title": "OpenAI遭遇史上首次评测失控事故",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E9%81%AD%E9%81%87%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%A1%E8%AF%84%E6%B5%8B%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85",
-          "source": "百度热搜",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -185,13 +259,24 @@
           "time_info": "04时14分"
         },
         {
+          "title": "谷歌A二季度分析师电话会要点总结",
+          "url": "https://wallstreetcn.com/livenews/3138469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "谷歌母公司Alphabet的CFO：收购Wiz对谷歌云利润构成拖累。",
           "url": "https://wallstreetcn.com/livenews/3138425",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -201,11 +286,34 @@
           "source": "知乎",
           "ranks": [
             16,
-            14
+            14,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时13分 ~ 06时08分]"
+          "appearance_count": 5,
+          "time_info": "[04时13分 ~ 08时04分]"
+        },
+        {
+          "title": "谷歌盘后大跌！全年资本开支上调8%，CFO称继续加大投入",
+          "url": "https://wallstreetcn.com/articles/3777723",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
+        },
+        {
+          "title": "OpenAI模型“越狱”攻击，救场的竟是中国AI工具",
+          "url": "https://news.ifeng.com/c/8uyaFs12NfO",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
         },
         {
           "title": "AI基础设施概念股盘后大涨，谷歌母公司在电话会上谈及产能扩张",
@@ -214,7 +322,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -225,7 +333,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -239,6 +347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "市场消息：OpenAI澳大利亚数据中心的开发商放弃了使用再生水进行冷却的计划。",
+          "url": "https://flash.jin10.com/detail/20260723070044363800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "OpenAI：将向国家实验室和大学中约2000名“创世使命”研究人员提供400万美元的Codex访问权限。",
@@ -258,7 +377,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -269,7 +388,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -302,7 +421,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -313,7 +432,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         }
@@ -321,19 +440,8 @@
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "特斯拉美股盘后维持下跌3%的状态，马斯克在电话会议上讲话。",
-          "url": "https://wallstreetcn.com/livenews/3138429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
         {
           "title": "马斯克母亲吐槽纽约脏乱差",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356390&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E4%BA%B2%E5%90%90%E6%A7%BD%E7%BA%BD%E7%BA%A6%E8%84%8F%E4%B9%B1%E5%B7%AE",
@@ -342,8 +450,30 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 08时04分]"
+        },
+        {
+          "title": "特斯拉美股盘后维持下跌3%的状态，马斯克在电话会议上讲话。",
+          "url": "https://wallstreetcn.com/livenews/3138429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "马斯克：美光向特斯拉提供了“大量”存储芯片",
+          "url": "https://flash.jin10.com/detail/20260723071555633800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "马斯克：特斯拉仍然在谋划“重大资本开支年”。",
@@ -352,7 +482,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -363,7 +493,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -374,7 +504,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -385,7 +515,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -396,7 +526,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -407,7 +537,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -418,7 +548,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -429,7 +559,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -451,7 +581,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -462,7 +592,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -473,7 +603,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -484,9 +614,64 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "马斯克：特斯拉正在进行二战以来美国最快的工业规模扩张。 我们试图在美国生产大量光伏产品。",
+          "url": "https://wallstreetcn.com/livenews/3138455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)CEO马斯克：预计Semi卡车将在今年年底或明年年初配备自动驾驶技术。",
+          "url": "https://flash.jin10.com/detail/20260723062308970800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)CEO马斯克：特斯拉与SpaceX之间的重叠之处正日益增多。无法在财报电话会议上谈论潜在合并特斯拉与SpaceX的事宜。",
+          "url": "https://flash.jin10.com/detail/20260723061234267800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "马斯克：无法在电话会上评论特斯拉与SpaceX之间潜在的合并问题。",
+          "url": "https://wallstreetcn.com/livenews/3138444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "马斯克表示身体不适，在回答有关供应商满足Optimus需求的问题时称自己“今天有点病”。",
+          "url": "https://wallstreetcn.com/livenews/3138443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         }
       ]
     }
