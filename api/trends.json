@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-24T15:37:17.429657+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-07-24T18:23:56.934991+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 59,
+      "match_count": 65,
       "titles": [
+        {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时00分 ~ 18时23分]"
+        },
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3777718",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时27分 ~ 08时08分]"
-        },
-        {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时00分 ~ 15时37分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
@@ -43,6 +43,21 @@
           "time_info": "[01时27分 ~ 08时08分]"
         },
         {
+          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时27分 ~ 18时23分]"
+        },
+        {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
           "url": "https://wallstreetcn.com/articles/3777614",
           "source": "华尔街见闻",
@@ -52,20 +67,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时27分 ~ 07时01分]"
-        },
-        {
-          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时27分 ~ 15时37分]"
         },
         {
           "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
@@ -165,6 +166,29 @@
           "time_info": "05时09分"
         },
         {
+          "title": "全球最大的通用AI机器人公司智元创新表示，公司已启动赴港上市流程",
+          "url": "https://wallstreetcn.com/livenews/3139415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            17,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时36分 ~ 18时23分]"
+        },
+        {
           "title": "菲尔兹奖得主谈加入OpenAI",
           "url": "https://search.bilibili.com/all?keyword=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E8%B0%88%E5%8A%A0%E5%85%A5OpenAI",
           "source": "bilibili 热搜",
@@ -174,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "AI需求火热！英特尔财报会实录：CPU景气周期将延续至2028年",
+          "url": "https://www.cls.cn/detail/2435979",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
@@ -205,11 +240,25 @@
           "url": "https://wallstreetcn.com/articles/3777819",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 15时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 18时23分]"
+        },
+        {
+          "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2063396759536154240",
+          "source": "知乎",
+          "ranks": [
+            8,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 18时23分]"
         },
         {
           "title": "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗",
@@ -218,18 +267,6 @@
           "ranks": [
             6,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 15时37分]"
-        },
-        {
-          "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2063396759536154240",
-          "source": "知乎",
-          "ranks": [
-            8,
-            12
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -269,17 +306,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时00分 ~ 07时01分]"
-        },
-        {
-          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
-          "url": "https://www.zhihu.com/question/2063832242242184073",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
         },
         {
           "title": "为什么不见程序员害怕失业抵制AI",
@@ -381,6 +407,17 @@
           "time_info": "08时08分"
         },
         {
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "中国AI大反超，美国还能挡多久？",
           "url": "https://news.ifeng.com/c/8uzcXG8YK32",
           "source": "凤凰网",
@@ -469,6 +506,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "亚马逊升级Alexa+AI助手，新增多项智能代理功能",
+          "url": "https://wallstreetcn.com/livenews/3139397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "OpenAI：将在ChatGPT中推出健康功能。",
           "url": "https://flash.jin10.com/detail/20260724010535689800",
           "source": "金十数据",
@@ -533,6 +581,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "AMD CEO苏姿丰在AMD Advancing AI大会上表示：预计人工智能（AI）加速器市场到2030年将达到1.4万亿美元规模。 预计数据中心CPU市场到2030年将达到2200亿美元规模。 整体而言，计算市场到2030年料将达到2万亿美元规模。 MI450 AI加速器是业内速度最快的。 全速生产Helios，即将发货。",
@@ -634,13 +693,24 @@
           "time_info": "01时27分"
         },
         {
+          "title": "欧洲央行调查76家企业：AI投资升温，但制造业仍在寻找“出路”",
+          "url": "https://flash.jin10.com/detail/20260724175007668800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "【小鹏人形机器人正小批量试生产，量产产线进入最后联调阶段】小鹏人形机器人已在广州工厂正式开启小批量试生产，同时量产产线进入最后联调阶段，量产冲刺正式进入倒计时。此前，小鹏集团内部召开机器人量产动员大会，明确了关键时间节点：2026年实现人形机器人量产，预计2027年起将陆续进驻全球小鹏门店及商业场景，承担导购、讲解等服务。据悉，小鹏机器人业务整合集团在硬件、AI大模型、供应链及营销等模块能力，并将汽车业务积累的软硬件协同研发、智能制造与全球化渠道经验，系统性地复用于机器人领域，加速高阶人形机器人的量产与商业化进程。（新浪科技）",
           "url": "https://wallstreetcn.com/livenews/3139267",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
