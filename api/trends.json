@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T15:38:12.153763+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-07-26T18:05:26.880056+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -28,11 +28,12 @@
           "ranks": [
             13,
             18,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时03分 ~ 15时38分]"
+          "appearance_count": 10,
+          "time_info": "[01时03分 ~ 18时05分]"
         },
         {
           "title": "APEC人工智能未来合作开启新路径",
@@ -160,6 +161,29 @@
           "time_info": "[01时03分 ~ 06时03分]"
         },
         {
+          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
+          "url": "https://wallstreetcn.com/articles/3777930",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 18时05分]"
+        },
+        {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 18时05分]"
+        },
+        {
           "title": "假如莫奈遇上AI机器人",
           "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E8%8E%AB%E5%A5%88%E9%81%87%E4%B8%8AAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "bilibili 热搜",
@@ -183,17 +207,6 @@
           "time_info": "[01时04分 ~ 06时03分]"
         },
         {
-          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
-          "url": "https://wallstreetcn.com/articles/3777930",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 15时38分]"
-        },
-        {
           "title": "AI短剧《被裁掉的女孩》播放破2亿",
           "url": "https://www.toutiao.com/trending/7665929964277006363/",
           "source": "今日头条",
@@ -204,6 +217,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时29分 ~ 15时38分]"
+        },
+        {
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 18时05分]"
         },
         {
           "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
@@ -231,17 +256,6 @@
           "time_info": "[04时58分 ~ 08时03分]"
         },
         {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 15时38分]"
-        },
-        {
           "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
           "url": "https://flash.jin10.com/detail/20260726044659225800",
           "source": "金十数据",
@@ -252,17 +266,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 08时03分]"
-        },
-        {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 15时38分]"
         },
         {
           "title": "中国AI步步紧逼，美国科技巨头先内讧了",
@@ -343,6 +346,17 @@
           "time_info": "12时29分"
         },
         {
+          "title": "不满谷歌被重罚，特朗普威胁对欧盟征收巨额关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658424",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "英伟达与 SK 集团推出超 5000 亿美元双向交易 AI 合作计划，英伟达买内存，SK 买超算，如何解读？",
           "url": "https://www.zhihu.com/question/2064306906437571115",
           "source": "知乎",
@@ -365,6 +379,17 @@
           "time_info": "12时29分"
         },
         {
+          "title": "如何看待谷歌豪赌 AI ，自由现金流数十年来首次转负？",
+          "url": "https://www.zhihu.com/question/2063587044526404438",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "AI 会让艺术「更繁荣」还是「更廉价」？",
           "url": "https://www.zhihu.com/question/2056403801884423338",
           "source": "知乎",
@@ -374,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "AI冲击下短剧演员掀起改行潮",
@@ -393,7 +429,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -404,9 +440,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        },
+        {
+          "title": "顺钠股份：针对AI算力中心、超大型数据中心对供电可靠性及能效的要求开展前瞻性技术研究及产品研发",
+          "url": "https://flash.jin10.com/detail/20260726154611236800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "英伟达与首尔大学在韩国设立联合AI研究中心",
@@ -415,7 +462,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -426,7 +473,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         }
@@ -456,8 +503,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 15时38分]"
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 18时05分]"
         }
       ]
     }
