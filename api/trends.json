@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T06:03:27.660689+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2026-07-27T08:04:02.241067+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 08时04分]"
         },
         {
           "title": "不要长期向AI倾泻心事",
@@ -26,11 +26,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 08时04分]"
         },
         {
           "title": "AI还要跌多久",
@@ -40,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 08时04分]"
         },
         {
           "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
@@ -50,11 +51,12 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 08时04分]"
         },
         {
           "title": "AI冲击短剧行业 “戏王”也扛不住了",
@@ -67,8 +69,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 08时04分]"
         },
         {
           "title": "谁还没跳ACAI拖拉机舞",
@@ -80,8 +82,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 08时04分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -92,8 +94,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 08时04分]"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
@@ -108,6 +110,19 @@
           "time_info": "[00时04分 ~ 02时04分]"
         },
         {
+          "title": "AI短剧《被裁掉的女孩》播放破2亿",
+          "url": "https://www.toutiao.com/trending/7665929964277006363/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时12分 ~ 08时04分]"
+        },
+        {
           "title": "特朗普在社交平台上发布了一张飞机袭击哈尔克岛的AI图片。",
           "url": "https://flash.jin10.com/detail/20260727034241267800",
           "source": "金十数据",
@@ -120,18 +135,6 @@
           "time_info": "[04时13分 ~ 06时03分]"
         },
         {
-          "title": "AI短剧《被裁掉的女孩》播放破2亿",
-          "url": "https://www.toutiao.com/trending/7665929964277006363/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时12分 ~ 06时03分]"
-        },
-        {
           "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
           "url": "https://wallstreetcn.com/livenews/3139836",
           "source": "华尔街见闻-快讯",
@@ -141,6 +144,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时05分 ~ 04时13分]"
+        },
+        {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
         },
         {
           "title": "开源 Ai 性能接近闭源，那些闭源模型的估值怎么维持？",
@@ -165,15 +179,37 @@
           "time_info": "[00时04分 ~ 00时05分]"
         },
         {
+          "title": "一家三口AI识菇中毒4岁女童进ICU",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3AI%E8%AF%86%E8%8F%87%E4%B8%AD%E6%AF%924%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%BF%9BICU%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
+        },
+        {
           "title": "“停火期间”发胜利AI图，伊媒指特朗普“投资”虚拟火力",
           "url": "https://flash.jin10.com/detail/20260727043919947800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3139891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "特朗普在社交平台上发布伊朗油轮被炸毁的AI图片，并配文“动能已经耗尽”。",
@@ -182,9 +218,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "英伟达拟为OpenAI数据中心项目提供2500亿美元财务担保",
+          "url": "https://flash.jin10.com/detail/20260727072716929800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "据华尔街日报：知情人士称，英伟达(NVDA.O)正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260727072121648800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "中信建投：A股市场短期维持W型底部震荡 ，AI 仍是长期主线",
@@ -211,8 +269,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 08时04分]"
         },
         {
           "title": "日本大妈网恋“马斯克”被骗70万日元",
