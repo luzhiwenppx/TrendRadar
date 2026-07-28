@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T16:54:29.546293+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-07-28T19:22:22.063317+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 16时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时50分 ~ 19时22分]"
         },
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -49,11 +49,12 @@
             15,
             16,
             21,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时46分 ~ 16时54分]"
+          "appearance_count": 9,
+          "time_info": "[01时46分 ~ 19时22分]"
         },
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -67,6 +68,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时46分 ~ 13时51分]"
+        },
+        {
+          "title": "我国启动人工智能大模型IPv6能力提升专项行动",
+          "url": "https://www.cls.cn/detail/2438712",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 19时22分]"
+        },
+        {
+          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 19时22分]"
         },
         {
           "title": "《杭州市人工智能产业发展促进条例（草案）》拟出台 首次引入词元概念并作出促进生产等制度安排",
@@ -113,6 +137,17 @@
           "time_info": "10时50分"
         },
         {
+          "title": "抖火杯AI番外大电影",
+          "url": "https://www.douyin.com/hot/2588435",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "各个行业被AI取代的概率",
           "url": "https://s.weibo.com/weibo?q=%E5%90%84%E4%B8%AA%E8%A1%8C%E4%B8%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -134,28 +169,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
-        },
-        {
-          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
-          "url": "https://wallstreetcn.com/articles/3778088",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
-          "title": "我国启动人工智能大模型IPv6能力提升专项行动",
-          "url": "https://www.cls.cn/detail/2438712",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         },
         {
           "title": "贝莱德避开AI债券滑铁卢，123亿美元债务发行受追捧",
@@ -245,6 +258,19 @@
           "time_info": "[10时50分 ~ 16时54分]"
         },
         {
+          "title": "花40亿token做出AI督学官",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时46分 ~ 19时22分]"
+        },
+        {
           "title": "如何评价大连理工 2026 在陕招生，普通批仅 10 人全部为计算机人工智能？",
           "url": "https://www.zhihu.com/question/2063239728175043416",
           "source": "知乎",
@@ -293,16 +319,39 @@
           "time_info": "[01时46分 ~ 07时07分]"
         },
         {
-          "title": "花40亿token做出AI督学官",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
-          "source": "bilibili 热搜",
+          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
+          "url": "https://www.cls.cn/detail/2438854",
+          "source": "财联社热门",
           "ranks": [
-            9,
+            10,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时46分 ~ 03时41分]"
+          "time_info": "[16时54分 ~ 19时22分]"
+        },
+        {
+          "title": "电影《大空头》原型：任何一家科技巨头削减AI支出，股市将直线下跌！",
+          "url": "https://www.cls.cn/detail/2438626",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 19时22分]"
+        },
+        {
+          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
+          "url": "https://wallstreetcn.com/articles/3778049",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 19时22分]"
         },
         {
           "title": "奥尔特曼宣称人类已处于\"奇点\"之中 AI将带来巨大积极影响",
@@ -326,6 +375,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 03时41分]"
+        },
+        {
+          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
+          "url": "https://wallstreetcn.com/articles/3778106",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "AI挤占DRAM颗粒供应 又一模组厂预警“无货可卖”风险",
@@ -372,28 +432,6 @@
           "time_info": "05时16分"
         },
         {
-          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
-          "url": "https://wallstreetcn.com/articles/3778049",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
-          "title": "电影《大空头》原型：任何一家科技巨头削减AI支出，股市将直线下跌！",
-          "url": "https://www.cls.cn/detail/2438626",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
           "title": "据The Information：美国总统特朗普政府正在最终确定人工智能模型提交框架。",
           "url": "https://flash.jin10.com/detail/20260728041608521800",
           "source": "金十数据",
@@ -425,17 +463,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
-        },
-        {
-          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
-          "url": "https://www.cls.cn/detail/2438854",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         },
         {
           "title": "美机构：今年AI发现的网络安全漏洞数量将是去年的两倍",
@@ -543,7 +570,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -576,7 +603,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -617,7 +644,7 @@
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "饭店老板撞脸马斯克爆火",
@@ -647,13 +674,24 @@
           "time_info": "[13时51分 ~ 16时54分]"
         },
         {
+          "title": "撞脸马斯克的烧烤老板也姓马",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%92%9E%E8%84%B8%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E7%83%A7%E7%83%A4%E8%80%81%E6%9D%BF%E4%B9%9F%E5%A7%93%E9%A9%AC%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "烤肉师傅回应长相酷似马斯克走红",
           "url": "https://www.toutiao.com/trending/7666765320216166441/",
           "source": "今日头条",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
