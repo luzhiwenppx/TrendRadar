@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T19:20:08.547162+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-08-02T21:37:48.483497+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -33,6 +33,21 @@
           "time_info": "[08时01分 ~ 19时20分]"
         },
         {
+          "title": "这届AI进化到开始玩心眼了",
+          "url": "https://www.douyin.com/hot/2592773",
+          "source": "抖音",
+          "ranks": [
+            5,
+            8,
+            11,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时01分 ~ 21时37分]"
+        },
+        {
           "title": "神了,OpenAI攻克十年数学难题",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
           "source": "贴吧",
@@ -44,8 +59,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时04分 ~ 19时20分]"
+          "appearance_count": 15,
+          "time_info": "[01时04分 ~ 21时37分]"
         },
         {
           "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
@@ -82,26 +97,12 @@
           "ranks": [
             6,
             7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时04分 ~ 19时20分]"
-        },
-        {
-          "title": "这届AI进化到开始玩心眼了",
-          "url": "https://www.douyin.com/hot/2592773",
-          "source": "抖音",
-          "ranks": [
-            5,
-            8,
-            11,
             9,
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时01分 ~ 19时20分]"
+          "appearance_count": 15,
+          "time_info": "[01时04分 ~ 21时37分]"
         },
         {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
@@ -128,6 +129,19 @@
           "time_info": "[01时04分 ~ 17时13分]"
         },
         {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时37分 ~ 21时37分]"
+        },
+        {
           "title": "中国AI大模型的优势在哪里",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BC%98%E5%8A%BF%E5%9C%A8%E5%93%AA%E9%87%8C",
           "source": "百度热搜",
@@ -137,18 +151,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时12分 ~ 19时20分]"
-        },
-        {
-          "title": "怎么看待AI大回调，大摩120页研报深度解读",
-          "url": "https://wallstreetcn.com/articles/3778502",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时37分 ~ 19时20分]"
         },
         {
           "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
@@ -176,15 +178,17 @@
           "time_info": "[11时45分 ~ 17时13分]"
         },
         {
-          "title": "广发策略：AI资产在7月份的快速回撤之后 后续大概率有较可观的修正空间",
-          "url": "https://flash.jin10.com/detail/20260802182750759800",
-          "source": "金十数据",
+          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
+          "url": "https://wallstreetcn.com/articles/3778505",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10,
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时12分 ~ 21时37分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -199,6 +203,18 @@
           "time_info": "[01时04分 ~ 06时04分]"
         },
         {
+          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
+          "url": "https://www.cls.cn/detail/2443437",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时12分 ~ 21时37分]"
+        },
+        {
           "title": "人工智能助力直肠癌个性化化疗",
           "url": "https://wallstreetcn.com/livenews/3143612",
           "source": "华尔街见闻-快讯",
@@ -211,16 +227,16 @@
           "time_info": "[01时05分 ~ 08时01分]"
         },
         {
-          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
-          "url": "https://wallstreetcn.com/articles/3778505",
-          "source": "华尔街见闻",
+          "title": "广发策略：AI资产在7月份的快速回撤之后 后续大概率有较可观的修正空间",
+          "url": "https://flash.jin10.com/detail/20260802182750759800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            8
+            3,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时12分 ~ 19时20分]"
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 21时37分]"
         },
         {
           "title": "天才女友 AI片头",
@@ -233,17 +249,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时37分 ~ 17时13分]"
-        },
-        {
-          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
-          "url": "https://www.cls.cn/detail/2443437",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时12分 ~ 19时20分]"
         },
         {
           "title": "美两家AI巨头承认自家大模型“失控”",
@@ -281,15 +286,37 @@
           "time_info": "[14时37分 ~ 14时38分]"
         },
         {
+          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
+          "url": "https://wallstreetcn.com/articles/3778516",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "中金：AI回调高度类似2000年四轮回撤，本轮企稳需三大压力缓解",
           "url": "https://flash.jin10.com/detail/20260802172654110800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
+          "url": "https://wallstreetcn.com/livenews/3143681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
