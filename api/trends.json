@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T03:42:55.703315+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-08-06T05:17:01.843037+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 05时17分]"
         },
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 05时17分]"
         },
         {
           "title": "Yardeni Research Inc.总裁兼首席投资策略师Yardeni认为，对于一个高增长行业来说，那是比较低的估值倍数。 抛售科技板块的投资者“已经发现他们实际上把这些这些股票变成了促销品”。 将纳斯达克100指数推进技术性回调的抛售也消除了其过高的估值，从而为反弹创造了条件。 加之强劲的季报和持续旺盛的人工智能需求，进一步上涨也有了稳固的基础。（彭博）",
@@ -37,7 +37,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
         },
@@ -48,7 +48,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
         },
@@ -59,9 +59,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
+          "url": "https://www.cls.cn/detail/2446407",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 05时17分]"
         },
         {
           "title": "梁文锋会不会成为中国AI里程碑人物？",
@@ -76,17 +88,6 @@
           "time_info": "[01时44分 ~ 03时42分]"
         },
         {
-          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
-          "url": "https://www.cls.cn/detail/2446407",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 03时42分]"
-        },
-        {
           "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
           "url": "https://www.zhihu.com/question/2068265537105302957",
           "source": "知乎",
@@ -95,8 +96,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 05时17分]"
         },
         {
           "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
@@ -104,11 +105,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 05时17分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -118,8 +120,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 05时17分]"
         },
         {
           "title": "Meta推出首款AI编程智能体，正面挑战Anthropic与OpenAI。",
@@ -128,9 +130,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：市场杠杆相当高。 市场杠杆越高，发生市场动荡的概率就越大。 AI Token相关支出 “将得到控制”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3145598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "谷歌将因被指滥用广告权力而在英国面临集体诉讼",
@@ -150,7 +163,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
         },
@@ -172,7 +185,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
         },
@@ -183,7 +196,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
         },
@@ -194,7 +207,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
         },
@@ -216,7 +229,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
         },
@@ -253,11 +266,12 @@
           "url": "https://www.toutiao.com/trending/7669518703364640297/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 05时17分]"
         }
       ]
     }
