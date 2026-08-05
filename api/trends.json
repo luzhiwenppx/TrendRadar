@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T12:14:31.547000+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2026-08-05T15:43:33.806994+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "AI做题吊打日本名校状元",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 12时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 15时43分]"
         },
         {
           "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
@@ -56,6 +57,29 @@
           "time_info": "[00时56分 ~ 08时09分]"
         },
         {
+          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778691",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时08分 ~ 15时43分]"
+        },
+        {
+          "title": "AI短剧市场有多火？虚拟演员商单报价超真人网红 但爆款率不足0.5%困局待解",
+          "url": "https://www.cls.cn/detail/2445817",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 15时43分]"
+        },
+        {
           "title": "SpaceX资本开支不及预期，在AI领域亏损超预期",
           "url": "https://wallstreetcn.com/livenews/3144935",
           "source": "华尔街见闻-快讯",
@@ -67,27 +91,15 @@
           "time_info": "04时28分"
         },
         {
-          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778691",
-          "source": "华尔街见闻",
+          "title": "鸿海：7月销售额9,465.1亿元台币，同比增长54.2％。 展望第三季度，AI机架出货量预计将保持增长。 整体运营前景预计将实现环比和同比双增长。 仍有必要监测全球政经局势动荡所带来的影响。",
+          "url": "https://wallstreetcn.com/livenews/3145241",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时08分 ~ 12时14分]"
-        },
-        {
-          "title": "AI短剧市场有多火？虚拟演员商单报价超真人网红 但爆款率不足0.5%困局待解",
-          "url": "https://www.cls.cn/detail/2445817",
-          "source": "财联社热门",
-          "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "15时43分"
         },
         {
           "title": "报道：美国告知AI企业，将不对开放权重模型进行安全测试",
@@ -125,6 +137,17 @@
           "time_info": "[00时56分 ~ 06时18分]"
         },
         {
+          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
+          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 15时43分]"
+        },
+        {
           "title": "如何看待网友用 AI 生成小米车祸视频被行政处罚？ AI 让造谣成本变低，有什么办法能管控吗？",
           "url": "https://www.zhihu.com/question/2067720724765045518",
           "source": "知乎",
@@ -147,6 +170,17 @@
           "time_info": "[04时27分 ~ 04时28分]"
         },
         {
+          "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长。",
+          "url": "https://flash.jin10.com/detail/20260805153519379800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
           "title": "zHBM！三星公布全新3D内存路线图，力争在AI技术领域取得领先",
           "url": "https://wallstreetcn.com/livenews/3144926",
           "source": "华尔街见闻-快讯",
@@ -164,20 +198,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
         {
-          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
-          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
-          "source": "凤凰网",
+          "title": "梁文峰会不会成为中国 AI 里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "15时43分"
         },
         {
           "title": "京东外卖推出 AI 头盔，能语音接单、规划路线、解析备注，对骑手安全和效率有提升吗？会成为外卖标配吗？",
@@ -186,7 +220,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -241,7 +275,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -340,7 +374,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -381,7 +415,7 @@
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "马斯克又悄悄做出一个独角兽",
@@ -442,6 +476,17 @@
           "time_info": "06时18分"
         },
         {
+          "title": "马斯克向科技界“投下炸弹”：SpaceX只用英伟达GPU，因为性能最佳！",
+          "url": "https://www.cls.cn/detail/2445835",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
           "title": "马斯克：星舰预计到2027年底可安全载人。",
           "url": "https://flash.jin10.com/detail/20260805053022430800",
           "source": "金十数据",
@@ -462,6 +507,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "马斯克回应一个月亏掉2.45万亿",
+          "url": "https://www.toutiao.com/trending/7669518703364640297/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "马斯克：SpaceX(SPCX.O)现在目标是2030年实现1万亿美元收入，而不是2031年。",
