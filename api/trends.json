@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T19:51:18.811804+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2026-08-07T21:14:20.157753+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
@@ -101,11 +101,12 @@
           "source": "凤凰网",
           "ranks": [
             7,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时57分 ~ 19时51分]"
+          "appearance_count": 4,
+          "time_info": "[18时57分 ~ 21时14分]"
         },
         {
           "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
@@ -117,6 +118,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        },
+        {
+          "title": "中国人能飞AI版vs实拍版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            14,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时04分 ~ 21时14分]"
+        },
+        {
+          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
+          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时04分 ~ 21时14分]"
         },
         {
           "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
@@ -144,41 +171,17 @@
           "time_info": "[08时43分 ~ 13时44分]"
         },
         {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时04分 ~ 19时51分]"
-        },
-        {
-          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
-          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时04分 ~ 19时51分]"
-        },
-        {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
           "url": "https://www.cls.cn/detail/2448537",
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时57分 ~ 19时51分]"
+          "appearance_count": 4,
+          "time_info": "[18时57分 ~ 21时14分]"
         },
         {
           "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
@@ -189,8 +192,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时57分 ~ 21时14分]"
+        },
+        {
+          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
+          "url": "https://wallstreetcn.com/articles/3778904",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时57分 ~ 19时51分]"
+          "time_info": "[19时50分 ~ 21时14分]"
         },
         {
           "title": "ai漫剧男主唯一塌房方式被找到了",
@@ -202,17 +217,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时22分 ~ 15时23分]"
-        },
-        {
-          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
-          "url": "https://wallstreetcn.com/articles/3778904",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 19时51分]"
         },
         {
           "title": "英伟达急寻中国AI基站供应商，明后年启动端侧算力组网",
