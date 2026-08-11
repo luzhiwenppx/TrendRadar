@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T05:54:08.991845+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-08-12T06:49:31.581935+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时49分]"
         },
         {
           "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时49分]"
         },
         {
           "title": "AI打开了我童年记忆的百宝箱",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时49分]"
         },
         {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时49分]"
         },
         {
           "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
@@ -66,6 +66,44 @@
           "time_info": "[01时01分 ~ 04时02分]"
         },
         {
+          "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
+          "url": "https://www.zhihu.com/question/2068955233896640772",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时49分]"
+        },
+        {
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时49分]"
+        },
+        {
+          "title": "给AI时代一点手搓实拍的小震撼",
+          "url": "https://www.douyin.com/hot/2605459",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时49分]"
+        },
+        {
           "title": "据The Information：OpenAI特别项目负责人、前首席运营官Brad Lightcap即将离职。",
           "url": "https://flash.jin10.com/detail/20260812003202953800",
           "source": "金十数据",
@@ -77,26 +115,39 @@
           "time_info": "01时01分"
         },
         {
-          "title": "谷歌将在美洲新增三条海底光缆系统",
-          "url": "https://wallstreetcn.com/livenews/3148264",
-          "source": "华尔街见闻-快讯",
+          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2451601",
+          "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时49分]"
+        },
+        {
+          "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
+          "url": "https://www.cls.cn/detail/2451331",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时49分]"
+        },
+        {
+          "title": "干湿之困：AI制药如何打通“最后一公里”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时49分]"
         },
         {
           "title": "谷歌(GOOG.O)：将视频点播服务引入Google TV Freeplay。",
@@ -121,64 +172,15 @@
           "time_info": "02时03分"
         },
         {
-          "title": "给AI时代一点手搓实拍的小震撼",
-          "url": "https://www.douyin.com/hot/2605459",
-          "source": "抖音",
+          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时54分]"
-        },
-        {
-          "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
-          "url": "https://www.zhihu.com/question/2068955233896640772",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时54分]"
-        },
-        {
-          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2451601",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时54分]"
-        },
-        {
-          "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
-          "url": "https://www.cls.cn/detail/2451331",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时54分]"
-        },
-        {
-          "title": "干湿之困：AI制药如何打通“最后一公里”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "SpaceXAI：Grok聊天机器人已处于测试阶段，今日起向订阅SuperGrok Heavy、Cursor Ultra与Cursor Teams Premium套餐的桌面端及iOS用户开放使用。",
@@ -191,6 +193,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 02时03分]"
+        },
+        {
+          "title": "谷歌将在美洲新增三条海底光缆系统",
+          "url": "https://wallstreetcn.com/livenews/3148264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时49分]"
         },
         {
           "title": "谷歌：Gemini月活用户数超过10亿",
@@ -229,6 +243,18 @@
           "time_info": "[02时03分 ~ 04时02分]"
         },
         {
+          "title": "Accel Partners LP.融资35亿美元，从而投资（那些）新兴的全球AI初创公司。",
+          "url": "https://wallstreetcn.com/livenews/3148254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时49分]"
+        },
+        {
           "title": "OpenAI高管Brad Lightcap将离职，开启“新项目”",
           "url": "https://wallstreetcn.com/livenews/3148170",
           "source": "华尔街见闻-快讯",
@@ -241,15 +267,37 @@
           "time_info": "[01时01分 ~ 02时03分]"
         },
         {
-          "title": "Accel Partners LP.融资35亿美元，从而投资（那些）新兴的全球AI初创公司。",
-          "url": "https://wallstreetcn.com/livenews/3148254",
-          "source": "华尔街见闻-快讯",
+          "title": "亚马逊云服务(AWS)：OpenAI的Daybreak Red和Daybreak Blue现已面向Amazon Bedrock上的符合条件的客户开放。",
+          "url": "https://flash.jin10.com/detail/20260812055132698800",
+          "source": "金十数据",
           "ranks": [
-            10
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时54分"
+          "time_info": "06时49分"
+        },
+        {
+          "title": "险资二季度持仓净增1.83亿股，近期积极调研AI算力、医药与硬科技",
+          "url": "https://wallstreetcn.com/livenews/3148270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "OpenAI向亚马逊Redrock开放Daybreak权限。",
+          "url": "https://wallstreetcn.com/livenews/3148266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "美国财长贝森特：我们欢迎Meta发布Muse Glimmer，这是美国创新取得的又一胜利。保持美国在人工智能领域的领先地位意味着推进开放权重和封闭权重模型，确保未来建立在可信赖的基础之上。",
@@ -302,7 +350,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         }
@@ -310,7 +358,7 @@
     },
     {
       "keyword_group": "Dan Koe Elon Musk 马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马斯克：强烈推荐大家去中国看看",
@@ -320,11 +368,12 @@
             23,
             21,
             12,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时49分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX跌幅扩大至5%，刷新日低。",
@@ -337,6 +386,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 02时03分]"
+        },
+        {
+          "title": "马斯克母子强推中国游",
+          "url": "https://www.toutiao.com/trending/7672030137794248730/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         }
       ]
     }
