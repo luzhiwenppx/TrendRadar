@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T10:02:42.156410+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-08-11T11:54:00.719855+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 10时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 11时54分]"
         },
         {
           "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
@@ -26,11 +26,12 @@
           "ranks": [
             5,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 10时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 11时54分]"
         },
         {
           "title": "AI挤占短剧业,真人演员遭偷家",
@@ -38,11 +39,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 10时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 11时54分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -73,11 +75,12 @@
           "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8A%E5%81%9A%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E7%AA%81%E7%A0%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 11时54分]"
         },
         {
           "title": "大摩：计划未来十年促成最高1.5万亿美元资金，用于美国创新基建计划，涵盖AI、半导体等战略领域",
@@ -190,6 +193,18 @@
           "time_info": "[04时48分 ~ 07时39分]"
         },
         {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 11时54分]"
+        },
+        {
           "title": "英伟达：联手高盛等华尔街巨头，建立AI算力基础设施融资平台，来撬动超过5000亿美元的第三方资本",
           "url": "https://wallstreetcn.com/livenews/3147680",
           "source": "华尔街见闻-快讯",
@@ -201,6 +216,40 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时49分 ~ 06时42分]"
+        },
+        {
+          "title": "用AI重返那年相遇的青涩夏天",
+          "url": "https://www.douyin.com/hot/2605104",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 11时54分]"
+        },
+        {
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 11时54分]"
+        },
+        {
+          "title": "涉及中国AI，日本自卫队极为担心",
+          "url": "https://news.ifeng.com/c/8vUvXS11rLG",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 11时54分]"
         },
         {
           "title": "英伟达(NVDA.O)：本公司及合作伙伴将为人工智能基础设施客户创建专用资金池。",
@@ -371,17 +420,6 @@
           "time_info": "[05时46分 ~ 06时42分]"
         },
         {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
           "title": "OpenAI推出GPT-5.6-Cyber 面向安全人员开放更强AI能力",
           "url": "https://flash.jin10.com/detail/20260811012108617800",
           "source": "金十数据",
@@ -404,28 +442,6 @@
           "time_info": "03时03分"
         },
         {
-          "title": "用AI重返那年相遇的青涩夏天",
-          "url": "https://www.douyin.com/hot/2605104",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
           "title": "取消涨价50%计划：Anthropic永久锁定Sonnet 5低价，AI代理成本趋稳",
           "url": "https://wallstreetcn.com/livenews/3147724",
           "source": "华尔街见闻-快讯",
@@ -443,7 +459,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -547,6 +563,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "千问开放AI眼镜生态 支持自建导游、教练、巡检等多种skill",
+          "url": "https://flash.jin10.com/detail/20260811111212869800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
           "title": "券商密集上调科技股评级，AI产业链最受青睐",
           "url": "https://wallstreetcn.com/livenews/3147716",
           "source": "华尔街见闻-快讯",
@@ -589,6 +616,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 有色金属 铜",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股电力板块异动拉升，华能蒙电直线封板，兆新股份此前涨停，立新能源、京能电力、百通能源、华电辽能跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         }
       ]
     },
