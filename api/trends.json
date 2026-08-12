@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T14:19:09.130551+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-08-12T18:11:31.789565+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 43,
+      "match_count": 48,
       "titles": [
         {
           "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
@@ -44,6 +44,18 @@
           "time_info": "[01时01分 ~ 10时14分]"
         },
         {
+          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时49分 ~ 18时11分]"
+        },
+        {
           "title": "给AI时代一点手搓实拍的小震撼",
           "url": "https://www.douyin.com/hot/2605459",
           "source": "抖音",
@@ -70,18 +82,6 @@
           "time_info": "[01时01分 ~ 07时46分]"
         },
         {
-          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时49分 ~ 14时19分]"
-        },
-        {
           "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
           "url": "https://www.zhihu.com/question/2068955233896640772",
           "source": "知乎",
@@ -98,6 +98,18 @@
           "time_info": "[01时01分 ~ 10时14分]"
         },
         {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 18时11分]"
+        },
+        {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
           "url": "https://www.cls.cn/detail/2451601",
           "source": "财联社热门",
@@ -108,6 +120,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 10时14分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时18分 ~ 18时11分]"
         },
         {
           "title": "城市竞争进入AI答案时代",
@@ -132,18 +156,6 @@
           "time_info": "[01时01分 ~ 04时02分]"
         },
         {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 14时19分]"
-        },
-        {
           "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
           "url": "https://www.cls.cn/detail/2451331",
           "source": "财联社热门",
@@ -165,17 +177,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 07时46分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
         },
         {
           "title": "AI产业给韩国人带来什么",
@@ -256,6 +257,17 @@
           "time_info": "[10时14分 ~ 14时19分]"
         },
         {
+          "title": "【但斌美股持仓“大换血”】具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。同时，东方港湾还清仓了谷歌-A及二倍做多谷歌ETF。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3148567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
           "title": "谷歌将在美洲新增三条海底光缆系统",
           "url": "https://wallstreetcn.com/livenews/3148264",
           "source": "华尔街见闻-快讯",
@@ -306,6 +318,17 @@
           "time_info": "[05时54分 ~ 07时46分]"
         },
         {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.toutiao.com/trending/7672213418782588964/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时18分 ~ 18时11分]"
+        },
+        {
           "title": "亚马逊云服务(AWS)：OpenAI的Daybreak Red和Daybreak Blue现已面向Amazon Bedrock上的符合条件的客户开放。",
           "url": "https://flash.jin10.com/detail/20260812055132698800",
           "source": "金十数据",
@@ -354,17 +377,6 @@
           "time_info": "[06时49分 ~ 07时46分]"
         },
         {
-          "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.toutiao.com/trending/7672213418782588964/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
-        },
-        {
           "title": "OpenAI高管Brad Lightcap将离职，开启“新项目”",
           "url": "https://wallstreetcn.com/livenews/3148170",
           "source": "华尔街见闻-快讯",
@@ -398,6 +410,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时18分 ~ 14时19分]"
+        },
+        {
+          "title": "宁德时代成立控股新公司 含AI软件开发业务",
+          "url": "https://flash.jin10.com/detail/20260812180140130800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         },
         {
           "title": "桑德斯要求三大AI公司暂停开发",
@@ -444,6 +467,28 @@
           "time_info": "04时02分"
         },
         {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.douyin.com/hot/2607024",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
+          "title": "FDE为何成为AI落地时代的新贵",
+          "url": "https://www.toutiao.com/trending/7672947093631893546/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
           "title": "SpaceXAI：Grok Bot聊天机器人目前处于测试阶段，今日向SuperGrok Heavy、Cursor Ultra和Cursor Teams Premium订阅用户开放，支持桌面端和iOS端使用。",
           "url": "https://flash.jin10.com/detail/20260812005839889800",
           "source": "金十数据",
@@ -453,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "天普股份：截至目前公司及天普欣才均无开展人工智能相关业务的计划",
+          "url": "https://wallstreetcn.com/livenews/3148546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         },
         {
           "title": "国行苹果AI支持机型",
@@ -505,7 +561,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         }
@@ -537,11 +593,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 14时19分]"
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 18时11分]"
         },
         {
           "title": "马斯克推荐“去中国看看”打了谁的脸",
@@ -551,8 +608,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 14时19分]"
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 18时11分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX跌幅扩大至5%，刷新日低。",
