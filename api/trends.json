@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T05:52:37.184180+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-13T06:47:03.346658+08:00",
+  "total_titles_processed": 354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 06时47分]"
         },
         {
           "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 06时47分]"
         },
         {
           "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
@@ -48,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 06时47分]"
         },
         {
           "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
@@ -59,30 +59,43 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 06时47分]"
+        },
+        {
+          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
+          "url": "https://wallstreetcn.com/articles/3779285",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 06时47分]"
         },
         {
           "title": "周三（8月12日），美股行业ETF普遍收涨，半导体ETF收涨2.32%，KBW银行ETF涨1.08%，房地产ETF涨0.91%，机器人与人工智能ETF涨0.88%，地区银行ETF涨0.74%。太阳能ETF则收跌0.70%，可选消费ETF收跌1.15%。",
           "url": "https://wallstreetcn.com/livenews/3148756",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时47分]"
         },
         {
           "title": "AI概念股飙升，存储芯片股方面，SK海力士涨超9%，闪迪涨超5%，西部数据涨超3%，希捷涨超7%，美光科技涨超4%；半导体设备股方面，应用材料涨超4%，泛林集团涨超4%，科磊涨超3%；新一代AI云服务公司方面，Nebius涨超34%，CoreWeave涨超19%；光通信和光子产品公司方面，Lumentum涨超13%，Coherent涨超8%，康宁涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3148753",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时47分]"
         },
         {
           "title": "三角洲AI夏日晚会",
@@ -109,8 +122,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 06时47分]"
         }
       ]
     }
