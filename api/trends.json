@@ -1,22 +1,58 @@
 {
-  "generated_at": "2026-08-13T07:46:57.890906+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-08-13T10:19:55.034760+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
           "url": "https://www.cls.cn/detail/2452911",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 10时19分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时52分 ~ 10时19分]"
+        },
+        {
+          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
+          "url": "https://wallstreetcn.com/articles/3779299",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时52分 ~ 10时19分]"
+        },
+        {
+          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
+          "url": "https://www.cls.cn/detail/2452579",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时52分 ~ 10时19分]"
         },
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -30,41 +66,6 @@
           "time_info": "05时52分"
         },
         {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时52分 ~ 07时46分]"
-        },
-        {
-          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
-          "url": "https://wallstreetcn.com/articles/3779299",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时52分 ~ 07时46分]"
-        },
-        {
-          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
-          "url": "https://www.cls.cn/detail/2452579",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时52分 ~ 07时46分]"
-        },
-        {
           "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
           "url": "https://www.zhihu.com/question/2070508935673378471",
           "source": "知乎",
@@ -73,8 +74,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时52分 ~ 07时46分]"
+          "appearance_count": 5,
+          "time_info": "[05时52分 ~ 10时19分]"
         },
         {
           "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
@@ -85,8 +86,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时46分 ~ 07时46分]"
+          "appearance_count": 4,
+          "time_info": "[06时46分 ~ 10时19分]"
         },
         {
           "title": "周三（8月12日），美股行业ETF普遍收涨，半导体ETF收涨2.32%，KBW银行ETF涨1.08%，房地产ETF涨0.91%，机器人与人工智能ETF涨0.88%，地区银行ETF涨0.74%。太阳能ETF则收跌0.70%，可选消费ETF收跌1.15%。",
@@ -113,13 +114,25 @@
           "time_info": "[05时52分 ~ 06时47分]"
         },
         {
+          "title": "三角洲AI夏日晚会",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2AI%E5%A4%8F%E6%97%A5%E6%99%9A%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 10时19分]"
+        },
+        {
           "title": "路透调查显示，超过80%的日本企业仅部分使用或根本不使用人工智能。",
           "url": "https://flash.jin10.com/detail/20260813070104983800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -130,7 +143,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -141,9 +154,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "Anthropic拟60亿美元收购Decart 强化AI基础设施",
+          "url": "https://flash.jin10.com/detail/20260813100045009800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时19分"
         },
         {
           "title": "据悉苹果洽谈向出版商付费，以提升其人工智能Siri",
@@ -152,7 +176,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -163,9 +187,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "Anthropic据悉正在洽谈以60亿美元收购AI新创公司Decart。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3148828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时19分"
         },
         {
           "title": "美股AI算力和存储芯片爆发",
@@ -174,7 +209,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -185,20 +220,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
         {
-          "title": "三角洲AI夏日晚会",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2AI%E5%A4%8F%E6%97%A5%E6%99%9A%E4%BC%9A",
-          "source": "bilibili 热搜",
+          "title": "张朝阳谈AI如何帮助物理研究",
+          "url": "https://www.douyin.com/hot/2607629",
+          "source": "抖音",
           "ranks": [
-            28
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时52分"
+          "time_info": "10时19分"
         }
       ]
     },
@@ -214,8 +249,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时52分 ~ 07时46分]"
+          "appearance_count": 5,
+          "time_info": "[05时52分 ~ 10时19分]"
         }
       ]
     }
