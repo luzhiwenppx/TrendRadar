@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T12:52:46.295560+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-08-14T14:18:19.377884+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -16,8 +16,73 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 12时52分]"
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 14时18分]"
+        },
+        {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 14时18分]"
+        },
+        {
+          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 14时18分]"
+        },
+        {
+          "title": "用AI给小时候的自己做头像",
+          "url": "https://www.douyin.com/hot/2608882",
+          "source": "抖音",
+          "ranks": [
+            13,
+            7,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 14时18分]"
+        },
+        {
+          "title": "用AI给朋友做个专属小游戏",
+          "url": "https://www.douyin.com/hot/2608715",
+          "source": "抖音",
+          "ranks": [
+            21,
+            18,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 14时18分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 14时18分]"
         },
         {
           "title": "铜铝需求逻辑正在从地产转向AI、电网和电气化",
@@ -29,6 +94,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "AI拍出中国版怪奇物语",
+          "url": "https://www.douyin.com/hot/2608564",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19,
+            17,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 14时18分]"
         },
         {
           "title": "谷歌发布Gemini 3.7 Flash 但旗舰模型仍遥遥无期",
@@ -59,72 +139,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
-        },
-        {
-          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
-          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
-          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779371",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 12时52分]"
-        },
-        {
-          "title": "用AI给小时候的自己做头像",
-          "url": "https://www.douyin.com/hot/2608882",
-          "source": "抖音",
-          "ranks": [
-            13,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 12时52分]"
-        },
-        {
-          "title": "用AI给朋友做个专属小游戏",
-          "url": "https://www.douyin.com/hot/2608715",
-          "source": "抖音",
-          "ranks": [
-            21,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 12时52分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 12时52分]"
         },
         {
           "title": "AI驱动半导体景气度高涨，两大晶圆厂第二季度收入均创新高",
@@ -139,18 +156,16 @@
           "time_info": "[06时48分 ~ 07时46分]"
         },
         {
-          "title": "AI拍出中国版怪奇物语",
-          "url": "https://www.douyin.com/hot/2608564",
-          "source": "抖音",
+          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
+          "url": "https://www.zhihu.com/question/2068993919958742400",
+          "source": "知乎",
           "ranks": [
-            18,
-            19,
-            17,
-            21
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 10时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 14时18分]"
         },
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -166,6 +181,18 @@
           "time_info": "[02时02分 ~ 07时46分]"
         },
         {
+          "title": "苹果未来几个月将在中国发布一套AI工具，该AI模型的训练得到阿里巴巴的支持。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3149477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 14时18分]"
+        },
+        {
           "title": "OpenAI 上市前年化营收突破 400 亿美元",
           "url": "https://wallstreetcn.com/livenews/3149336",
           "source": "华尔街见闻-快讯",
@@ -176,6 +203,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 07时46分]"
+        },
+        {
+          "title": "AI用配音演员声线接广告",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%94%A8%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E5%A3%B0%E7%BA%BF%E6%8E%A5%E5%B9%BF%E5%91%8A&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 14时18分]"
         },
         {
           "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
@@ -222,17 +260,6 @@
           "time_info": "02时02分"
         },
         {
-          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
-          "url": "https://www.zhihu.com/question/2068993919958742400",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
           "title": "谷歌(GOOG.O)：Gemini Spark从今天起将使用Gemini 3.7 Flash。",
           "url": "https://flash.jin10.com/detail/20260814010716822800",
           "source": "金十数据",
@@ -253,17 +280,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "苹果未来几个月将在中国发布一套AI工具，该AI模型的训练得到阿里巴巴的支持。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3149477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
         },
         {
           "title": "“大空头”再炮轰：英伟达AI扩张有“安然的影子”、危害“高出几个数量级”",
@@ -327,7 +343,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -349,7 +365,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -382,7 +398,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -426,7 +442,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -476,7 +492,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
