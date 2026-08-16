@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T09:38:11.678856+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-08-16T12:40:44.860513+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "LLM 人工智能 AI 谷歌 google",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "博通一夜跌6%：AI的下一道坎，是融资成本",
@@ -13,11 +13,25 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 09时38分]"
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 12时40分]"
+        },
+        {
+          "title": "最优“AI泡沫交易”：同时做多“傲慢”与“偏见”",
+          "url": "https://wallstreetcn.com/articles/3779514",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 12时40分]"
         },
         {
           "title": "美国大模型帮日本对AI进行投毒",
@@ -31,15 +45,27 @@
           "time_info": "[09时37分 ~ 09时38分]"
         },
         {
-          "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
-          "url": "https://wallstreetcn.com/livenews/3150021",
+          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
+          "url": "https://www.cls.cn/detail/2455147",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 12时40分]"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/livenews/3150029",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时38分"
+          "time_info": "12时40分"
         },
         {
           "title": "美国大模型帮日本对AI进行投毒",
@@ -53,28 +79,54 @@
           "time_info": "07时24分"
         },
         {
-          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
-          "url": "https://www.cls.cn/detail/2455147",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 09时38分]"
-        },
-        {
-          "title": "最优“AI泡沫交易”：同时做多“傲慢”与“偏见”",
-          "url": "https://wallstreetcn.com/articles/3779514",
+          "title": "a16z史上最大投资！All in Uber创始人，下注工业AI“从比特到原子”",
+          "url": "https://wallstreetcn.com/articles/3779510",
           "source": "华尔街见闻",
           "ranks": [
+            9,
             8,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 09时38分]"
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 12时40分]"
+        },
+        {
+          "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
+          "url": "https://wallstreetcn.com/livenews/3150021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 12时40分]"
+        },
+        {
+          "title": "60岁AI动画赛道新人",
+          "url": "https://www.douyin.com/hot/2610767",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 12时40分]"
+        },
+        {
+          "title": "大爷手搓AI长片赛博英雄传",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            21,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 12时40分]"
         },
         {
           "title": "“AI版金融创新”：CDO vs CCO=2008 vs 2026？",
@@ -99,39 +151,40 @@
           "time_info": "[07时24分 ~ 09时38分]"
         },
         {
-          "title": "a16z史上最大投资！All in Uber创始人，下注工业AI“从比特到原子”",
-          "url": "https://wallstreetcn.com/articles/3779510",
+          "title": "“AI版金融创新”：博通大跌背后的AI芯片“卖方担保”模式",
+          "url": "https://wallstreetcn.com/articles/3779508",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
+            10,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时24分 ~ 09时38分]"
+          "time_info": "[09时37分 ~ 12时40分]"
         },
         {
-          "title": "大爷手搓AI长片赛博英雄传",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
-          "source": "bilibili 热搜",
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            21
+            11,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时24分 ~ 09时38分]"
+          "time_info": "[09时37分 ~ 12时40分]"
         },
         {
-          "title": "60岁AI动画赛道新人",
-          "url": "https://www.douyin.com/hot/2610767",
+          "title": "我和闺蜜联手掀翻AI穿书剧本",
+          "url": "https://www.douyin.com/hot/2610954",
           "source": "抖音",
           "ranks": [
-            9
+            28,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时24分 ~ 09时38分]"
+          "time_info": "[09时37分 ~ 12时40分]"
         },
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -156,26 +209,16 @@
           "time_info": "[09时37分 ~ 09时38分]"
         },
         {
-          "title": "“AI版金融创新”：博通大跌背后的AI芯片“卖方担保”模式",
-          "url": "https://wallstreetcn.com/articles/3779508",
-          "source": "华尔街见闻",
+          "title": "福建：完善AI基础设施建设，加快构建全省一体化算力网",
+          "url": "https://wallstreetcn.com/livenews/3150009",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时37分 ~ 09时38分]"
-        },
-        {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 09时38分]"
+          "time_info": "[09时38分 ~ 12时40分]"
         },
         {
           "title": "机构：AI“芯片通胀”正冲击英国经济",
@@ -212,15 +255,15 @@
           "time_info": "[09时37分 ~ 09时38分]"
         },
         {
-          "title": "我和闺蜜联手掀翻AI穿书剧本",
-          "url": "https://www.douyin.com/hot/2610954",
-          "source": "抖音",
+          "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
+          "url": "https://wallstreetcn.com/articles/3779518",
+          "source": "华尔街见闻",
           "ranks": [
-            28
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 09时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "福建：完善AI基础设施建设，加快构建全省一体化算力网",
@@ -229,18 +272,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "福建：完善AI基础设施建设，加快构建全省一体化算力网",
-          "url": "https://wallstreetcn.com/livenews/3150009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
         },
